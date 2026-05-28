@@ -12,6 +12,3 @@ Zadržavamo:
 * preciznost pojmova
 * logičku strukturu dijaloga
 * ritam pitanja i odgovora.
-
-
-opsednutost telom
