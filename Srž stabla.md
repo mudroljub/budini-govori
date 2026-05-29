@@ -8,14 +8,14 @@ Ako uzme samo grane i lišće, misleći da je pronašao ono što traži, prevari
 
 Tako je i sa čovekom koji ode u askete i stekne darove, poštovanje i ugled. Ako se time zadovolji, uzeo je od ovog puta samo granje i lišće. 
 
-Ako ne ostane na tome, već razvije vrlinu, ali se njome zadovolji i počne da hvali sebe a omalovažava druge, uzeo je samo koru stabla. 
+Ako nastavi dalje i razvije vrlinu, i zadovoljan sobom počne da se hvali i omalovažava druge, uzeo je samo koru stabla. 
 
-Ako ne ostane na vrlini, već razvije sabranost, ali se njome zadovolji, uzeo je samo unutrašnji sloj drveta. 
+Ako nastavi dalje i razvije sabranost, i postane zadovoljan sobom, uzeo je samo unutrašnji sloj drveta. 
 
-Ako ne ostane na sabranosti, već stekne uvid, ali se time zadovolji, uzeo je samo meko drvo. 
+Ako nastavi dalje i stekne uvid, i postane zadovoljan sobom, uzeo je samo meko drvo. 
 
-Ali ako ne ostane na uvidu, već istraje dok ne dostigne oslobođenje, tada je uzeo srž stabla. 
+Ali ako nastavi dalje i istraje dok konačno ne dostigne oslobođenje, uzeo je srž stabla. 
 
 Zato korist ovog puta nisu darovi, poštovanje i ugled. Nije ni vrlina. Nije ni sabranost. Nije ni uvid.
 
-Neopozivo oslobođenje uma jeste cilj ovog puta. To je njegova srž i njegov vrhunac. 
+Potpuno oslobođenje uma jeste cilj ovog puta. To je njegova srž i njegov vrhunac. 
