@@ -14,7 +14,7 @@ Jednom je Gotama boravio kraj Savatija, u Đetinom gaju. Obrati se okupljenima:
 
 — Kada vidi jasno, um se oslobađa želje, vezivanja i neznanja. Tada razume: „Slobodan sam.”
 
-Nedaleko je sedeo brahman Sundarika Bharadvadža. Upita:
+Nedaleko je sedeo sveštenik Sundarika Bharadvadža. Upita:
 
 — Gotama, ideš li ponekad na svetu reku da se okupaš?
 
@@ -26,6 +26,6 @@ Gotama odgovori:
 
 — Čovek može da se kupa ceo život u svetim rekama i da ipak ostane isti. Voda ne može oprati zlobu, pohlepu i okrutnost. Onome ko je čist u srcu svaki dan je svet. Ako ne lažeš, ne povređuješ i ne uzimaš ono što nije tvoje, svaka reka je sveta.
 
-Brahman reče:
+Sveštenik reče:
 
 — Jasno si izložio učenje. Prihvatam tvoj put.

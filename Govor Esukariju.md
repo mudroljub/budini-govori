@@ -1,16 +1,16 @@
 ## Govor Esukariju
 
-Brahman Esukari reče:
+Sveštenik Esukari reče:
 
-— Brahmani uče da postoje četiri vrste ljudi kojima treba služiti. Brahmanu mogu služiti svi. Plemiću mogu služiti plemići, trgovci i radnici. Trgovcu mogu služiti trgovci i radnici. Radniku može služiti samo radnik. Šta ti kažeš na to?
+— Sveštenici uče da postoje četiri vrste ljudi kojima treba služiti. Svešteniku mogu služiti svi. Plemiću mogu služiti plemići, trgovci i radnici. Trgovcu mogu služiti trgovci i radnici. Radniku može služiti samo radnik. Šta ti kažeš na to?
 
 Gotama odgovori:
 
-— Ko je brahmanima dao pravo da odlučuju kome svi treba da služe?
+— Ko je sveštenicima dao pravo da odlučuju kome svi treba da služe?
 
 Esukari ne nađe odgovor. Gotama nastavi:
 
-— Ne kažem da svakoga treba služiti, niti da nikoga ne treba služiti. Ako služeći nekoga postajemo gori, tada takvog ne treba služiti. Ako služeći nekoga postajemo bolji, tada takvog treba služiti. Ne treba gledati na poreklo čoveka, već na posledice njegovog uticaja. To važi podjednako za brahmana, plemića, trgovca i radnika.
+— Ne kažem da svakoga treba služiti, niti da nikoga ne treba služiti. Ako služeći nekoga postajemo gori, tada takvog ne treba služiti. Ako služeći nekoga postajemo bolji, tada takvog treba služiti. Ne treba gledati na poreklo čoveka, već na posledice njegovog uticaja. To važi podjednako za sveštenika, plemića, trgovca i radnika.
 
 Gotama reče:
 
@@ -18,19 +18,19 @@ Gotama reče:
 
 Tada Esukari reče:
 
-— Brahmani takođe uče da svaka grupa ljudi ima svoj imetak i svoju dužnost. Brahman treba da živi od darova. Plemić od oružja. Trgovac od zemljoradnje i stočarstva. Radnik od fizičkog rada. Kažu da svako ko napusti ono što mu je namenjeno zanemaruje svoju dužnost. Šta ti kažeš na to?
+— Sveštenici takođe uče da svaka grupa ljudi ima svoj imetak i svoju dužnost. Sveštenik treba da živi od darova. Plemić od oružja. Trgovac od zemljoradnje i stočarstva. Radnik od fizičkog rada. Kažu da svako ko napusti ono što mu je namenjeno zanemaruje svoju dužnost. Šta ti kažeš na to?
 
 Gotama reče:
 
-— Ko je brahmanima dao pravo da određuju kakvo zanimanje pripada drugim ljudima? Čoveka nazivamo brahmanom, plemićem, trgovcem ili radnikom prema porodici u kojoj je rođen. Ali ono što čovek zaista poseduje jeste njegovo ponašanje.
+— Ko je sveštenicima dao pravo da određuju kakvo zanimanje pripada drugim ljudima? Čoveka nazivamo sveštenikom, plemićem, trgovcem ili radnikom prema porodici u kojoj je rođen. Ali ono što čovek zaista poseduje jeste njegovo ponašanje.
 
 Gotama upita:
 
-— Šta misliš, može li samo brahman razvijati ljubav i dobronamernost prema drugima?
+— Šta misliš, može li samo sveštenik razvijati ljubav i dobronamernost prema drugima?
 
 — Ne. To mogu svi.
 
-— Dakle, sposobnost za plemenitost ne zavisi od porekla. A može li samo brahman oprati prljavštinu sa svog tela?
+— Dakle, sposobnost za plemenitost ne zavisi od porekla. A može li samo sveštenik oprati prljavštinu sa svog tela?
 
 — Ne. To mogu svi.
 
@@ -40,4 +40,4 @@ Gotama upita:
 
 — Dakle, ni vatra ne pravi razliku među ljudima prema poreklu. Zato, svako ko napusti štetna dela i razvija vrline ide putem oslobođenja, bez obzira na poreklo.
 
-Nakon ovog razgovora Esukari prihvati Gotamino učenje. 
+Nakon ovog razgovora Esukari prihvati Gotamino učenje.

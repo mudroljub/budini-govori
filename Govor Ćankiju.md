@@ -1,12 +1,12 @@
 ## Govor Ćankiju
 
-Gotama je boravio u blizini brahmanskog sela Opasada, pa su meštani krenuli da ga vide. Tamo je sedeo mladi brahman Kapatika, veoma učen u svetim tekstovima. Kada je uhvatio zgodnu priliku, Kapatika upita:
+Gotama je boravio u blizini sela Opasada, pa su meštani krenuli da ga vide. Tamo je sedeo mladi sveštenik Kapatika, veoma učen u svetim tekstovima. Kada je uhvatio zgodnu priliku, Kapatika upita:
 
-— Brahmani prenose drevne himne s kolena na koleno i tvrde: „Samo je ovo istina, sve ostalo je pogrešno.” Šta ti kažeš na to?
+— Sveštenici prenose drevne himne s kolena na koleno i tvrde: „Samo je ovo istina, sve ostalo je pogrešno.” Šta ti kažeš na to?
 
 Gotama upita:
 
-— Postoji li među brahmanima neko ko može reći: „Ja to znam iz neposrednog iskustva. Ovo je istina, a sve ostalo je pogrešno”?
+— Postoji li među sveštenicima neko ko može reći: „Ja to znam iz neposrednog iskustva. Ovo je istina, a sve ostalo je pogrešno”?
 
 — Ne.
 
@@ -19,7 +19,6 @@ Gotama upita:
 — Ne.
 
 — Onda su nalik povorci slepaca. Prvi ne vidi, poslednji ne vidi, a ne vide ni oni između. Kako onda mogu sa sigurnošću tvrditi: „Samo je ovo istina, a sve ostalo je pogrešno”?
-
 
 Kapatika reče:
 
@@ -41,7 +40,7 @@ Kapatika zatim upita:
 
 — A kako se otkriva istina?
 
-— Najpre upoznaš čoveka. Posmatraš da li njime upravljaju pohlepa, mržnja ili zabluda. Ako vidiš da nije time vođen, stičeš poverenje. Tada slušaš njegovo učenje, pamtiš ga, istražuješ njegovo značenje, proveravaš ga u praksi i ulažeš napor. Tako dolaziš do neposrednog uvida. 
+— Najpre upoznaš čoveka. Posmatraš da li njime upravljaju pohlepa, mržnja ili zabluda. Ako vidiš da nije time vođen, stičeš poverenje. Tada slušaš njegovo učenje, pamtiš ga, istražuješ njegovo značenje, proveravaš ga u praksi i ulažeš napor. Tako dolaziš do neposrednog uvida.
 
 Kapatika upita:
 

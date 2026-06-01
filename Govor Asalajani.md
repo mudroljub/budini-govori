@@ -1,14 +1,14 @@
 ## Govor Asalajani
 
-Pet stotina brahmana okupilo se u Savatiju. Smetalo im je što Gotama podučava da je oslobođenje dostupno ljudima svih staleža. Zato nagovoriše mladog i učenog brahmana Asalajanu da raspravlja s njim. 
+Pet stotina sveštenika okupilo se u Savatiju. Smetalo im je što Gotama podučava da je oslobođenje dostupno ljudima svih staleža. Zato poslaše mladog i učenog sveštenika Asalajanu da raspravlja s njim.
 
 Asalajana dođe kod Gotame i reče:
 
-— Brahmani tvrde da su najviši među ljudima, da su jedini istinski čisti i da su potomci Brahme, rođeni iz njegovih usta. Šta ti kažeš na to?
+— Sveštenici tvrde da su najviši među ljudima, da su jedini istinski čisti i da su potomci Boga, rođeni iz njegovih usta. Šta ti kažeš na to?
 
 Gotama odgovori:
 
-— A kako se rađaju brahmani?
+— A kako se rađaju sveštenici?
 
 — Iz majčine utrobe.
 
@@ -16,11 +16,11 @@ Gotama odgovori:
 
 — Imaju.
 
-— Ako je tako, kako mogu tvrditi da su rođeni iz Brahminih usta?
+— Ako je tako, kako mogu tvrditi da su rođeni iz Božjih usta?
 
 Gotama upita:
 
-— Ako brahman ubija, krade, laže, ogovara, vređa, gramziv je, hoće li posle smrti završiti na lošem odredištu?
+— Ako sveštenik ubija, krade, laže, ogovara, vređa, gramziv je, hoće li posle smrti završiti na lošem odredištu?
 
 — Hoće.
 
@@ -32,11 +32,11 @@ Gotama upita:
 
 — Ne zavise.
 
-— Ako je tako, po čemu su brahmani viši od drugih?
+— Ako je tako, po čemu su sveštenici viši od drugih?
 
 Gotama upita:
 
-— Može li samo brahman razvijati ljubav i dobronamernost prema drugima, a ne i plemić, trgovac ili radnik?
+— Može li samo sveštenik razvijati ljubav i dobronamernost prema drugima, a ne i plemić, trgovac ili radnik?
 
 — Ne. Ljubav i dobronamernost mogu razvijati svi.
 
@@ -44,11 +44,9 @@ Gotama upita:
 
 — Nema.
 
-Gotama nastavi:
-
 Gotama upita:
 
-— Može li samo brahman oprati prašinu i prljavštinu sa svog tela, a ne i plemić, trgovac ili radnik?
+— Može li samo sveštenik oprati prašinu i prljavštinu sa svog tela, a ne i plemić, trgovac ili radnik?
 
 — Ne. To mogu svi.
 
@@ -68,7 +66,7 @@ Gotama upita:
 
 Gotama upita:
 
-— Ako bi dete bilo rođeno iz veze brahmana i plemkinje, da li bi ga smatrali plemićem ili brahmanom?
+— Ako bi dete bilo rođeno iz veze sveštenika i plemkinje, da li bi ga smatrali plemićem ili sveštenikom?
 
 — Moglo bi se smatrati i jednim i drugim.
 
@@ -80,14 +78,13 @@ Gotama upita:
 
 — Vidim.
 
-— A između brahmana i drugih ljudi ne vidiš takvu razliku?
+— A između sveštenika i drugih ljudi ne vidiš takvu razliku?
 
 — Ne vidim.
 
-
 Gotama upita:
 
-— Zamisli dvojicu braće brahmana. Jedan je učen, a drugi nije. Kome bi brahmani ukazali veću čast?
+— Zamisli dvojicu braće sveštenika. Jedan je učen, a drugi nije. Kome bi sveštenici ukazali veću čast?
 
 — Učenome.
 
@@ -97,7 +94,7 @@ Gotama upita:
 
 Gotama upita:
 
-— A ako je učeni brat nemoralan, a onaj neuki čestit? Kome bi brahmani ukazali veću čast?
+— A ako je učeni brat nemoralan, a onaj neuki čestit? Kome bi sveštenici ukazali veću čast?
 
 — Čestitom, dobrog karaktera.
 
@@ -109,17 +106,17 @@ Gotama zaključi:
 
 — Dakle, najpre si tvrdio da rođenje čoveka čini uzvišenim. Zatim si prednost dao učenosti. A na kraju si priznao da je najvažnija vrlina. Tako si i ti potvrdio da je pročišćenje moguće za sve ljude, kao što ja govorim.
 
-Asalajana ostade bez odgovora. Sedeo je ćutke, zbunjen i zamišljen, pognute glave. Tada mu Gotama ispriča priču o sedmorici drevnih brahmana koje je mudrac Devala Mračni ispitivao na sledeći način: 
+Asalajana ostade bez odgovora. Sedeo je ćutke, zbunjen i zamišljen, pognute glave. Tada mu Gotama ispriča priču o sedmorici drevnih sveštenika koje je mudrac Devala Mračni ispitivao na sledeći način:
 
-— Čujem da tvrdite: "Brahmani su najveći među ljudima i potomci Brahme."
+— Čujem da tvrdite: „Sveštenici su najveći među ljudima i potomci Boga.”
 
 — Tako je — odgovoriše.
 
-— Možete li sigurno reći da su vaše majke, babe i prababe unazad sedam kolena bile samo sa brahmanima?
+— Možete li sigurno reći da su vaše majke, babe i prababe unazad sedam kolena bile samo sa sveštenicima?
 
 — Ne možemo.
 
-— Možete li sigurno reći da su vaši očevi, dedovi i pradedovi unazad sedam kolena bili samo sa brahmankama?
+— Možete li sigurno reći da su vaši očevi, dedovi i pradedovi unazad sedam kolena bili samo sa sveštenicama?
 
 — Ne možemo.
 
@@ -137,6 +134,6 @@ Asalajana ostade bez odgovora. Sedeo je ćutke, zbunjen i zamišljen, pognute gl
 
 Gotama zaključi:
 
-— Čak ni ti drevni brahmanski mudraci nisu mogli da odbrane tvrdnju da je čovek uzvišen po rođenju.
+— Čak ni ti drevni sveštenički mudraci nisu mogli da odbrane tvrdnju da je čovek uzvišen po rođenju.
 
-Nakon ovoga, Asalajana prestade da zastupa bramansku uzvišenost i postade Budin učenik.
+Nakon ovoga, Asalajana prestade da zastupa uzvišenost sveštenika i postade Budin učenik.

@@ -1,6 +1,6 @@
 ## Otisak slona
 
-Brahman Đanusoni upita asketu Dronju:
+Sveštenik Đanusoni upita asketu Dronju:
 
 — Šta misliš o Gotaminoj mudrosti?
 
