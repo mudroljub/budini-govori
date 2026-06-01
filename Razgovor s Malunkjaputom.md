@@ -24,15 +24,15 @@ Gotama odgovori:
 
 — Taj čovek bi umro pre nego što bi dobio odgovore.
 
-— Isto je i sa onim ko odbija da vežba dok ne dobije odgovore na tvoja pitanja.
+— Isto je i sa onim ko odbija da vežba dok ne dobije odgovore na takva pitanja.
 
-— Bilo da je svet večan ili nije večan, i dalje postoji put oslobođenja.
+— Bilo da je svet večan ili nije večan, i dalje postoje rođenje, starost, smrt, tuga i bol.
 
-— Bilo da je svet konačan ili beskonačan, i dalje postoji put oslobođenja.
+— Bilo da je svet konačan ili beskonačan, i dalje postoje rođenje, starost, smrt, tuga i bol.
 
-— Bilo da su telo i duša isto ili različito, i dalje postoji put oslobođenja.
+— Bilo da su telo i duša isto ili različito, i dalje postoje rođenje, starost, smrt, tuga i bol.
 
-— Bilo da probuđeni posle smrti postoji ili ne postoji, i dalje postoji put oslobođenja.
+— Bilo da probuđeni posle smrti postoji ili ne postoji, i dalje postoje rođenje, starost, smrt, tuga i bol.
 
 Malunković upita:
 
