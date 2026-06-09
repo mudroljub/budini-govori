@@ -1,8 +1,8 @@
-# MN 45: Četiri puta
+# MN 45: Četiri puta do sreće
 
 Tako je govorio Gotama Budni:
 
-Većina ljudi želi da umanji patnju i uveća sreću. Ali često postižu suprotno, jer ne znaju šta treba činiti. Prijatelji, postoje četiri puta.
+Većina ljudi želi da umanji patnju i uveća sreću. Ali često postižu suprotno, jer ne znaju šta treba činiti. Postoje četiri puta.
 
 Prvi je prijatan sada, a bolan kasnije. To je put onih koji ne vide nikakvu opasnost u uživanjima. Prepuštaju im se bez zadrške i veruju da u tome nema ničeg lošeg. Pitaju se zašto mudri ljudi govore o napuštanju užitaka kada ona donose toliku prijatnost. Tako žive tražeći samo ono što im donosi uživanje. Ali kasnije, ono što je bilo izvor sreće postaje izvor patnje. Kao što puzavica u početku nežno obavije drvo, a kasnije ga potpuno prekrije i uništi, tako i zadovoljstva postepeno zarobe čoveka.
 
