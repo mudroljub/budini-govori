@@ -1,4 +1,4 @@
-# MN 57: Dvojica golih asketa
+# MN 57: Asketa psećeg zaveta
 
 Dvojica golih asketa, Punja, koji življaše kao vo, i Senja, koji življaše kao pas, dođoše kod Gotame. Punja upita:
 
