@@ -1,4 +1,4 @@
-## Kako proveriti učitelja (Tragalac)
+# Kako proveriti učitelja (Tragalac)
 
 Gotama je boravio u Đetinom gaju kraj Savatija. Tu se obratio okupljenima:
 

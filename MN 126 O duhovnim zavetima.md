@@ -1,4 +1,4 @@
-## MN 126: O duhovnim zavetima
+# MN 126: O duhovnim zavetima
 
 Knez Pobedoslav ode do učitelja Zemljana i upita ga:
 

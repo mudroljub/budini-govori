@@ -1,4 +1,4 @@
-## Govor u Devadahi
+# Govor u Devadahi
 
 Gotama se obrati svojim učenicima:
 

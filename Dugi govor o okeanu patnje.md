@@ -1,4 +1,4 @@
-## Dugi govor o okeanu patnje
+# Dugi govor o okeanu patnje
 
 Jednog jutra nekoliko Gotaminih učenika ode do filozofa drugih škola da uporede učenja. Oni rekoše:
 

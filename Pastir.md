@@ -1,4 +1,4 @@
-## Pastir (Govedar)
+# Pastir (Govedar)
 
 Gotama je govorio:
 

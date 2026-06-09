@@ -1,4 +1,4 @@
-## U Kitagiriju
+# U Kitagiriju
 
 Gotama je savetovao učenike:
 

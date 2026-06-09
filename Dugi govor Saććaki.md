@@ -1,4 +1,4 @@
-## Vatroslav (Dugi govor Saććaki)
+# Vatroslav (Dugi govor Saććaki)
 
 Gotama je boravio u Velikom gaju kraj Vesalija. Jednog jutra krenuo je u grad po hranu. Tada se pojavi Vatroslav, poznat kao vešt raspravljač, koga su mnogi smatrali svetim čovekom. Priđe Gotami, pozdravi ga i reče:
 

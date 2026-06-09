@@ -1,4 +1,4 @@
-## Poređenje sa splavom (Poređenje sa zmijom)
+# Poređenje sa splavom (Poređenje sa zmijom)
 
 Gotama je govorio:
 

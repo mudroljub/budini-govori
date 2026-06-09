@@ -1,4 +1,4 @@
-## MN 2: Uklanjanje svih otrova
+# MN 2: Uklanjanje svih otrova
 
 Tako je govorio Gotama Budni:
 

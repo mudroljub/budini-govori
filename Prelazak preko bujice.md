@@ -1,4 +1,4 @@
-## Prelazak preko bujice
+# Prelazak preko bujice
 
 Jednom je jedno božanstvo došlo kod Gotame i upitalo:
 

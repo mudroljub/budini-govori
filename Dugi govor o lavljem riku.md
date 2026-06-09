@@ -1,4 +1,4 @@
-## Dugi govor o lavljem riku
+# Dugi govor o lavljem riku
 
 Jednom je Gotama boravio kraj Vesalija, u gaju zapadno od grada.
 

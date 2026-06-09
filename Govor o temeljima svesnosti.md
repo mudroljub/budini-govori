@@ -1,4 +1,4 @@
-## Govor o temeljima svesnosti
+# Govor o temeljima svesnosti
 
 Jednom je Gotama boravio među Kurima, kraj grada Kamasadama. Obrati se okupljenima:
 

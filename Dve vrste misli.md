@@ -1,4 +1,4 @@
-## Dve vrste misli
+# Dve vrste misli
 
 Gotama reče:
 

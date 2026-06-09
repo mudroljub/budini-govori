@@ -1,4 +1,4 @@
-## Poređenje sa prepelicom
+# Poređenje sa prepelicom
 
 Gotama je govorio:
 

@@ -1,4 +1,4 @@
-## Gusta džungla
+# Gusta džungla
 
 Gotama reče:
 

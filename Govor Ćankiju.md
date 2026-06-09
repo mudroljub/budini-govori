@@ -1,4 +1,4 @@
-## Govor Ćankiju
+# Govor Ćankiju
 
 Gotama je boravio u blizini sela Opasada, pa su meštani krenuli da ga vide. Tamo je sedeo mladi sveštenik Kapatika, veoma učen u svetim tekstovima. Kada je uhvatio zgodnu priliku, Kapatika upita:
 

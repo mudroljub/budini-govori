@@ -1,4 +1,4 @@
-## Govor Magandiji
+# Govor Magandiji
 
 Asketa Magandija govorio je da je Gotama "neprijatelj svakog iskustva", jer podučava obuzdavanju čula. Kada su se sreli, Gotama ga upita:
 

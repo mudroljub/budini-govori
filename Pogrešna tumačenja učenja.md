@@ -1,4 +1,4 @@
-## Pogrešna tumačenja učenja (Poređenje sa zmijom)
+# Pogrešna tumačenja učenja (Poređenje sa zmijom)
 
 Neki me filozofi pogrešno tumače govoreći:
 

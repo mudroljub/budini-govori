@@ -1,4 +1,4 @@
-## Šta treba negovati
+# Šta treba negovati
 
 Gotama se obrati svojim učenicima:
 

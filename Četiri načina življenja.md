@@ -1,4 +1,4 @@
-## Četiri načina življenja (Kratki govor o načinima postupanja)
+# Četiri načina življenja (Kratki govor o načinima postupanja)
 
 Gotama je boravio u Đetinom gaju kraj Savatija.
 
@@ -25,7 +25,7 @@ To su oni u kojima strast, mržnja i obmanutost više nemaju veliku snagu. Sabra
 — To su četiri načina življenja. 
 
 
-## Četiri načina življenja (Dugi govor o načinima postupanja)
+# Četiri načina življenja (Dugi govor o načinima postupanja)
 
 Gotama je boravio u Đetinom gaju kraj Savatija.
 

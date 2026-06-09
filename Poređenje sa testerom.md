@@ -1,4 +1,4 @@
-## Poređenje sa testerom
+# Poređenje sa testerom
 
 Tako je govorio Gotama:
 

@@ -1,4 +1,4 @@
-## Razjašnjenje sažetka
+# Razjašnjenje sažetka
 
 Gotama se obrati svojim učenicima:
 

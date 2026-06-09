@@ -1,4 +1,4 @@
-## Put do Boga (Razgovor sa Subhom)
+# Put do Boga (Razgovor sa Subhom)
 
 Sveštenik Subha dođe kod Gotame i upita:
 

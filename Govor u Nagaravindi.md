@@ -1,4 +1,4 @@
-## Govor u Nagaravindi
+# Govor u Nagaravindi
 
 Gotama je stigao u selo Nagaravinda. Meštani, sveštenici i domaćini došli su da ga vide i sedoše pred njega.
 

@@ -1,4 +1,4 @@
-## Govor Vaććhagotti o korisnom i štetnom
+# Govor Vaććhagotti o korisnom i štetnom
 
 Asketa Vaććhagota dođe kod Gotame i reče:
 

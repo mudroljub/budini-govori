@@ -1,4 +1,4 @@
-## Govor Upāliju
+# Govor Upāliju
 
 Gotama je boravio kraj Nāḷande, gde se nalazio čuveni filozof Mahavira, vođa golih asketa. Mahavira je tvrdio da su za dobro i zlo najvažnija dela, dok je Gotama tvrdio da je najvažniji um. Tada Upali, Mahavirinin pristaša, reče:
 

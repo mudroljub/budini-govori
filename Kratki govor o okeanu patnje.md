@@ -1,4 +1,4 @@
-## Kratki govor o okeanu patnje
+# Kratki govor o okeanu patnje
 
 Gotama je jednom razgovarao sa asketama koji su verovali da se čovek oslobađa patnje mučenjem tela.
 

@@ -1,4 +1,4 @@
-## Poređenje sa tkaninom
+# Poređenje sa tkaninom
 
 Jednom je Gotama boravio kraj Savatija, u Đetinom gaju. Obrati se okupljenima:
 

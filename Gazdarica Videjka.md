@@ -1,4 +1,4 @@
-## Gazdarica Videjka (Poređenje sa testerom)
+# Gazdarica Videjka (Poređenje sa testerom)
 
 U davna vremena, u Savatiju živela je gazdarica po imenu Videjka, za koju se govorilo da je ljubazna, blaga i smirena. Imala je služavku po imenu Kali, oštroumnu, okretnu i pedantnu u poslu. Jednom Kali pomisli:
 

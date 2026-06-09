@@ -1,4 +1,4 @@
-## Savet Ćhanni
+# Savet Ćhanni
 
 Poštovani Ćhanna bio je teško bolestan i trpeo je snažne bolove. Sāriputa i Mahā Ćunda došli su da ga obiđu.
 

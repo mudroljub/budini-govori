@@ -1,4 +1,4 @@
-## Poređenje sa zmijom
+# Poređenje sa zmijom
 
 Gotama je govorio:
 

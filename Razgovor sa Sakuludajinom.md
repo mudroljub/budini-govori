@@ -1,4 +1,4 @@
-## Razgovor sa Sakuludajinom
+# Razgovor sa Sakuludajinom
 
 Jednog jutra Gotama dođe u park asketa gde je boravio Sakuludajin sa svojim sledbenicima. Zateče ih kako glasno raspravljaju o raznim nevažnim temama. Kada ga ugledaše, utišaše se i pozvaše ga da sedne. 
 

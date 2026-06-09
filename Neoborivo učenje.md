@@ -1,4 +1,4 @@
-## Neoborivo učenje
+# Neoborivo učenje
 
 Gotama je stigao u selo Sala. Tamošnji učenjaci dođoše da ga posete. Gotama ih upita:
 

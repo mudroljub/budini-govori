@@ -1,4 +1,4 @@
-## Govor o plemenitom traganju
+# Govor o plemenitom traganju
 
 Gotama je govorio:
 

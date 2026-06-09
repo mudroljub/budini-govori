@@ -1,4 +1,4 @@
-## U šumi Gosinga
+# U šumi Gosinga
 
 Jedne večeri nekoliko Gotaminih učenika okupilo se u šumi Gosinga. Mesec je bio pun, drveće u cvatu, a vazduh ispunjen mirisom. Tada se upitaše:
 

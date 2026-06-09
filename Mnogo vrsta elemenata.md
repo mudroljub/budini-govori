@@ -1,4 +1,4 @@
-## Mnogo vrsta elemenata
+# Mnogo vrsta elemenata
 
 Ananda upita Gotamu:
 

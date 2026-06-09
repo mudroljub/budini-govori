@@ -1,4 +1,4 @@
-## Kratko razjašnjenje postupaka
+# Kratko razjašnjenje postupaka
 
 Sveštenički učenik Subha upita Gotamu:
 

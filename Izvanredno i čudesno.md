@@ -1,4 +1,4 @@
-## Izvanredno i čudesno
+# Izvanredno i čudesno
 
 Grupa učenika razgovarala je o Gotami:
 

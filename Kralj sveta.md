@@ -1,4 +1,4 @@
-## Kralj sveta
+# Kralj sveta
 
 Gotama reče:
 

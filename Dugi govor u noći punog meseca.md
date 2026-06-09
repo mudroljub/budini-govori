@@ -1,4 +1,4 @@
-## Dugi govor u noći punog meseca
+# Dugi govor u noći punog meseca
 
 Jedan učenik upita Gotamu:
 

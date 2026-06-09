@@ -1,4 +1,4 @@
-## Budale i mudraci
+# Budale i mudraci
 
 Gotama se obrati svojim učenicima:
 

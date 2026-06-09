@@ -1,4 +1,4 @@
-## Govor Samaṇamaṇḍikāputti
+# Govor Samaṇamaṇḍikāputti
 
 Jednog dana stolar Pančakanga poseti asketu Samaṇamaṇḍikāputtu. Ovaj mu reče:
 

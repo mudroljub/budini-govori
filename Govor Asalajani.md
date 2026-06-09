@@ -1,4 +1,4 @@
-## Govor Asalajani
+# Govor Asalajani
 
 Pet stotina sveštenika okupilo se u Savatiju. Smetalo im je što Gotama podučava da je oslobođenje dostupno ljudima svih staleža. Zato poslaše mladog i učenog sveštenika Asalajanu da raspravlja s njim.
 

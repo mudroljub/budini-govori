@@ -1,4 +1,4 @@
-## Savet Rahuli
+# Savet Rahuli
 
 Gotama poseti svog sina Rahulu u Malom Mango-gaju. Pokaza na malo vode u lavoru i reče:
 

@@ -1,4 +1,4 @@
-## Čestit čovek
+# Čestit čovek
 
 Gotama se obrati svojim učenicima:
 

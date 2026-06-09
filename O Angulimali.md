@@ -1,4 +1,4 @@
-## O Angulimali
+# O Angulimali
 
 U zemlji Kosali živeo je razbojnik po imenu Niska od prstiju (Angulimala), okrutan ubica koji je svojim žrtvama odsecao prste i nosio ih kao ogrlicu. Ljudi su ga se užasavali. 
 

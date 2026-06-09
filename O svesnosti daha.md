@@ -1,4 +1,4 @@
-## O svesnosti daha
+# O svesnosti daha
 
 Gotama se obrati svojim učenicima:
 

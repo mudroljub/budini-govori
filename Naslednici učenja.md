@@ -1,4 +1,4 @@
-## Naslednici učenja
+# Naslednici učenja
 
 Jednom je Gotama boravio kraj Savatija, u Đetinom gaju. Obrati se okupljenima:
 

@@ -1,4 +1,4 @@
-## Govor o strahu i strepnji
+# Govor o strahu i strepnji
 
 Jednom je Gotama boravio kraj Savatija, u Đetinom gaju. Tada mu priđe kraljev kapelan, pozdravi ga i stade kraj njega.
 

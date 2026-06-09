@@ -1,4 +1,4 @@
-## Priča o Lovcu (Mamac)
+# Priča o Lovcu (Mamac)
 
 Gotama svojim učenicima ispriča priču:
 

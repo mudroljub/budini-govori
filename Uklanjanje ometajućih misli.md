@@ -1,4 +1,4 @@
-## Uklanjanje ometajućih misli
+# Uklanjanje ometajućih misli
 
 Gotama je govorio:
 

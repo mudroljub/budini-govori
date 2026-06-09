@@ -1,4 +1,4 @@
-## Govor Ganaki Mogalani
+# Govor Ganaki Mogalani
 
 Računovođa Ganaka Mogalana upita Gotamu:
 

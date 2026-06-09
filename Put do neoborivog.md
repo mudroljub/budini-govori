@@ -1,4 +1,4 @@
-## Put do neoborivog
+# Put do neoborivog
 
 Gotama se obrati svojim učenicima:
 

@@ -1,4 +1,4 @@
-## Velika četrdesetica
+# Velika četrdesetica
 
 Gotama se obrati svojim učenicima:
 

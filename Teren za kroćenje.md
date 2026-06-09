@@ -1,4 +1,4 @@
-## Teren za kroćenje
+# Teren za kroćenje
 
 Princ Đajasena dođe kod mladog učenika Aćiravate i upita:
 

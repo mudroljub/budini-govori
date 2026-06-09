@@ -1,4 +1,4 @@
-## Kratki govor Sakuludajinu
+# Kratki govor Sakuludajinu
 
 Jednog jutra Gotama poseti Sakuludajina i grupu asketa. Zateče ih kako raspravljaju o raznim nevažnim temama, pa ih upita o čemu razgovaraju. Sakuludajin odgovori:
 

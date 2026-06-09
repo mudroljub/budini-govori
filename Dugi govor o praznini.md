@@ -1,4 +1,4 @@
-## Dugi govor o praznini
+# Dugi govor o praznini
 
 Gotama je boravio među Sakjanima. Jednog dana vide da mnogo učenika živi zajedno, pa reče Anandi:
 

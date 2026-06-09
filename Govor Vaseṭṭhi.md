@@ -1,4 +1,4 @@
-## Govor Vaseṭṭhi
+# Govor Vaseṭṭhi
 
 Dva mlada sveštenika, Vrsan i Hranislav, raspravljala su se oko jednog pitanja. Hranislav je tvrdio:
 

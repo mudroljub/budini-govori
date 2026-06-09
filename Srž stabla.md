@@ -1,4 +1,4 @@
-## Srž stabla (Dugi govor o poređenju sa središtem stabla)
+# Srž stabla (Dugi govor o poređenju sa središtem stabla)
 
 Gotama je govorio:
 

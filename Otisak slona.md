@@ -1,4 +1,4 @@
-## Otisak slona
+# Otisak slona
 
 Sveštenik Đanusoni upita asketu Dronju:
 

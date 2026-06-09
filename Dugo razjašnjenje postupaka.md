@@ -1,4 +1,4 @@
-## Dugo razjašnjenje postupaka
+# Dugo razjašnjenje postupaka
 
 Asketa Potaliputa upita učenika Samidija:
 

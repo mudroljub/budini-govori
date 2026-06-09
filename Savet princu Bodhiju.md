@@ -1,4 +1,4 @@
-## Savet princu Bodhiju
+# Savet princu Bodhiju
 
 Princ Bodhi upita Gotamu:
 
