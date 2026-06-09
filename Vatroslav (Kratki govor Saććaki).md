@@ -50,7 +50,7 @@ Vatroslav reče:
 
 Gotama upita:
 
-— Da li zaista tvrdiš: „Telo je moje sopstvo, osećaji su moje sopstvo, opažaji su moje sopstvo, pomisli su moje sopstvo i svest je moje sopstvo“?
+— Da li zaista tvrdiš: "Telo je moje sopstvo, osećaji su moje sopstvo, opažaji su moje sopstvo, pomisli su moje sopstvo i svest je moje sopstvo“?
 
 — Tvrdim.
 
@@ -58,17 +58,17 @@ Gotama upita:
 
 — Pitaj.
 
-— Kralj ima vlast u svojoj zemlji da naredi: „Ovoga pogubite, ovoga kaznite, ovoga proterajte“, zar ne?
+— Kralj ima vlast u svojoj zemlji da naredi: "Ovoga pogubite, ovoga kaznite, ovoga proterajte“, zar ne?
 
 — Ima.
 
-— Ako je telo tvoje sopstvo, možeš li mu narediti: „Neka bude ovakvo, a ne onakvo“?
+— Ako je telo tvoje sopstvo, možeš li mu narediti: "Neka bude ovakvo, a ne onakvo“?
 
 Vatroslav zaćuta. Posle kraće tišine odgovori:
 
 — Ne mogu.
 
-— A osećaj? Možeš li reći: „Neka moj osećaj bude ovakav, a ne onakav“?
+— A osećaj? Možeš li reći: "Neka moj osećaj bude ovakav, a ne onakav“?
 
 — Ne mogu.
 
@@ -92,7 +92,7 @@ Vatroslav zaćuta. Posle kraće tišine odgovori:
 
 — Patnju.
 
-— Može li se za ono što je prolazno, bolno i podložno promeni reći: „To je moje, to sam ja, to je moje sopstvo“?
+— Može li se za ono što je prolazno, bolno i podložno promeni reći: "To je moje, to sam ja, to je moje sopstvo“?
 
 — Ne može.
 
@@ -112,7 +112,7 @@ Vatroslav zaćuta. Posle kraće tišine odgovori:
 
 — Prolazna.
 
-— A može li se za ono što je prolazno, bolno i podložno promeni reći: „To je moje, to sam ja, to je moje sopstvo“?
+— A može li se za ono što je prolazno, bolno i podložno promeni reći: "To je moje, to sam ja, to je moje sopstvo“?
 
 — Ne može.
 
@@ -130,11 +130,11 @@ Vatroslav nevoljno priznade:
 
 Gotama zatim reče:
 
-— Zamisli čoveka koji traži dobru drvenu građu. U šumi naiđe na veliko stablo banane. Poseče ga i počne da ga rastavlja tražeći srž. Ali u njemu nema srži. Što ga više otvara, sve više otkriva da je iznutra prazno. Tako je i sa tvojom tvrdnjom. Kada je ispitamo i pogledamo iz svih uglova, pokaže se praznom i bez oslonca. A ipak si govorio: „Niko ne može da raspravlja sa mnom a da ne zadrhti.“
+— Zamisli čoveka koji traži dobru drvenu građu. U šumi naiđe na veliko stablo banane. Poseče ga i počne da ga rastavlja tražeći srž. Ali u njemu nema srži. Što ga više otvara, sve više otkriva da je iznutra prazno. Tako je i sa tvojom tvrdnjom. Kada je ispitamo i pogledamo iz svih uglova, pokaže se praznom i bez oslonca. A ipak si govorio: "Niko ne može da raspravlja sa mnom a da ne zadrhti.“
 
 Vatroslav je sedeo pognute glave, bez odgovora.
 
-— Može li se za ono što je prolazno, bolno i podložno promeni reći: „To je moje, to sam ja, to je moje sopstvo“?
+— Može li se za ono što je prolazno, bolno i podložno promeni reći: "To je moje, to sam ja, to je moje sopstvo“?
 
 — Ne može.
 

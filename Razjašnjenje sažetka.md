@@ -50,9 +50,9 @@ Mahā Kaććāna zatim reče:
 
 — Misli:
 
-— „To sam ja.“
+— "To sam ja.“
 
-— „To je moje.“
+— "To je moje.“
 
 — Ali telo se menja.
 

@@ -10,4 +10,4 @@ Jednog jutra Sariputra ode u Vesali po hranu i ču Sunakhatu kako tako govori. P
 
 Gotama reče:
 
-— Sunakhata govori iz besa. U pokušaju da me ocrni, zapravo me hvali. Jer kada kaže: „Ako neko praktikuje ovo učenje, ono ga ne vodi prestanku patnje”, time zapravo potvrđuje da bi pravo učenje upravo tome moralo da vodi.
+— Sunakhata govori iz besa. U pokušaju da me ocrni, zapravo me hvali. Jer kada kaže: "Ako neko praktikuje ovo učenje, ono ga ne vodi prestanku patnje", time zapravo potvrđuje da bi pravo učenje upravo tome moralo da vodi.

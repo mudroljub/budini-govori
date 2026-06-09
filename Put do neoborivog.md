@@ -34,7 +34,7 @@ Zatim reče:
 
 Ananda upita:
 
-— Neki vežba ovako: „Ono što je bilo nije moje. Ono što će biti nije moje. Ono što sada postoji napuštam.” Može li takav dostići oslobođenje?
+— Neki vežba ovako: "Ono što je bilo nije moje. Ono što će biti nije moje. Ono što sada postoji napuštam." Može li takav dostići oslobođenje?
 
 Gotama odgovori:
 
@@ -62,7 +62,7 @@ Na kraju Gotama saže svoje učenje:
 
 — Ali iznad svega toga jeste nevezivanje.
 
-— Kada čovek ne prisvaja ništa kao „moje”, ne vezuje se ni za jedno stanje i ne traži oslonac ni u čemu, tada prelazi bujicu.
+— Kada čovek ne prisvaja ništa kao "moje", ne vezuje se ni za jedno stanje i ne traži oslonac ni u čemu, tada prelazi bujicu.
 
 — To je besmrtno.
 

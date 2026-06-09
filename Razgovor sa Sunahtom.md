@@ -26,7 +26,7 @@ Zatim nastavi:
 
 Gotama zatim upozori:
 
-— Neko može pomisliti: „Oslobođen sam.“
+— Neko može pomisliti: "Oslobođen sam.“
 
 — Ali ako se i dalje prepušta neprimerenim prizorima, zvucima, mislima i željama, pokazuje da još nije slobodan.
 

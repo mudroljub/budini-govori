@@ -108,7 +108,7 @@ Gotama zaključi:
 
 Asalajana ostade bez odgovora. Sedeo je ćutke, zbunjen i zamišljen, pognute glave. Tada mu Gotama ispriča priču o sedmorici drevnih sveštenika koje je mudrac Devala Mračni ispitivao na sledeći način:
 
-— Čujem da tvrdite: „Sveštenici su najveći među ljudima i potomci Boga.”
+— Čujem da tvrdite: "Sveštenici su najveći među ljudima i potomci Boga."
 
 — Tako je — odgovoriše.
 

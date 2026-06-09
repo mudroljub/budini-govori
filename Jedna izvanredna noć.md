@@ -32,15 +32,15 @@ Gotama zatim objasni:
 
 — Razmišlja:
 
-— „Nekada sam bio ovakav.“
+— "Nekada sam bio ovakav.“
 
-— „Nekada sam osećao ovo.“
+— "Nekada sam osećao ovo.“
 
-— „Nekada sam opažao ovo.“
+— "Nekada sam opažao ovo.“
 
-— „Nekada sam mislio ovako.“
+— "Nekada sam mislio ovako.“
 
-— „Nekada sam bio ovakve svesti.“
+— "Nekada sam bio ovakve svesti.“
 
 — I u tome nalazi zadovoljstvo.
 
@@ -60,11 +60,11 @@ Nastavi:
 
 — Razmišlja:
 
-— „Neka u budućnosti budem ovakav.“
+— "Neka u budućnosti budem ovakav.“
 
-— „Neka imam ovakve osećaje.“
+— "Neka imam ovakve osećaje.“
 
-— „Neka imam ovakva iskustva.“
+— "Neka imam ovakva iskustva.“
 
 — I u tome nalazi zadovoljstvo.
 
@@ -84,15 +84,15 @@ Gotama zatim reče:
 
 — Kada misli:
 
-— „Ovo telo sam ja.“
+— "Ovo telo sam ja.“
 
-— „Ovi osećaji sam ja.“
+— "Ovi osećaji sam ja.“
 
-— „Ova opažanja sam ja.“
+— "Ova opažanja sam ja.“
 
-— „Ove misli sam ja.“
+— "Ove misli sam ja.“
 
-— „Ova svest sam ja.“
+— "Ova svest sam ja.“
 
 — Ili kada misli da su te stvari njegove ili da se u njima nalazi njegovo pravo biće.
 
@@ -114,7 +114,7 @@ Nastavi:
 
 — Ne smatra svest sobom.
 
-— Ne vezuje se za njih kao za „ja“ ili „moje“.
+— Ne vezuje se za njih kao za "ja“ ili "moje“.
 
 — Tada ostaje slobodan usred svega što nastaje i nestaje.
 

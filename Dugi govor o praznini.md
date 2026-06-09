@@ -82,7 +82,7 @@ Nastavi:
 
 — Kada se to jasno vidi, nestaje obmana:
 
-— „Ja sam ovo.“
+— "Ja sam ovo.“
 
 — Tako slabi vezivanje za sebe.
 

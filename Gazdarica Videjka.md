@@ -6,15 +6,15 @@ U davna vremena, u Savatiju živela je gazdarica po imenu Videjka, za koju se go
 
 Tako Kali ustade kasno.
 
-„Kāli!”
+"Kāli!"
 
-„Da, gospođo?”
+"Da, gospođo?"
 
-„Šta se desilo te si ustala tako kasno?”
+"Šta se desilo te si ustala tako kasno?"
 
-„Ništa se nije desilo, gospođo.”
+"Ništa se nije desilo, gospođo."
 
-„Ništa se nije desilo, ti lenjivice, a ipak ustaješ tako kasno!”
+"Ništa se nije desilo, ti lenjivice, a ipak ustaješ tako kasno!"
 
 Videjka se razbesnela i smrkla. Onda Kali pomisli:
 
@@ -22,11 +22,11 @@ Videjka se razbesnela i smrkla. Onda Kali pomisli:
 
 Sledećeg dana ustade još kasnije.
 
-„Šta se desilo te si ustala još kasnije?”
+"Šta se desilo te si ustala još kasnije?"
 
-„Ništa se nije desilo, gospođo.”
+"Ništa se nije desilo, gospođo."
 
-„Ništa se nije desilo, ti lenjivice, a ipak si ustala još kasnije!”
+"Ništa se nije desilo, ti lenjivice, a ipak si ustala još kasnije!"
 
 Ovoga puta Videjka je razbesnela i psovala. Kali pomisli:
 

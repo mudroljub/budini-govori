@@ -98,13 +98,13 @@ Gotama zatim reče:
 
 — Tada vidi:
 
-— „Rođenje je iscrpljeno.“
+— "Rođenje je iscrpljeno.“
 
-— „Proživljen je svetački život.“
+— "Proživljen je svetački život.“
 
-— „Učinjeno je ono što je trebalo učiniti.“
+— "Učinjeno je ono što je trebalo učiniti.“
 
-— „Nema više preporađanja.“
+— "Nema više preporađanja.“
 
 Na kraju zaključi:
 

@@ -12,7 +12,7 @@ Jednom je Gotama boravio kraj Savatija, u Đetinom gaju. Obrati se okupljenima:
 
 — Tada čovek razvija prijateljstvo prema svim bićima, zatim saosećanje, radost zbog tuđe sreće i spokojstvo. Širi ih na sve strane, bez neprijateljstva i zlovolje.
 
-— Kada vidi jasno, um se oslobađa želje, vezivanja i neznanja. Tada razume: „Slobodan sam.”
+— Kada vidi jasno, um se oslobađa želje, vezivanja i neznanja. Tada razume: "Slobodan sam."
 
 Nedaleko je sedeo sveštenik Sundarika Bharadvadža. Upita:
 

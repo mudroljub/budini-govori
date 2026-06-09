@@ -36,9 +36,9 @@ Gotama nastavi:
 
 Na kraju reče:
 
-— Kada izbije svađa, zapitajte se: „Da li bi me Gotama zbog ovoga pohvalio ili kritikovao?”
+— Kada izbije svađa, zapitajte se: "Da li bi me Gotama zbog ovoga pohvalio ili kritikovao?"
 
-— Zatim se zapitajte: „Može li se oslobođenje dostići dok se držimo ovog sukoba?”
+— Zatim se zapitajte: "Može li se oslobođenje dostići dok se držimo ovog sukoba?"
 
 — Odgovor je ne.
 

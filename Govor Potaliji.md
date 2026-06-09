@@ -26,7 +26,7 @@ Zamisli čoveka koji sanja o divnim parkovima, šumarcima, livadama i jezerima. 
 
 — Tako je i sa uživanjima. Rasprše se kao san.
 
-Zamisli čoveka koji je pozajmio krasnu kočiju ili skupoceni nakit. Ljudi ga vide i govore: „Ovo je bogat čovek!”. Ali kada vlasnici dođu, uzmu nazad svoje stvari. Šta misliš? Bi li se on rastužio?
+Zamisli čoveka koji je pozajmio krasnu kočiju ili skupoceni nakit. Ljudi ga vide i govore: "Ovo je bogat čovek!". Ali kada vlasnici dođu, uzmu nazad svoje stvari. Šta misliš? Bi li se on rastužio?
 
 — Bi. Ostao je bez onoga što je imao.
 

@@ -2,11 +2,11 @@
 
 Gotama je boravio u blizini sela Opasada, pa su meštani krenuli da ga vide. Tamo je sedeo mladi sveštenik Kapatika, veoma učen u svetim tekstovima. Kada je uhvatio zgodnu priliku, Kapatika upita:
 
-— Sveštenici prenose drevne himne s kolena na koleno i tvrde: „Samo je ovo istina, sve ostalo je pogrešno.” Šta ti kažeš na to?
+— Sveštenici prenose drevne himne s kolena na koleno i tvrde: "Samo je ovo istina, sve ostalo je pogrešno." Šta ti kažeš na to?
 
 Gotama upita:
 
-— Postoji li među sveštenicima neko ko može reći: „Ja to znam iz neposrednog iskustva. Ovo je istina, a sve ostalo je pogrešno”?
+— Postoji li među sveštenicima neko ko može reći: "Ja to znam iz neposrednog iskustva. Ovo je istina, a sve ostalo je pogrešno"?
 
 — Ne.
 
@@ -18,7 +18,7 @@ Gotama upita:
 
 — Ne.
 
-— Onda su nalik povorci slepaca. Prvi ne vidi, poslednji ne vidi, a ne vide ni oni između. Kako onda mogu sa sigurnošću tvrditi: „Samo je ovo istina, a sve ostalo je pogrešno”?
+— Onda su nalik povorci slepaca. Prvi ne vidi, poslednji ne vidi, a ne vide ni oni između. Kako onda mogu sa sigurnošću tvrditi: "Samo je ovo istina, a sve ostalo je pogrešno"?
 
 Kapatika reče:
 
@@ -26,7 +26,7 @@ Kapatika reče:
 
 Gotama odgovori:
 
-— Verovanje, predanje i prihvatanje gledišta mogu biti tačni, ali mogu biti i pogrešni. Zato mudar čovek ne zaključuje: „Samo je ovo istina, a sve ostalo je pogrešno.”
+— Verovanje, predanje i prihvatanje gledišta mogu biti tačni, ali mogu biti i pogrešni. Zato mudar čovek ne zaključuje: "Samo je ovo istina, a sve ostalo je pogrešno."
 
 Kapatika upita:
 
@@ -34,7 +34,7 @@ Kapatika upita:
 
 Gotama odgovori:
 
-— Ako nešto veruješ, reci: „Ja u ovo verujem.” Ako nešto prihvataš na osnovu predanja ili gledišta, reci upravo to. Ali nemoj tvrditi: „Samo je ovo istina, a sve ostalo je pogrešno.” Tako se čuva istina.
+— Ako nešto veruješ, reci: "Ja u ovo verujem." Ako nešto prihvataš na osnovu predanja ili gledišta, reci upravo to. Ali nemoj tvrditi: "Samo je ovo istina, a sve ostalo je pogrešno." Tako se čuva istina.
 
 Kapatika zatim upita:
 

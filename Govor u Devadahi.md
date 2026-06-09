@@ -2,7 +2,7 @@
 
 Gotama se obrati svojim učenicima:
 
-— Postoje askete i sveštenici koji tvrde: „Sve što čovek doživljava posledica je njegovih prošlih dela. Zato treba iscrpljivati staru karmu kroz samomučenje. Kada se iscrpi stara karma i ne stvara nova, patnja će nestati.”
+— Postoje askete i sveštenici koji tvrde: "Sve što čovek doživljava posledica je njegovih prošlih dela. Zato treba iscrpljivati staru karmu kroz samomučenje. Kada se iscrpi stara karma i ne stvara nova, patnja će nestati."
 
 — Kada ih pitam znaju li kakvi su bili njihovi prošli životi, odgovaraju da ne znaju. Kada ih pitam znaju li koliko su stare karme već iscrpili, ne znaju. Kada ih pitam znaju li šta treba napustiti, a šta razvijati u sadašnjem životu, ne znaju.
 

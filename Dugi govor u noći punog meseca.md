@@ -14,11 +14,11 @@ Gotama odgovori:
 
 Učenik upita:
 
-— Kako nastaje verovanje da postoji trajno „ja“?
+— Kako nastaje verovanje da postoji trajno "ja“?
 
 Gotama odgovori:
 
-— Čovek posmatra telo i misli: „To sam ja“ ili „To je moje“.
+— Čovek posmatra telo i misli: "To sam ja“ ili "To je moje“.
 
 — Isto čini sa osećajima, opažajima, mislima i svešću.
 
@@ -26,7 +26,7 @@ Gotama odgovori:
 
 — Ali mudar čovek ne smatra telo, osećaje, opažaje, misli ni svest svojim sopstvom.
 
-— Tako verovanje u trajno „ja“ ne nastaje.
+— Tako verovanje u trajno "ja“ ne nastaje.
 
 Učenik zatim upita:
 
@@ -42,11 +42,11 @@ Gotama odgovori:
 
 Učenik upita:
 
-— Kako čovek prestaje da stvara predstave „ja“ i „moje“?
+— Kako čovek prestaje da stvara predstave "ja“ i "moje“?
 
 Gotama odgovori:
 
-— Posmatra telo onakvim kakvo jeste i razume: „To nije moje. To nisam ja.“
+— Posmatra telo onakvim kakvo jeste i razume: "To nije moje. To nisam ja.“
 
 — Isto razume za osećaje, opažaje, misli i svest.
 
@@ -68,13 +68,13 @@ Gotama, videvši njegovu nedoumicu, reče:
 
 — Nesigurnost.
 
-— Može li se onda razumno reći: „To je moje. To sam ja. To je moje trajno sopstvo“?
+— Može li se onda razumno reći: "To je moje. To sam ja. To je moje trajno sopstvo“?
 
 — Ne može.
 
 Gotama zaključi:
 
-— Zato telo treba videti kao: „To nije moje. To nisam ja.“
+— Zato telo treba videti kao: "To nije moje. To nisam ja.“
 
 — Isto važi za osećaje, opažaje, misli i svest.
 
@@ -84,6 +84,6 @@ Gotama zaključi:
 
 — Kada se strast ugasi, um postaje slobodan.
 
-— Tada čovek zna: „Učinjeno je ono što je trebalo učiniti. Nema više povratka starom stanju.“
+— Tada čovek zna: "Učinjeno je ono što je trebalo učiniti. Nema više povratka starom stanju.“
 
 Dok je Gotama govorio, mnogi učenici dostigoše oslobođenje.

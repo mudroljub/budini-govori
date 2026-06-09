@@ -20,7 +20,7 @@ Sāriputa reče:
 
 Sāriputa ga zatim upita:
 
-— Da li oko, viđeno, svest o viđenom i ono što se kroz nju spoznaje smatraš ovako: „To je moje, to sam ja, to je moje sopstvo“?
+— Da li oko, viđeno, svest o viđenom i ono što se kroz nju spoznaje smatraš ovako: "To je moje, to sam ja, to je moje sopstvo“?
 
 — Ne.
 
@@ -32,7 +32,7 @@ Sāriputa ga zatim upita:
 
 Ćhanna odgovori:
 
-— Video sam njihov prestanak. Neposredno sam spoznao njihov prestanak. Zato znam: „To nije moje, to nisam ja, to nije moje sopstvo.“
+— Video sam njihov prestanak. Neposredno sam spoznao njihov prestanak. Zato znam: "To nije moje, to nisam ja, to nije moje sopstvo.“
 
 Tada Mahā Ćunda reče:
 

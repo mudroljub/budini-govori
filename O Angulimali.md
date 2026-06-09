@@ -34,7 +34,7 @@ Jednoga dana Niska od prstiju vide ženu koja se mučila na porođaju. Sažalio 
 
 Gotama mu reče:
 
-— Idi i reci joj: „Sestro, otkad se rodih među plemenitima, nisam namerno lišio života nijedno biće. Neka snagom ove istine budete dobro ti i dete.”
+— Idi i reci joj: "Sestro, otkad se rodih među plemenitima, nisam namerno lišio života nijedno biće. Neka snagom ove istine budete dobro ti i dete."
 
 Niska od prstiju tako učini i žena se oporavi. Kasnije je živeo povučeno i marljivo vežbao. Dostigao je potpuno oslobođenje.
 

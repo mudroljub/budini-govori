@@ -12,7 +12,7 @@ Gotama reče:
 
 Sakuludajin prizna da mu je to teško da razume, pa predloži da razgovaraju o učenju njegovog učitelja.
 
-— Naš učitelj govori: „Ovo je savršena lepota.”
+— Naš učitelj govori: "Ovo je savršena lepota."
 
 Gotama upita:
 

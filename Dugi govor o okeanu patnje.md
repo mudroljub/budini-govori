@@ -2,11 +2,11 @@
 
 Jednog jutra nekoliko Gotaminih učenika ode do filozofa drugih škola da uporede učenja. Oni rekoše:
 
-— „Gotama govori o razumevanju uživanja, tela i unutrašnjih stanja. I mi govorimo o tome. Ne vidimo razliku između njegovog učenja i našeg.”
+— "Gotama govori o razumevanju uživanja, tela i unutrašnjih stanja. I mi govorimo o tome. Ne vidimo razliku između njegovog učenja i našeg."
 
 Učenici dođoše kod Gotame i prenesoše mu razgovor. Gotama reče:
 
-— Trebalo je da ih pitate: „Šta je privlačnost, šta opasnost, a šta izlaz u pogledu uživanja, tela i unutrašnjih stanja?” Na to ne bi umeli da odgovore, jer to ne razumeju do kraja.
+— Trebalo je da ih pitate: "Šta je privlačnost, šta opasnost, a šta izlaz u pogledu uživanja, tela i unutrašnjih stanja?" Na to ne bi umeli da odgovore, jer to ne razumeju do kraja.
 
 A šta je privlačnost kod uživanja? Oblici, zvuci, mirisi, ukusi i dodiri koji deluju prijatno i podstiču želju. U tome je privlačnost uživanja.
 

@@ -26,7 +26,7 @@ Gotama nastavi:
 
 — Kada vidi kako zločinci bivaju kažnjeni, pomisli:
 
-— „I ja činim slične stvari.“
+— "I ja činim slične stvari.“
 
 — I tada oseća strah.
 

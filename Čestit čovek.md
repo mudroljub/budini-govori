@@ -12,7 +12,7 @@ Gotama nastavi:
 
 — Neko može biti ponosan na svoje poreklo.
 
-— Može misliti: „Rođen sam u uglednoj porodici, a drugi nisu.“
+— Može misliti: "Rođen sam u uglednoj porodici, a drugi nisu.“
 
 — Može biti ponosan na bogatstvo svoje porodice.
 
@@ -42,13 +42,13 @@ Gotama zatim reče:
 
 — Vežbati strože od drugih.
 
-— Ali ako zbog toga misli: „Ja sam bolji od ostalih“, još uvek nije napustio oholost.
+— Ali ako zbog toga misli: "Ja sam bolji od ostalih“, još uvek nije napustio oholost.
 
 — Takav pokazuje karakter rđavog čoveka.
 
 — Čestit čovek ne uzdiže sebe ni zbog znanja ni zbog asketskih vežbi.
 
-— Uvek se vraća pitanju: „Da li su pohlepa, mržnja i zabluda zaista oslabile?“
+— Uvek se vraća pitanju: "Da li su pohlepa, mržnja i zabluda zaista oslabile?“
 
 Gotama nastavi:
 
@@ -64,7 +64,7 @@ Gotama nastavi:
 
 — Pa čak i područje ni opažanja ni neopažanja.
 
-— Ali ako pomisli: „Ja sam dostigao ono što drugi nisu“, opet je zarobljen.
+— Ali ako pomisli: "Ja sam dostigao ono što drugi nisu“, opet je zarobljen.
 
 — Čak i najuzvišenija stanja mogu postati razlog za oholost.
 
@@ -74,7 +74,7 @@ Na kraju reče:
 
 — Čestit čovek ne gradi identitet ni na poreklu, ni na bogatstvu, ni na ugledu, ni na znanju, ni na asketskim vežbama, ni na meditativnim dostignućima.
 
-— Ne misli: „Ja sam ovo“ ili „Ja sam ono“.
+— Ne misli: "Ja sam ovo“ ili "Ja sam ono“.
 
 — Nastavlja da napušta vezivanje na svakom nivou.
 

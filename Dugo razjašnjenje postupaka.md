@@ -44,25 +44,25 @@ Zatim nastavi:
 
 — Pa zaključi:
 
-— „Svi zli ljudi završavaju tako.“
+— "Svi zli ljudi završavaju tako.“
 
 — Drugi vidi zlog čoveka kako završava na dobrom odredištu.
 
 — Pa zaključi:
 
-— „Zla dela nemaju posledice.“
+— "Zla dela nemaju posledice.“
 
 — Treći vidi čestitog čoveka kako završava na dobrom odredištu.
 
 — Pa zaključi:
 
-— „Svi čestiti ljudi završavaju tako.“
+— "Svi čestiti ljudi završavaju tako.“
 
 — Četvrti vidi čestitog čoveka kako završava na lošem odredištu.
 
 — Pa zaključi:
 
-— „Dobra dela nemaju posledice.“
+— "Dobra dela nemaju posledice.“
 
 — Svi oni greše kada od jednog slučaja prave opšte pravilo.
 
@@ -84,13 +84,13 @@ Nastavi:
 
 — Kada neko kaže:
 
-— „Video sam ovo, zato svi moraju završiti isto.“
+— "Video sam ovo, zato svi moraju završiti isto.“
 
 — Takav ne vidi dovoljno široko.
 
 — Kada kaže:
 
-— „Samo je ovo istina, sve drugo je pogrešno.“
+— "Samo je ovo istina, sve drugo je pogrešno.“
 
 — Takav se veže za svoje gledište.
 
