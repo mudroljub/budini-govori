@@ -23,7 +23,7 @@ Jednom je Gotama boravio kraj Savatija, u Đetinom gaju. Tu dođe asketa iz klan
 — Ne.
 
 Vaća tada upita:
-— Gotamo, kako onda stoji stvar? Predstavio sam ti deset najrazličitih gledišta, a ti ne zastupaš ni jedno.
+— Gotamo, kako onda stoji stvar? Predstavio sam ti deset različitih gledišta, a ti ne zastupaš ni jedno.
 Gotama odgovori:
 — Vaća, sva ta gledišta — da je svet večan ili nije, konačan ili beskonačan, da su duša i telo isto ili različito, da probuđeni posle smrti postoji ili ne postoji, i slično — predstavljaju džunglu gledišta, okov gledišta. Ona su vezana za nemir, očaj i patnju. Ne vode smirenju, razumevanju ni oslobođenju.
 — A zastupaš li onda neko drugo gledište?
@@ -50,9 +50,8 @@ Gotama odgovori:
 — Ako bi se ta vatra ugasila, da li bi znao da se ugasila?
 — Znao bih.
 — A ako bi te neko pitao kuda je otišla — na istok, zapad, sever ili jug — šta bi odgovorio?
-— Pitanje nema smisla. Vatra gori dok ima goriva. Kada se gorivo potroši i ne doda se novo, smatra se ugašenom.
+— Pitanje nema smisla. Vatra gori dok ima goriva. Kada gorivo nestane i ne doda se novo, smatra se ugašenom.
 Gotama reče:
-— Tako je i sa probuđenim. Napustio je telo, opažaje, osećaje, obrasce i svest, kao osnov za bilo kakvo poistovećivanje. Zato izrazi "javlja se" i "ne javlja se" ovde nemaju smisla.
-
+— Tako je i sa probuđenim. Napustio je poistovećivanje sa telom, opažajima, osećajima, obrascima i svešću. Time je nestalo gorivo koje održava predstavu o sebi. Zato pitanje da li se probuđeni ponovo javlja ili ne javlja nema smisla.
 Vaća zaključi:
 — Tvoj govor odbacuje sve suvišno i ostavlja samo srž. Prihvatam tvoje učenje.
