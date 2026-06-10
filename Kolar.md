@@ -1,4 +1,4 @@
-# Kolar
+# AN 3.15: Kolar
 
 Gotama reče:
 
