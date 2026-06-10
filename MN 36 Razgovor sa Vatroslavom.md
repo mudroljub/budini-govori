@@ -1,28 +1,28 @@
-# Vatroslav (Dugi govor Saććaki)
+# MN 36: Razgovor sa Vatroslavom
 
-Gotama je boravio u Velikom gaju kraj Vesalija. Jednog jutra krenuo je u grad po hranu. Tada se pojavi Vatroslav, poznat kao vešt raspravljač, koga su mnogi smatrali svetim čovekom. Priđe Gotami, pozdravi ga i reče:
+Gotama je boravio u Velikom gaju kraj Vesalija. Jednog jutra krenuo je u grad po hranu. Tada se pojavi Vatroslav, vešt raspravljač i govornik, koga mnogi smatrahu svetim čovekom. Priđe Gotami, pozdravi ga i reče:
 
-— Gotama, ima ljudi koji razvijaju telo, ali ne i um. Kada ih zadese telesni bolovi, izgube prisebnost ili potpuno skrenu s uma. Telo zagospodari njihovim umom, jer um nije razvijen. Ima i ljudi koji razvijaju um, ali ne i telo. Kada ih zadese duševni bolovi, njima se ukoče udovi, srce im popusti ili se izgube u strahu, očajanju i zbunjenosti. Um zagospodari njihovim telom, jer telo nije razvijeno. Zato mislim da tvoji učenici razvijaju um, ali ne i telo.
+— Gotama, neki ljudi ukrote telo, ali ne i um. Kada ih zadese telesni bolovi, izgube prisebnost ili potpuno skrenu s uma. Telo zagospodari njihovim umom, jer um nije ukroćen. A neki ljudi ukrote um, ali ne i telo. Kada ih zadese duševni bolovi, njima se ukoče udovi, srce im popusti ili se izgube u strahu, očajanju i zbunjenosti. Um zagospodari njihovim telom, jer telo nije ukroćeno. Ja mislim da tvoji učenici krote um, ali ne i telo.
 
-— A šta si ti naučio o razvijanju tela?
+— A šta si ti naučio o kroćenju tela?
 
-— Postoje askete koje žive veoma strogo: odbacuju odeću, prihvataju samo najoskudniju hranu i podvrgavaju se raznim odricanjima. Nekada uzmu samo nekoliko zalogaja dnevno, a nekada poste danima. 
+— Postoje askete koje žive veoma strogo: odbacuju odeću, prihvataju samo najoskudniju hranu i podvrgavaju se raznim odricanjima. Nekada uzmu samo nekoliko zalogaja dnevno, a nekada poste danima.
 
 — A žive li uvek tako?
 
 — Ne. Ponekad jedu odličnu hranu, piju odlična pića i ponovo povrate snagu.
 
-— Dakle, ono što su odbacili kasnije ponovo prikupljaju. Tako se telo smanjuje i uvećava. To što si opisao nije razvijanje tela. Ako ne znaš šta je razvijanje tela, kako možeš znati šta je razvijanje uma?
+— Dakle, ono što su odbacili kasnije ponovo prikupljaju. Tako se telo smanjuje i uvećava. To što si opisao nije kroćenje tela. Ako ne znaš šta je kroćenje tela, kako možeš znati šta je kroćenje uma?
 
-Vatroslav nije imao odgovor. Gotama nastavi:
+Vatroslav ne dade odgovor. Gotama nastavi:
 
-— Šta znači biti nerazvijen telom i umom? Kada neuk čovek doživi nešto prijatno, veže se za to i želi da traje. Ali prijatnost prolazi i javlja se bol. Kada ga zadesi bol, on tuguje, očajava i gubi prisebnost. Prijatnost ga osvoji jer telo nije ukroćeno. Bol ga osvoji jer um nije ukroćen. Onaj koga prijatnost i bol mogu savladati, nerazvijen je telom i umom.
+— Šta znači biti neukroćen telom i umom? Kada neuk čovek doživi nešto prijatno, veže se za to i želi da traje. Ali prijatnost prolazi i javlja se bol. Kada ga zadesi bol, on tuguje, očajava i gubi prisebnost. Prijatnost ga osvoji jer telo nije ukroćeno. Bol ga osvoji jer um nije ukroćen. Onaj koga prijatnost i bol mogu savladati, neukroćen je telom i umom.
 
-— A šta znači biti razvijen telom i umom? Kada mudar čovek doživi nešto prijatno, ne vezuje se za to i ne želi da traje. Prijatnost prolazi i javlja se bol. Kada bol dođe, on ne tuguje, ne očajava i ne gubi prisebnost. Prijatnost ga ne osvaja jer je telo ukroćeno. Bol ga ne osvaja jer je um ukroćen. Onaj koga ni prijatnost ni bol ne mogu savladati, razvijen je telom i umom.
+— A šta znači biti ukroćen telom i umom? Kada mudar čovek doživi nešto prijatno, ne vezuje se za to i ne želi da traje. Prijatnost prolazi i javlja se bol. Kada bol dođe, on ne tuguje, ne očajava i ne gubi prisebnost. Prijatnost ga ne osvaja jer je telo ukroćeno. Bol ga ne osvaja jer je um ukroćen. Onaj koga ni prijatnost ni bol ne mogu savladati, ukroćen je telom i umom.
 
 Vatroslav reče:
 
-— Ti si sigurno razvijen telom i umom.
+— Ti si sigurno ukroćen telom i umom.
 
 Gotama odgovori:
 
