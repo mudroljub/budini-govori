@@ -36,4 +36,4 @@ Gotama odgovori:
 
 A zatim dodade:
 
-— Ali najviše ulepšava ovu šumu onaj koji se vrati iz prošenja hrane, sedne, uspravi telo i donese čvrstu odluku: Neću ustati odavde dok moj um ne bude oslobođen svih otrova. Takav čovek najviše ulepšava ovu šumu Gosinga. 
+— Ali najviše ulepšava ovu šumu onaj koji se vrati iz prošenja hrane, sedne, uspravi telo i donese čvrstu odluku: Neću ustati odavde dok moj um ne bude oslobođen svih nečistoća. Takav čovek najviše ulepšava ovu šumu Gosinga. 

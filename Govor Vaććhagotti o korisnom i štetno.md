@@ -36,6 +36,6 @@ Vaććhagota upita:
 
 — Postoje li osim tebe ljudi koji su potpuno oslobođeni?
 
-— Ne samo jedan ili stotinu. Mnogo je mojih učenika koji su iskorenili otrove uma i dostigli oslobođenje.
+— Ne samo jedan ili stotinu. Mnogo je mojih učenika koji su iskorenili nečistoće uma i dostigli oslobođenje.
 
 Vaććhagota nakon toga postade Gotamin učenik, marljivo vežbaše i dostiže potpuno oslobođenje.

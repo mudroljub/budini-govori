@@ -18,4 +18,4 @@ Kada čovek napusti gramzivost, zlobu, bes, osvetoljubivost, oholost, zavist, se
 
 Kao što iscrpljen putnik nalazi osveženje kraj bistrog jezera, tako i čovek nalazi unutrašnji mir u ovom putu.
 
-A kada potpuno ukloni otrove uma i dostigne oslobođenje, tada je asketa u punom smislu te reči.
+A kada potpuno ukloni nečistoće uma i dostigne oslobođenje, tada je asketa u punom smislu te reči.

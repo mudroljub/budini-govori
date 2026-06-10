@@ -14,7 +14,7 @@ Ako ih ne vidi, neka istražuje dalje:
 
 Ako vidi da ga ne menjaju, neka istražuje još dalje:
 
-— Da li je obuzdan zato što se boji posledica ili zato što je iskorenio želju?
+— Da li je krotak zato što se boji posledica ili zato što je iskorenio želju?
 
 Ako zaključi da je želju zaista iskorenio, neka mu se približi i sasluša njegovo učenje.
 

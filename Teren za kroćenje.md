@@ -16,7 +16,7 @@ Pošto je princ otišao, Aćiravata ispriča razgovor Gotami.
 
 Gotama reče:
 
-— Kako bi princ, koji živi okružen čulnim zadovoljstvima, mogao razumeti ono što se može spoznati jedino obuzdanošću i vežbanjem?
+— Kako bi princ, koji živi okružen čulnim zadovoljstvima, mogao razumeti ono što se može spoznati jedino krotkošću i vežbanjem?
 
 — To je kao neukroćena životinja koja ne može da se ponaša kao dobro ukroćena.
 
@@ -112,7 +112,7 @@ Na kraju zaključi:
 
 — Nije važno koliko dugo neko vežba.
 
-— Važno je da li je uklonio otrove uma.
+— Važno je da li je uklonio nečistoće uma.
 
 — Onaj ko umre neukroćen ostaje neukroćen.
 

@@ -14,7 +14,7 @@ Gotama nastavi:
 
 — Ubijanje, krađa i zloupotreba čulnih zadovoljstava vode štetnim stanjima i zato ih treba napustiti.
 
-— Nenasilje, poštenje i obuzdanost vode korisnim stanjima i zato ih treba razvijati.
+— Nenasilje, poštenje i krotkost vode korisnim stanjima i zato ih treba razvijati.
 
 — Isto važi za govor.
 

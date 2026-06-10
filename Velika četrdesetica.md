@@ -40,7 +40,7 @@ Nastavi:
 
 — Pogrešna namera nastaje iz požude, zlovolje i okrutnosti.
 
-— Ispravna namera nastaje iz obuzdanosti, dobronamernosti i nepovređivanja.
+— Ispravna namera nastaje iz krotkosti, dobronamernosti i nepovređivanja.
 
 — Pogrešan govor je laganje, zlonamernost, vređanje i ogovaranje.
 

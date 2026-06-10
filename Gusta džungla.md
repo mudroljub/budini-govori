@@ -2,7 +2,7 @@
 
 Gotama reče:
 
-— Govoriću vam o gustoj džungli. Čovek može živeti u gustoj džungli, selu, gradu ili uz određene ljude. Ako tamo njegova svesnost ne jača, unutrašnji otrovi ne nestaju i ne približava se oslobođenju, tada treba da napusti to mesto — čak i ako je život tamo udoban i siguran. 
+— Govoriću vam o gustoj džungli. Čovek može živeti u gustoj džungli, selu, gradu ili uz određene ljude. Ako tamo njegova svesnost ne jača, unutrašnje nečistoće ne nestaju i ne približava se oslobođenju, tada treba da napusti to mesto — čak i ako je život tamo udoban i siguran. 
 
 Ali ako um postaje sabraniji, jasniji i slobodniji, tada tamo treba ostati — čak i kada su uslovi teški. Jer čovek ne napušta dom zbog hrane, odeće ili udobnosti, nego radi oslobođenja. 
 
