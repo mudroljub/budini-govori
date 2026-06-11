@@ -2,7 +2,7 @@
 
 Gotama je boravio u Velikom gaju kraj Vesalija. Jednog jutra krenuo je u grad po hranu. Tada se pojavi Vatroslav, vešt raspravljač i govornik, koga mnogi smatrahu svetim čovekom. Priđe Gotami, pozdravi ga i reče:
 
-— Gotama, neki ljudi krote telo, ali ne i um. Kada ih zadese telesni bolovi, izgube prisebnost ili potpuno skrenu s uma. Telo zagospodari njihovim umom, koji nije ukroćen. A neki ljudi krote um, ali ne i telo. Kada ih zadese duševni bolovi, njima se ukoče udovi, srce im popusti ili se izgube u strahu, očajanju i zbunjenosti. Um zagospodari njihovim telom, koje nije ukroćeno. Ja mislim da tvoji učenici krote um, ali ne i telo.
+— Gotama, neki ljudi krote telo, ali ne i um. Kada ih zadese telesni bolovi, izgube prisebnost ili potpuno skrenu s uma. Telo zagospodari njihovim umom, jer nije ukroćen. A neki ljudi krote um, ali ne i telo. Kada ih zadese duševni bolovi, njima se ukoče udovi, srce im popusti ili se izgube u strahu, očajanju i zbunjenosti. Um zagospodari njihovim telom, jer nije ukroćeno. Ja mislim da tvoji učenici krote um, ali ne i telo.
 
 — A šta si ti naučio o kroćenju tela?
 
@@ -34,7 +34,7 @@ Vatroslav upita:
 
 Gotama odgovori:
 
-— Naprotiv, Vatroslave. Pre buđenja kušao sam velike bolove i veliku prijatnost. Tada mi na um pade poređenje. Zamisli komad drveta koji pluta u vodi. Naiđe čovek koji želi da upali vatru i ugreje se. Počne da trlja drvo o drvo. Šta misliš, može li tako dobiti vatru?
+— Naprotiv, Vatroslave. Pre buđenja kušao sam velike bolove i veliku prijatnost. Tada mi na um pade poređenje. Zamisli komad vlažnog drveta koji pluta u vodi. Naiđe čovek koji želi da upali vatru i ugreje se. Počne da trlja drvo o drvo. Šta misliš, može li tako dobiti vatru?
 
 — Ne može.
 
