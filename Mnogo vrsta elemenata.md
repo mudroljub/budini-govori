@@ -30,7 +30,7 @@ Gotama odgovori:
 
 — Razumeti zadovoljstvo, bol, radost, tugu, spokojstvo i neznanje.
 
-— Razumeti želju, krotkost, zlovolju, dobronamernost, okrutnost i nepovređivanje.
+— Razumeti želju, krotkost, zlobu, dobronamernost, okrutnost i nepovređivanje.
 
 — Razumeti područje čula, područje suptilnih oblika i područje bez oblika.
 

@@ -10,7 +10,7 @@ Gotama odgovori:
 
 — Kada ne obraćam pažnju na selo ni na ljude, ostajem usredsređen na šumu.
 
-— Tada razumem: "Ovde nema sela. Ovde nema ljudi. Prisutna je samo predstava šume.“
+— Tada razumem: "Ovde nema sela. Ovde nema ljudi. Prisutna je samo predstava šume."
 
 — Tako vidim da je ovo polje iskustva prazno od sela i ljudi, ali nije prazno od šume.
 
@@ -22,7 +22,7 @@ Gotama nastavi:
 
 — Ostajem usredsređen na zemlju.
 
-— Tada razumem: "Ovde nema ljudi. Ovde nema šume. Prisutna je samo predstava zemlje.“
+— Tada razumem: "Ovde nema ljudi. Ovde nema šume. Prisutna je samo predstava zemlje."
 
 — Tako vidim da je ovo polje iskustva prazno od ljudi i šume, ali nije prazno od zemlje.
 
@@ -62,21 +62,21 @@ Nastavi:
 
 — Zatim razumem:
 
-— "I ova sabranost bez obeležja je uslovljena i nastala voljom.“
+— "I ova sabranost bez obeležja je uslovljena i nastala voljom."
 
-— "Sve što je uslovljeno prolazno je i podložno nestanku.“
+— "Sve što je uslovljeno prolazno je i podložno nestanku."
 
 — Kada se to neposredno vidi, um se oslobađa žudnje za čulnim zadovoljstvima, žudnje za bivanjem i neznanja.
 
 — Tada nastaje znanje:
 
-— "Oslobođen sam.“
+— "Oslobođen sam."
 
-— "Proživljen je svetački život.“
+— "Proživljen je svetački život."
 
-— "Učinjeno je ono što je trebalo učiniti.“
+— "Učinjeno je ono što je trebalo učiniti."
 
-— "Nema više preporađanja.“
+— "Nema više preporađanja."
 
 Gotama zaključi:
 

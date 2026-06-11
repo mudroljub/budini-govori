@@ -38,7 +38,7 @@ Gotama zatim objasni:
 
 Nastavi:
 
-— Pogrešna namera nastaje iz požude, zlovolje i okrutnosti.
+— Pogrešna namera nastaje iz požude, zlobe i okrutnosti.
 
 — Ispravna namera nastaje iz krotkosti, dobronamernosti i nepovređivanja.
 

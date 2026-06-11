@@ -22,7 +22,7 @@ Svesnost osećaja znači da čovek zna kada je osećaj prijatan, kada bolan, a k
 
 Svesnost uma znači da čovek zna kada su u umu strast, mržnja ili obmanutost, a kada ih nema. Zna kada je um rastresen, a kada sabran; kada sputan, a kada oslobođen.
 
-Svesnost sadržaja uma znači da čovek primećuje kako nastaju želja, zlovolja, tromost, nemir i sumnja. Razume kako nastaju, kako se napuštaju i kako se više ne vraćaju.
+Svesnost sadržaja uma znači da čovek primećuje kako nastaju želja, zloba, tromost, nemir i sumnja. Razume kako nastaju, kako se napuštaju i kako se više ne vraćaju.
 
 Svestan čovek posmatra telo, osećaje, predstave, mentalne obrasce i svest, i vidi njihov nastanak i nestanak.
 

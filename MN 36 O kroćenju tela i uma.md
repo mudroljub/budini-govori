@@ -42,7 +42,7 @@ Gotama odgovori:
 
 — Zato što drvo leži u vodi. Uzalud bi se mučio.
 
-— Tako je i sa ljudima koji su još uvek uronjeni u zadovoljstva i nisu ih napustili. Bez obzira koliko se mučili i naprezali, ne mogu dostići buđenje.
+— Tako je i sa ljudima koji su još uvek uronjeni u zadovoljstva i nisu ih napustili. Bez obzira koliko se mučili i naprezali, ne mogu postići buđenje.
 
 — A sada zamisli komad vlažnog drveta na suvom tlu. Naiđe čovek koji želi da upali vatru i ugreje se. Počne da trlja drvo o drvo. Šta misliš, Vatroslave, može li tako dobiti vatru?
 
@@ -52,7 +52,7 @@ Gotama odgovori:
 
 — Zato što je drvo i dalje vlažno. Uzalud bi se mučio.
 
-— Tako je i sa ljudima koji su se udaljili od zadovoljstava, ali ih u sebi još nisu napustili. Želje još žive u njihovom umu. Bez obzira koliko se mučili i naprezali, ne mogu dostići buđenje.
+— Tako je i sa ljudima koji su se udaljili od zadovoljstva, ali ga u sebi još nisu napustili. Želje još žive u njihovom umu. Bez obzira koliko se mučili i naprezali, ne mogu postići buđenje.
 
 — A zamisli komad suvog drveta na suvom tlu. Naiđe čovek koji želi da upali vatru i ugreje se. Počne da trlja drvo o drvo. Šta misliš, može li tako dobiti vatru?
 
@@ -62,4 +62,4 @@ Gotama odgovori:
 
 — Zato što je drvo suvo. Vatra će se pojaviti.
 
-— Tako je i sa ljudima koji su se udaljili od zadovoljstava i u sebi ih napustili. Želje više ne upravljaju njihovim umom. Oni mogu dostići buđenje.
+— Tako je i sa ljudima koji su se udaljili od zadovoljstva i u sebi ga napustili. Želje više ne upravljaju njihovim umom. Oni mogu postići buđenje.
