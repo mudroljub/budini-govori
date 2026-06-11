@@ -30,7 +30,7 @@ Gotama nastavi:
 
 Gotama zatim reče:
 
-— Isto merilo važi za navike uma, opažaje i gledišta.
+— Isto merilo važi za navike uma, predstave i gledišta.
 
 — Ako nešto povećava pohlepu, mržnju i zabludu, ne treba ga negovati.
 

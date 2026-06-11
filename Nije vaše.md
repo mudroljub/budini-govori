@@ -6,7 +6,7 @@ Gotama je govorio:
 
 Telo nije vaše. Napustite ga.
 Osećaji nisu vaši. Napustite ih.
-Opažaji nisu vaši. Napustite ih.
+Predodžbe nisu vaše. Napustite ih.
 Pomisli nisu vaše. Napustite ih.
 Svest nije vaša. Napustite je.
 

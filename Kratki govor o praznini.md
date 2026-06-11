@@ -10,7 +10,7 @@ Gotama odgovori:
 
 — Kada ne obraćam pažnju na selo ni na ljude, ostajem usredsređen na šumu.
 
-— Tada razumem: "Ovde nema sela. Ovde nema ljudi. Prisutan je samo opažaj šume.“
+— Tada razumem: "Ovde nema sela. Ovde nema ljudi. Prisutna je samo predstava šume.“
 
 — Tako vidim da je ovo polje iskustva prazno od sela i ljudi, ali nije prazno od šume.
 
@@ -22,7 +22,7 @@ Gotama nastavi:
 
 — Ostajem usredsređen na zemlju.
 
-— Tada razumem: "Ovde nema ljudi. Ovde nema šume. Prisutan je samo opažaj zemlje.“
+— Tada razumem: "Ovde nema ljudi. Ovde nema šume. Prisutna je samo predstava zemlje.“
 
 — Tako vidim da je ovo polje iskustva prazno od ljudi i šume, ali nije prazno od zemlje.
 

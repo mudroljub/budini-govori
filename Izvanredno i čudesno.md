@@ -40,7 +40,7 @@ Gotama sasluša Anandu i zatim reče:
 
 — Tathagata poznaje osećaje kada nastaju, kada traju i kada nestaju.
 
-— Poznaje opažaje kada nastaju, kada traju i kada nestaju.
+— Poznaje predstave kada nastaju, kada traju i kada nestaju.
 
 — Poznaje misli kada nastaju, kada traju i kada nestaju.
 
@@ -50,6 +50,6 @@ Ananda odgovori:
 
 — Tako ću i pamtiti.
 
-— To što Tathagata neposredno poznaje nastanak, trajanje i nestanak osećaja, opažaja i misli smatram istinski izvanrednim i čudesnim.
+— To što Tathagata neposredno poznaje nastanak, trajanje i nestanak osećaja, predstava i misli smatram istinski izvanrednim i čudesnim.
 
 Učenici se obradovaše tim rečima.

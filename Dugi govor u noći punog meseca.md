@@ -1,4 +1,4 @@
-# Dugi govor u noći punog meseca
+# MN 109: Dugi govor u noći punog meseca
 
 Jedan učenik upita Gotamu:
 
@@ -6,11 +6,11 @@ Jedan učenik upita Gotamu:
 
 Gotama odgovori:
 
-— Pet stvari koje ljudi doživljavaju kao sebe ili svoje jesu telo, osećaji, opažaji, misli i svest.
+— Pet stvari sa kojima se ljudi poistovećuju su telo, osećaji, predstave, misli i svest.
 
 — Njihov koren nije u njima samima, već u želji.
 
-— Vezivanje nije isto što i telo, osećaji, opažaji, misli i svest, ali nije ni odvojeno od njih. Vezivanje su želja i strast prema njima.
+— Vezivanje nije isto što i telo, osećaji, predstave, misli i svest, ali nije ni odvojeno od njih. Vezivanje su želja i strast prema njima.
 
 Učenik upita:
 
@@ -20,11 +20,11 @@ Gotama odgovori:
 
 — Čovek posmatra telo i misli: "To sam ja“ ili "To je moje“.
 
-— Isto čini sa osećajima, opažajima, mislima i svešću.
+— Isto čini sa osećajima, predstavama, mislima i svešću.
 
 — Tako nastaje verovanje u trajno sopstvo.
 
-— Ali mudar čovek ne smatra telo, osećaje, opažaje, misli ni svest svojim sopstvom.
+— Ali mudar čovek ne smatra telo, osećaje, predstave, misli ni svest svojim sopstvom.
 
 — Tako verovanje u trajno "ja“ ne nastaje.
 
@@ -48,19 +48,19 @@ Gotama odgovori:
 
 — Posmatra telo onakvim kakvo jeste i razume: "To nije moje. To nisam ja.“
 
-— Isto razume za osećaje, opažaje, misli i svest.
+— Isto razume za osećaje, predstave, misli i svest.
 
 — Kada to vidi neposredno i jasno, prestaje prisvajanje.
 
 Tada se u umu jednog učenika pojavi misao:
 
-— Ako telo, osećaji, opažaji, misli i svest nisu sopstvo, ko onda snosi posledice dela?
+— Ako telo, osećaji, predstave, misli i svest nisu sopstvo, ko onda snosi posledice dela?
 
 Gotama, videvši njegovu nedoumicu, reče:
 
 — Takvo pitanje nastaje iz pogrešne pretpostavke.
 
-— Razmislite: da li su telo, osećaji, opažaji, misli i svest trajni ili prolazni?
+— Razmislite: da li su telo, osećaji, predstave, misli i svest trajni ili prolazni?
 
 — Prolazni.
 
@@ -76,7 +76,7 @@ Gotama zaključi:
 
 — Zato telo treba videti kao: "To nije moje. To nisam ja.“
 
-— Isto važi za osećaje, opažaje, misli i svest.
+— Isto važi za osećaje, predstave, misli i svest.
 
 — Kada čovek to zaista vidi, prestaje da bude očaran njima.
 

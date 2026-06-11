@@ -24,7 +24,7 @@ Svesnost uma znači da čovek zna kada su u umu strast, mržnja ili obmanutost, 
 
 Svesnost sadržaja uma znači da čovek primećuje kako nastaju želja, zlovolja, tromost, nemir i sumnja. Razume kako nastaju, kako se napuštaju i kako se više ne vraćaju.
 
-Svestan čovek posmatra telo, osećaje, opažaje, mentalne obrasce i svest, i vidi njihov nastanak i nestanak.
+Svestan čovek posmatra telo, osećaje, predstave, mentalne obrasce i svest, i vidi njihov nastanak i nestanak.
 
 On posmatra oko i oblike, uho i zvuke, nos i mirise, jezik i ukuse, telo i dodire, um i sadržaje uma. Razume kako iz susreta čula i njihovih predmeta nastaje vezivanje i kako ono prestaje.
 
