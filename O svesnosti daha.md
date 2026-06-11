@@ -6,9 +6,9 @@ Gotama se obrati svojim učenicima:
 
 — Ona usavršava četiri temelja svesnosti.
 
-— Četiri temelja svesnosti usavršavaju sedam elemenata probuđenja.
+— Četiri temelja svesnosti usavršavaju sedam elemenata buđenja.
 
-— Sedam elemenata probuđenja vode istinskom znanju i oslobođenju.
+— Sedam elemenata buđenja vode istinskom znanju i oslobođenju.
 
 Gotama zatim objasni praksu:
 
@@ -84,7 +84,7 @@ Gotama zatim objasni šta iz toga nastaje:
 
 — Iz sabranosti nastaje spokojna uravnoteženost.
 
-— To su elementi probuđenja.
+— To su elementi buđenja.
 
 Na kraju reče:
 

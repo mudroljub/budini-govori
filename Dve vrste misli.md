@@ -2,7 +2,7 @@
 
 Gotama reče:
 
-— Pre probuđenja posmatrao sam svoje misli i podelio ih u dve grupe. U jednoj su bile misli rođene iz uživanja, zlovolje i okrutnosti. U drugoj misli rođene iz krotkosti, dobronamernosti i nepovređivanja.
+— Pre buđenja posmatrao sam svoje misli i podelio ih u dve grupe. U jednoj su bile misli rođene iz uživanja, zlovolje i okrutnosti. U drugoj misli rođene iz krotkosti, dobronamernosti i nepovređivanja.
 
 Kada bi se pojavila misao iz prve grupe, razumeo bih: Ova misao vodi mojoj nesreći i nesreći drugih. Ona zamagljuje razumevanje i udaljava od oslobođenja. Kada bih to jasno video, misao bi slabila i nestajala.
 

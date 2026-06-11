@@ -1,4 +1,6 @@
-# Predgovor
+# Tako je govorio Gotama Budni
+
+## Predgovor
 
 Ko se ikada igrao gluvih telefona, zna da je gotovo nemoguće tačno preneti jednu rečenicu od uha do uha nekolicini ljudi u istoj prostoriji. Gotamine reči su se prenosile od uha do uha vekovima, pre nego što su zapisane.
 
@@ -25,4 +27,3 @@ Cilj ovih prerada je veća čitljivost i razumljivost tekstova, ne nužno i tač
 
 - srediti sve postojeće sutre i povezati sa izvorom
 - pregledati svete misli i uzeti šta nedostaje
-- Pacetana sutta (AN 3.15)

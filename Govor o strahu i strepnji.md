@@ -8,7 +8,7 @@ Jednom je Gotama boravio kraj Savatija, u Đetinom gaju. Tada mu priđe kraljev 
 
 — Ali teško je živeti duboko u šumi. Teško je podnositi osamu i samoću. Ako čovek nije sabran, šuma mu lako ispuni um strahom.
 
-— Tako je. I pre probuđenja razmišljao sam isto. 
+— Tako je. I pre buđenja razmišljao sam isto. 
 
 — Video sam da strah nastaje kod onih koji nisu pročistili svoje postupke, govor, misli i način života. Ali kada sam pogledao sebe, video sam da su moji postupci, govor i misli pročišćeni. To mi je davalo sigurnost u šumi.
 
