@@ -1,22 +1,20 @@
 # MN 93: O uzvišenosti sveštenika
 
-Pet stotina sveštenika okupilo se u Savatiju. Smetalo im je što Gotama podučava da je pročišćenje dostupno ljudima svih staleža. Zato poslaše mladog i učenog sveštenika Asalajanu da raspravlja s njim.
-
-Asalajana dođe kod Gotame i reče:
+Sveštenicima je smetalo što Gotama podučava da su ljudi po rođenju jednaki. Zato poslaše mladog i učenog Asalajanu da raspravlja s njim. Došavši kod Gotame, on poče:
 
 — Sveštenici tvrde da su najviši među ljudima, da su jedini čisti, potomci Boga, rođeni iz njegovih usta. Šta ti kažeš na to?
 
 Gotama odgovori:
 
-— Žene sveštenika imaju mesečno krvarenje, zatrudne, porode se i doje. Je li tako?
+— Žene sveštenika imaju mesečno krvarenje, pa zatrudne, porode se i doje dete. Je li tako?
 
 Asalajana reče:
 
-— Tako je, ali sveštenici su ipak potomci Boga, rođeni iz Božjih usta.
+— Tako je, ali sveštenici su potomci Boga, rođeni iz Božjih usta.
 
 Gotama upita:
 
-— Jesi li čuo da u dalekim zemljama Grka i Kambođa, gospodari postaju robovi, a robovi gospodari?
+— Jesi li čuo da u dalekim zemljama Grka i Kambođa, gospodari nekad postaju robovi, a robovi gospodari?
 
 Asalajana odgovori:
 
@@ -126,4 +124,4 @@ Gotama zaključi:
 
 — Čak ni ti drevni mudri sveštenici nisu mogli da dokažu da su uzvišeni po rođenju.
 
-Nakon ovoga, Asalajana napusti stav o uzvišenosti sveštenika i prihvati Gotamino učenje.
+Nakon ovoga, mladi Asalajana napusti stav o uzvišenosti sveštenika i prihvati Gotamino učenje.
