@@ -1,4 +1,4 @@
-# Poređenje sa testerom
+# # MN 21: Poređenje sa testerom
 
 Tako je govorio Gotama:
 

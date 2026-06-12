@@ -27,3 +27,4 @@ Cilj ovih prerada je veća čitljivost i razumljivost tekstova, ne nužno i tač
 
 - srediti sve postojeće sutre i povezati sa izvorom
 - pregledati svete misli i uzeti šta nedostaje
+- pročistiti "da li"
