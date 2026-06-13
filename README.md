@@ -29,3 +29,114 @@ Cilj ovih prerada je veća čitljivost i razumljivost tekstova, ne nužno i tač
 - pregledati svete misli i uzeti šta nedostaje
 - agame i pali kanon uporediti, posebno gde su najvece razlike
 - pročistiti "da li"
+
+# Najveće razlike Pāli vs Āgama
+
+## 1. Mahāparinibbāna Sutta (DN 16)
+
+👉 poslednji dani Bude
+
+* Pāli: duga biografska naracija + čuda + detalji smrti
+* Āgama: kraća, “hladnija”, manje legendi
+
+📌 ogromna razlika u narativnom sloju
+
+---
+
+## 2. Brahmajāla Sutta (DN 1)
+
+👉 62 filozofska gledišta
+
+* Pāli: veoma sistematizovan filozofski katalog
+* Āgama: jednostavniji i manje razrađen spisak
+
+📌 Pāli deluje “kasnije filozofski uređen”
+
+---
+
+## 3. Satipaṭṭhāna Sutta (MN 10 / DN 22)
+
+👉 meditacija pažnje
+
+* Pāli: standardizovana lista praksi
+* Āgama: više varijanti, različiti redosledi
+
+📌 Āgama čuva više “fluidnih” verzija
+
+---
+
+## 4. Saṃyutta 12 / Saṃyukta Āgama 12
+
+👉 zavisno nastajanje
+
+* Pāli: fragmenti + različita dužina govora
+* Āgama: sistematično organizovan blok
+
+📌 Āgama = uredniji sistem, Pāli = usmeni fragmenti
+
+---
+
+## 5. Ānāpānasati Sutta (MN 118)
+
+👉 pažnja na disanje
+
+* Pāli: 16 koraka meditacije jasno strukturisano
+* Āgama: varijacije u koracima i redosledu
+
+📌 razlika u standardizaciji meditacije
+
+---
+
+## 6. Anāthapiṇḍika/Jeta-vana epizode
+
+👉 donatori i manastir
+
+* Pāli: bogate priče i dijalozi
+* Āgama: kraće, doktrinarno fokusirano
+
+📌 narativ vs doktrina
+
+---
+
+## 7. Sutta o vatri (SN 35.28 / SA 265)
+
+👉 “sve gori”
+
+* Pāli: sažeta “formula”
+* Āgama: procesno objašnjenje percepcije i vezivanja
+
+📌 različit stil učenja (formula vs proces)
+
+---
+
+## 8. Kaccānagotta Sutta (SN 12.15 / SA 301)
+
+👉 srednji put
+
+* Pāli: filozofski sažetak
+* Āgama: duže psihološko objašnjenje
+
+📌 različit nivo analize
+
+---
+
+## 9. Dīgha Nikāya kosmološki govori
+
+👉 npr. DN 27, DN 30
+
+* Pāli: razvijena kosmologija i mitologija
+* Āgama: često jednostavnije verzije ili drugačiji fokus
+
+📌 Pāli više “kosmičkog proširenja”
+
+---
+
+## 10. Brahmanički dijalozi (razne DN/MN sutte)
+
+👉 rasprave sa brahmanima
+
+* Pāli: detaljne debate + filozofski dijalozi
+* Āgama: kraće verzije, manje retorike
+
+📌 Pāli više retorički razvijen
+
