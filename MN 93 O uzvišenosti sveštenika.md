@@ -1,12 +1,12 @@
 # MN 93: O uzvišenosti sveštenika
 
-Sveštenicima je smetalo što Gotama podučava da su ljudi po rođenju jednaki. Zato poslaše mladog i učenog Asalajanu da raspravlja s njim. Došavši kod Gotame, on poče:
+Sveštenicima iz Savatija smetalo je što Gotama podučava da su ljudi po rođenju jednaki. Zato poslaše mladog i učenog Asalajanu da raspravlja s njim. Došavši kod Gotame, on reče:
 
 — Sveštenici tvrde da su najviši među ljudima, da su jedini čisti, potomci Boga, rođeni iz njegovih usta. Šta ti kažeš na to?
 
 Gotama odgovori:
 
-— Žene sveštenika imaju mesečno krvarenje, pa zatrudne, porode se i doje dete. Je li tako?
+— Žene sveštenika imaju mesečno krvarenje, zatrudne, porode se i doje dete. Je li tako?
 
 Asalajana reče:
 
@@ -14,7 +14,7 @@ Asalajana reče:
 
 Gotama upita:
 
-— Jesi li čuo da u dalekim zemljama Grka i Kambođa, gospodari nekad postaju robovi, a robovi gospodari?
+— Jesi li čuo da u dalekim zemljama Grka i Kambođa, gospodari mogu postati robovi, a robovi gospodari?
 
 Asalajana odgovori:
 
@@ -22,7 +22,7 @@ Asalajana odgovori:
 
 Gotama upita:
 
-— A ako sveštenik ubija, krade, laže, hoće li posle smrti završiti u paklu?
+— A ako sveštenik ubija, krade, laže,  hoće li posle smrti završiti u paklu?
 
 — Hoće.
 
@@ -38,7 +38,7 @@ Gotama upita:
 
 — Može li samo sveštenik razvijati ljubav prema svim bićima, ali ne i plemić, trgovac ili radnik?
 
-— Ne, bilo ko iz sve četiri kaste može razvijati ljubav prema svim bićima.
+— Ne, bilo ko može razvijati ljubav prema svim bićima.
 
 — Dakle, ni u tome nema razlike među ljudima?
 
@@ -46,11 +46,11 @@ Gotama upita:
 
 Gotama upita:
 
-— Može li samo sveštenik oprati prljavštinu sa svog tela, ali ne i plemić, trgovac ili radnik?
+— Može li samo sveštenik sprati prljavštinu sa svog tela, ne i plemić, trgovac ili radnik?
 
 — Ne. Svako može sa sebe sprati prljavštinu.
 
-— Dakle, ni čistota ne zavisi od porekla?
+— Dakle, ni čistoća ne zavisi od porekla?
 
 — Možda je tako, ali sveštenici su ipak jedini čisti.
 
@@ -62,7 +62,7 @@ Gotama upita:
 
 — Dakle, ni vatra ne pravi razliku među ljudima po rođenju?
 
-— Možda je tako, ali sveštenici su ipak najviši po rođenju.
+— Možda je tako, ali sveštenici su ipak po rođenju najviši.
 
 Gotama upita:
 
@@ -76,9 +76,9 @@ Gotama upita:
 
 — Da li je mazga konj ili magarac?
 
-— Nije ni jedno ni drugo. Među životinjama se razlika između vrsta jasno vidi. Kod ljudi nema takve razlike.
+— Nije ni jedno ni drugo. Među životinjama se razlika između vrsta jasno vidi.
 
-Gotama upita:
+Gotama dalje upita:
 
 — Zamisli dvojicu braće sveštenika. Jedan je učen, a drugi neuk. Kome bi sveštenici ukazali veću čast?
 
@@ -86,15 +86,15 @@ Gotama upita:
 
 Gotama upita:
 
-— A ako je učeni brat nemoralan, a onaj neuki čestit? Kome bi sveštenici ukazali veću čast?
+— A ako je učeni brat nemoralan, a neuki čestit? Kome bi sveštenici ukazali veću čast?
 
-— Čestitom, dobre naravi.
+— Čestitom.
 
 Gotama zaključi:
 
 — Dakle, najpre si tvrdio da je rođenje ono što ljude razlikuje, ali tu razliku ne možeš pokazati. Zatim si prednost dao učenosti. A na kraju si priznao da je najvažnija vrlina. Tako si potvrdio da je pročišćenje moguće za sve ljude, baš kao što ja govorim.
 
-Kad to bi rečeno, mladi sveštenik Asalajana ostade da sedi zamišljen, ćutke, pognute glave. Tada mu Gotama ispriča o razgovoru sedmorice sveštenika i drevnog mudraca Devale Mračnog:
+Kad to ču, Asalajana ostade da sedi zamišljen, ćutke, pognute glave. Tada mu Gotama prepriča razgovor drevnih sveštenika i mudraca Devale Mračnog:
 
 — Čujem da tvrdite: "Sveštenici su najveći među ljudima i potomci Boga."
 
@@ -122,6 +122,6 @@ Kad to bi rečeno, mladi sveštenik Asalajana ostade da sedi zamišljen, ćutke,
 
 Gotama zaključi:
 
-— Čak ni ti drevni mudri sveštenici nisu mogli da dokažu da su uzvišeni po rođenju.
+— Čak ni ti drevni sveštenici nisu mogli da dokažu da su uzvišeni po rođenju.
 
 Nakon ovoga, mladi Asalajana napusti stav o uzvišenosti sveštenika i prihvati Gotamino učenje.
