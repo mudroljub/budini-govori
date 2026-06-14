@@ -140,3 +140,19 @@ Cilj ovih prerada je veća čitljivost i razumljivost tekstova, ne nužno i tač
 
 📌 Pāli više retorički razvijen
 
+# Izvorne sutre
+
+Ne postoji potpuna saglasnost među istraživačima, ali postoji prilično širok konsenzus da su sledeće sutre među **najstarijim i najverovatnije najbližim istorijskom Budi**, jer imaju bliske paralele u različitim tradicijama (Pāli Nikāye, Āgame, fragmenti):
+
+| Sutra                           | Pāli referenca | Tema                                   |
+| ------------------------------- | -------------- | -------------------------------------- |
+| **Dhammacakkappavattana Sutta** | SN 56.11       | Prva propoved, četiri plemenite istine |
+| **Anattalakkhaṇa Sutta**        | SN 22.59       | Učenje o ne-ja                         |
+| **Kaccānagotta Sutta**          | SN 12.15       | Srednji put i zavisno nastajanje       |
+| **Ādittapariyāya Sutta**        | SN 35.28       | „Sve gori“                             |
+| **Salla Sutta**                 | SN 36.6        | Dve strele i odnos prema patnji        |
+| **Alagaddūpama Sutta**          | MN 22          | Zmija i splav, nevezivanje za učenje   |
+| **Satipaṭṭhāna Sutta**          | MN 10          | Osnove pažnje                          |
+| **Ānāpānasati Sutta**           | MN 118         | Pažnja na disanje                      |
+| **Mahāparinibbāna Sutta**       | DN 16          | Poslednji dani Bude (bar njeno jezgro) |
+| **Mahāsatipaṭṭhāna Sutta**      | DN 22          | Proširena verzija učenja o pažnji      |
