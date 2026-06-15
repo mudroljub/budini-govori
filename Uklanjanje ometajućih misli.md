@@ -2,7 +2,7 @@
 
 Gotama je govorio:
 
-Kada čoveka obuzmu štetne misli rođene iz žudnje, mržnje ili obmanutosti, postoji pet načina da ih ukloni.
+Kada čoveka obuzmu štetne misli rođene iz žudnje, mržnje ili zablude, postoji pet načina da ih ukloni.
 
 Prvi je da pažnju usmeri na nešto drugo — na ono što je korisno i smirujuće. Kao što se mali klin koristi da izbije veliki, tako se jedna misao može ukloniti drugom.
 
@@ -16,6 +16,6 @@ A ako ni tada ne prestanu, treba stisnutih zuba, savladati um umom.
 
 Kada čovek ovlada tim postupcima, postaje gospodar svojih misli. Tada može da misli ono što želi i da ne misli ono što ne želi.
 
-Tako postepeno slabe žudnja, vezanost i obmanutost, a čovek se približava kraju patnje.
+Tako postepeno slabe žudnja, vezanost i zabluda, a čovek se približava kraju patnje.
 
 

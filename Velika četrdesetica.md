@@ -50,7 +50,7 @@ Nastavi:
 
 — Ispravni postupci su odustajanje od njih.
 
-— Pogrešno življenje zasniva se na obmani, iskorišćavanju i pohlepi.
+— Pogrešno življenje zasniva se na zabludi, iskorišćavanju i pohlepi.
 
 — Ispravno življenje je pošten i neškodljiv način života.
 

@@ -1,4 +1,4 @@
-# Govor princu Nebojši
+# MN 58 / MA 201: O neprijatnim istinama
 
 Princ Nebojša pozva Gotamu na ručak i posle obeda upita:
 
@@ -10,7 +10,7 @@ Nebojša je držao malog sina u krilu. Gotama ga upita:
 
 — Izvadio bih ga, čak i ako bih mu pritom raskrvario grlo. Učinio bih to iz samilosti prema detetu.
 
-— Isto tako i ja govorim iz samilosti. Ono što nije istinito i korisno ne govorim, bilo da je ljudima prijatno ili neprijatno. Ono što jeste istinito, ali nije korisno, takođe ne govorim. Ali ono što je istinito i korisno, bilo prijatno ili neprijatno, izgovaram kada za to dođe pravo vreme.
+— Isto tako i ja govorim iz samilosti. Ono što nije istinito i korisno ne govorim, bilo da je ljudima prijatno ili neprijatno. Ono što jeste istinito, ali nije korisno, takođe ne govorim. Ali ono što je istinito i korisno, bilo prijatno ili neprijatno, govorim kada za to dođe pravo vreme.
 
 Nebojša zatim upita:
 

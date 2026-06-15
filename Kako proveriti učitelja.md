@@ -6,7 +6,7 @@ Gotama je boravio u Đetinom gaju kraj Savatija. Tu se obratio okupljenima:
 
 Treba da se zapita:
 
-— Da li se kod njega mogu videti pohlepa, mržnja ili obmanutost?
+— Da li se kod njega mogu videti pohlepa, mržnja ili zabluda?
 
 Ako ih ne vidi, neka istražuje dalje:
 
