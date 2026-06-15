@@ -1,4 +1,4 @@
-# DN 1: Mreža gledišta
+# DN 1 / DA 21: Mreža gledišta
 
 Gotama reče:
 

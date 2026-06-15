@@ -52,4 +52,4 @@ Gotama odgovori:
 
 Nakon razgovora, mladi sveštenik reče:
 
-— Ranije sam potcenjivao askete. Sada su se u meni pojavili poštovanje i poverenje prema njima.
+— Ranije sam potcenjivao askete. Sada sam stekao poštovanje prema Gotami.

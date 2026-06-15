@@ -30,6 +30,7 @@ Cilj ovih prerada je veća čitljivost i razumljivost tekstova, ne nužno i tač
 - agame i pali kanon uporediti, posebno gde su najvece razlike
 - pročistiti "da li"
 - zameniti „ i “
+- ujednačiti terminologiju, videti sr wiki
 
 # Najveće razlike Pāli vs Āgama
 
