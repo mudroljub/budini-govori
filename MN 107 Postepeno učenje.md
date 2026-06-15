@@ -4,7 +4,7 @@ Računovođa Ganaka Mogalana upita Gotamu:
 
 — U svakoj veštini postoji postepeno učenje. Tako se grade stepenice, tako se obučavaju strelci, tako učimo računanje. Postoji li i u tvom učenju postepeni put?
 
-— Postoji. Kao što se dobro ždrebe najpre navikava na uzde, tako i ja najpre učim čoveka vrlini. Kada se učvrsti u vrlini, učim ga da čuva svoja čula. Kada čuva svoja čula, učim ga umerenosti u jelu. Kada je umeren u jelu, učim ga budnosti. Kada je budan, učim ga pažnji i jasnom razumevanju u svemu što radi. Kada se ustali u pažnji, učim ga da traži osamu. U osami napušta požudu, zlobu, lenjost, nemir i sumnju. Tako oslobađa um od prepreka.
+— Postoji. Kao što se dobro ždrebe najpre navikava na uzde, tako i ja najpre učim čoveka vrlini. Kada se učvrsti u vrlini, učim ga da čuva svoja čula. Kada čuva svoja čula, učim ga umerenosti u jelu. Kada je umeren u jelu, učim ga budnosti. Kada je budan, učim ga pažnji i jasnom razumevanju u svemu što radi. Kada se ustali u pažnji, učim ga da traži osamu. U osami napušta požudu, zlobu, učmalost, nemir i sumnju. Tako oslobađa um od prepreka.
 
 Gotama nastavi:
 

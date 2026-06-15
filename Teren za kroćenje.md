@@ -70,7 +70,7 @@ Nastavi:
 
 — zlobu,
 
-— tromost i pospanost,
+— učmalost i pospanost,
 
 — uznemirenost i kajanje,
 

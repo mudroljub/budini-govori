@@ -16,7 +16,7 @@ A koji su okovi?
 
 Vezanost za uživanja. Vezanost za telo. Vezanost za spoljašnji izgled i pojavni svet.
 
-Zatim prejedanje, lenjost, spavanje i tromost.
+Zatim prejedanje, lenjost, spavanje i učmalost.
 
 I na kraju, življenje u nadi da će čovek kroz vrline, rituale ili asketizam steći neku nagradu, moć ili uzvišeno stanje posle smrti.
 

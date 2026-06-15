@@ -6,7 +6,7 @@ Gotama reče:
 
 Ali ako um postaje sabraniji, jasniji i slobodniji, tada tamo treba ostati — čak i kada su uslovi teški. Jer čovek ne napušta dom zbog hrane, odeće ili udobnosti, nego radi oslobođenja. 
 
-Isto važi i za ljude uz koje živimo. Ako nas neko vodi ka rastresenosti, tromosti i unutrašnjoj pometnji, treba se udaljiti od njega.
+Isto važi i za ljude uz koje živimo. Ako nas neko vodi ka rastresenosti, učmalosti i unutrašnjoj pometnji, treba se udaljiti od njega.
 
 Ali ako uz neku osobu um postaje smireniji, sabraniji i slobodniji, tada takvu osobu ne treba napuštati.
 
