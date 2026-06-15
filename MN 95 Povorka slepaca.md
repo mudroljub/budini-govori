@@ -1,6 +1,6 @@
-# Govor Ćankiju
+# MN 95: Povorka slepaca
 
-Gotama je boravio u blizini sela Opasada, pa su meštani krenuli da ga vide. Tamo je sedeo mladi sveštenik Kapatika, veoma učen u svetim tekstovima. Kada je uhvatio zgodnu priliku, Kapatika upita:
+Gotama je boravio kraj sela Opasada, pa meštani dođoše da ga vide. Tu je bio i mladi sveštenik Kapatika, veoma učen u svetim tekstovima. Kada uhvati zgodnu priliku, on upita:
 
 — Sveštenici prenose drevne himne s kolena na koleno i tvrde: "Samo je ovo istina, sve ostalo je pogrešno." Šta ti kažeš na to?
 
@@ -26,7 +26,7 @@ Kapatika reče:
 
 Gotama odgovori:
 
-— Verovanje, predanje i prihvatanje gledišta mogu biti tačni, ali mogu biti i pogrešni. Zato mudar čovek ne zaključuje: "Samo je ovo istina, a sve ostalo je pogrešno."
+— Verovanje može biti tačno, a može biti i pogrešno. Predanje može biti tačno, a može biti i pogrešno. Razmišljanje može biti tačno, a može biti i pogrešno. Zato mudar čovek ne tvrdi: „Samo je ovo istina, a sve ostalo je pogrešno.”
 
 Kapatika upita:
 
@@ -34,13 +34,13 @@ Kapatika upita:
 
 Gotama odgovori:
 
-— Ako nešto veruješ, reci: "Ja u ovo verujem." Ako nešto prihvataš na osnovu predanja ili gledišta, reci upravo to. Ali nemoj tvrditi: "Samo je ovo istina, a sve ostalo je pogrešno." Tako se čuva istina.
+— Ako nešto veruješ, reci tako. Ako nešto prihvataš na osnovu predanja ili razmišljanja, reci tako. Ali nemoj tvrditi: "Samo je ovo istina, a sve ostalo je pogrešno." Tako se čuva istina.
 
 Kapatika zatim upita:
 
 — A kako se otkriva istina?
 
-— Najpre upoznaš čoveka. Posmatraš da li njime upravljaju pohlepa, mržnja ili zabluda. Ako vidiš da nije time vođen, stičeš poverenje. Tada slušaš njegovo učenje, pamtiš ga, istražuješ njegovo značenje, proveravaš ga u praksi i ulažeš napor. Tako dolaziš do neposrednog uvida.
+— Najpre posmatraš učitelja. Gledaš da li njime upravljaju pohlepa, mržnja ili zabluda. Ako vidiš da nije time vođen, stičeš poverenje. Tada slušaš njegovo učenje, pamtiš ga, istražuješ njegovo značenje, proveravaš ga u praksi i ulažeš napor. Tako dolaziš do neposrednog znanja.
 
 Kapatika upita:
 
@@ -50,6 +50,6 @@ Gotama odgovori:
 
 — Napor.
 
-Nakon razgovora, Kapatika reče:
+Nakon razgovora, mladi sveštenik reče:
 
 — Ranije sam potcenjivao askete. Sada su se u meni pojavili poštovanje i poverenje prema njima.

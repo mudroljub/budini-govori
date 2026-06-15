@@ -29,19 +29,9 @@ Cilj ovih prerada je veća čitljivost i razumljivost tekstova, ne nužno i tač
 - pregledati svete misli i uzeti šta nedostaje
 - agame i pali kanon uporediti, posebno gde su najvece razlike
 - pročistiti "da li"
+- zameniti „ i “
 
 # Najveće razlike Pāli vs Āgama
-
-## 2. Brahmajāla Sutta (DN 1)
-
-👉 62 filozofska gledišta
-
-* Pāli: veoma sistematizovan filozofski katalog
-* Āgama: jednostavniji i manje razrađen spisak
-
-📌 Pāli deluje “kasnije filozofski uređen”
-
----
 
 ## 3. Satipaṭṭhāna Sutta (MN 10 / DN 22)
 

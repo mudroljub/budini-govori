@@ -10,7 +10,7 @@ Učenici upitaše:
 
 Gotama odgovori:
 
-— Neko doživi određeno stanje uma. Neko se priseti prošlih iskustava. Neko vidi nešto u dubokoj sabranosti. Neko razmišlja i izvodi zaključke. Neko se oslanja na predanje. Neko se plaši da pogreši. Neko se plaši da izgubi ugled. Neko jednostavno ne razume. Tako nastaju gledišta.
+— Neko doživi određeno stanje uma. Neko vidi nešto u dubokoj sabranosti. Neko razmišlja i izvodi zaključke. Neko nagađa o onome što ne može neposredno da vidi. Tako nastaju gledišta.
 
 Zatim reče:
 
@@ -22,7 +22,7 @@ Učenici upitaše:
 
 Gotama odgovori:
 
-— Ona nastaju na osnovu iskustva. Ali onaj ko se za iskustvo veže ne vidi celu sliku. On vidi samo ono što potvrđuje njegovo gledište. Zato ostaje zarobljen u njemu.
+— Ona nastaju na osnovu iskustva. Ali onaj ko se za iskustvo veže ne vidi celu sliku. Zato ostaje zarobljen u svom gledištu.
 
 Zatim reče:
 
@@ -34,11 +34,11 @@ Učenici upitaše:
 
 Gotama odgovori:
 
-— Razumevanjem dodira. Razumevanjem osećaja. Razumevanjem njihove privlačnosti. Razumevanjem njihove opasnosti. Razumevanjem izlaza iz njih. Kada čovek to razume, više se ne vezuje. Kada se ne vezuje, nije uhvaćen u mrežu. Kada nije uhvaćen u mrežu, ne ulazi u sukobe. Kada ne ulazi u sukobe, um postaje miran.
+— Razumevanjem dodira. Razumevanjem osećaja. Razumevanjem njihove draži, njihove opasnosti i izlaza iz njih. Kada čovek to razume, više se ne vezuje. Kada se ne vezuje, nije uhvaćen u mrežu. Kada nije uhvaćen u mrežu, ne ulazi u sukobe. Kada ne ulazi u sukobe, um postaje miran.
 
 Zatim reče:
 
-— Zamislite mrežu bačenu preko malog jezera. Sve ribe koje se nalaze unutar nje ostaju uhvaćene. Tako su i oni koji se vežu za gledišta uhvaćeni u mrežu svojih uverenja. Gde god krenuli, ostaju unutar iste mreže. Mudar čovek vidi celu mrežu, ali nije uhvaćen u nju.
+— Zamislite mrežu bačenu preko jezera. Sve ribe koje se nalaze unutar nje ostaju uhvaćene. Tako su i oni koji se vežu za gledišta uhvaćeni u mrežu svojih uverenja. Gde god krenuli, ostaju unutar iste mreže. Mudar čovek vidi celu mrežu, ali nije uhvaćen u nju.
 
 Učenici upitaše:
 
@@ -46,6 +46,6 @@ Učenici upitaše:
 
 Gotama odgovori:
 
-— Zato što vidi nastanak i prestanak svih iskustava. Zato što se ne vezuje ni za jedno od njih. Zato što ne govori: „Samo je ovo istina.“ Zato što je napustio želju za bilo kakvim stanovištem. Kada nema vezivanja, postoji sloboda. Kada nema vezivanja, postoji mir. Kada nema vezivanja, postoji oslobođenje.
+— Zato što vidi nastanak i prestanak svih iskustava. Zato što se ne vezuje ni za jedno od njih. Zato što ne govori: „Samo je ovo istina.“ Zato što je napustio svako vezivanje za gledišta. Kada nestane vezivanje, um se oslobađa.
 
 Učenici se obradovaše njegovim rečima.
