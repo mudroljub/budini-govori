@@ -32,17 +32,6 @@ Cilj ovih prerada je veća čitljivost i razumljivost tekstova, ne nužno i tač
 
 # Najveće razlike Pāli vs Āgama
 
-## 1. Mahāparinibbāna Sutta (DN 16)
-
-👉 poslednji dani Bude
-
-* Pāli: duga biografska naracija + čuda + detalji smrti
-* Āgama: kraća, “hladnija”, manje legendi
-
-📌 ogromna razlika u narativnom sloju
-
----
-
 ## 2. Brahmajāla Sutta (DN 1)
 
 👉 62 filozofska gledišta

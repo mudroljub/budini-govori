@@ -92,36 +92,4 @@ Gotama upita:
 
 Gotama zaključi:
 
-— Dakle, najpre si tvrdio da je rođenje ono što ljude razlikuje, ali tu razliku ne možeš pokazati. Zatim si prednost dao učenosti. A na kraju si priznao da je najvažnija vrlina. Tako si potvrdio da je pročišćenje moguće za sve ljude, baš kao što ja govorim.
-
-Kad to ču, Asalajana ostade da sedi zamišljen, ćutke, pognute glave. Tada mu Gotama prepriča razgovor drevnih sveštenika i mudraca Devale Mračnog:
-
-— Čujem da tvrdite: "Sveštenici su najveći među ljudima i potomci Boga."
-
-— Tako je — odgovoriše.
-
-— Možete li sigurno reći da su vaše majke, babe i prababe unazad sedam kolena bile samo sa sveštenicima?
-
-— Ne možemo.
-
-— Možete li sigurno reći da su vaši očevi, dedovi i pradedovi unazad sedam kolena bili samo sa sveštenicama?
-
-— Ne možemo.
-
-— Znate li kako nastaje dete?
-
-— Znamo. Potrebni su majka, otac i biće koje treba da se rodi.
-
-— A znate li iz kog staleža dolazi to biće?
-
-— Ne znamo.
-
-— Ako sve to ne znate, kako možete biti sigurni šta ste vi sami?
-
-— Ne možemo biti sigurni.
-
-Gotama zaključi:
-
-— Čak ni ti drevni sveštenici nisu mogli da dokažu da su uzvišeni po rođenju.
-
-Nakon ovoga, mladi Asalajana napusti stav o uzvišenosti sveštenika i prihvati Gotamino učenje.
+— Dakle, najpre si tvrdio da se ljudi razlikuju po rođenju, ali tu razliku ne možeš pokazati. Zatim si prednost dao učenosti. A na kraju si priznao da je najvažnija vrlina. Tako si potvrdio da je pročišćenje dostupno svakome, baš kao što ja govorim.
