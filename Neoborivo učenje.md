@@ -1,79 +1,81 @@
-# Neoborivo učenje
+# MN 60: Pouzdano učenje
 
-Gotama je stigao u selo Sala. Tamošnji učenjaci dođoše da ga posete. Gotama ih upita:
+Jednom je Gotama došao u selo Sala u zemlji Kosala. Tamošnji učenjaci dođoše da ga posete. Gotama ih upita:
 
-— Postoji li učitelj kome verujete na osnovu valjanih razloga?
+— Postoji li neki učitelj koga prihvatate i kome verujete?
 
-— Ne postoji.
+— Ne, nema takvog učitelja.
 
-— Onda poslušajte neoborivo učenje, koje vodi dobrobiti i sreći.
+— Pošto niste pronašli prihvatljivog učitelja, možete prihvatiti i slediti učenje koje je uvek pouzdano. A kakvo je to učenje?
 
 POSTOJANJE ONOG SVETA
 
-Neki filozofi tvrde:
+Neki učitelji tvrde:
 
-— Nema onog sveta. Dobra i loša dela ne donose nikakve posledice. Nema razloga da čovek bude moralan.
-
-Drugi tvrde upravo suprotno:
-
-— Postoji onaj svet. Dobra i loša dela donose svoje posledice.
-
-Mudar čovek razmišlja:
-
-— Ako onaj svet ne postoji, čovek koji živi časno nije ništa izgubio. Mudri će ga poštovati već u ovom životu. Ako onaj svet postoji, tada će posle smrti imati dobru sudbinu. Zato je razumno živeti moralno.
-
-POSLEDICE DELANJA
-
-Neki filozofi tvrde:
-
-— Dela nemaju nikakve posledice. Ubijanje, krađa, nasilje i laganje ne donose kaznu. Darežljivost, samosavladavanje i istinoljubivost ne donose nikakvu nagradu.
+— Nema darova ni žrtvi. Nema ploda dobrih ni loših dela. Nema ovog ni onog sveta. Nema preporađanja.
 
 Drugi tvrde suprotno:
 
-— Dela imaju posledice. Loša dela donose patnju, a dobra dela donose dobrobit.
+— Ima darova i žrtvi. Ima ploda dobrih i loših dela. Ima ovog i onog sveta. Ima preporađanja.
 
-Mudar čovek razmišlja:
+Ko ne veruje u onaj svet, može se očekivati da neće napuštati štetna stanja niti razvijati korisna. Ako nema onog sveta, dobro je prošao. Ali ako onaj svet postoji, preporodiće se na lošem mestu. Pritom mudri ga već sada kude. Tako gubi na obe strane.
 
-— Ako dela nemaju posledice, moralan čovek ipak živi časno i zaslužuje poštovanje. Ako dela imaju posledice, tada moralan čovek dobija na obe strane: poštovanje u ovom životu i dobrobit posle smrti. Zato je razumno činiti dobro.
+Ko veruje u onaj svet, može se očekivati da će napuštati štetna i razvijati korisna stanja. Ako ima onog sveta, posle smrti preporodiće se na dobrom mestu. Ako ga nema, mudri ga već sada hvale. Tako dobija na obe strane.
+
+Mudar čovek napušta štetna i razvija korisna stanja. Tako se osigurava sa obe strane i izbegava štetnu mogućnost.
+
+POČINILAC DELA
+
+Neki učitelji tvrde:
+
+— Kada neko muči, povređuje, tlači, ubija, krade, laže, zavodi tuđe žene – zlo koje čini nije on učinio.
+
+Drugi tvrde suprotno:
+
+— Kada neko muči, povređuje, tlači, ubija, krade, laže, zavodi tuđe žene – zlo koje čini jeste on učinio. 
+
+Ko veruje da ne dela on, može se očekivati da će činiti zlo. Ako je to tačno, ništa nije izgubio. Ali ako nije, snosiće posledice svojih dela. Pritom mudri ga ovde i sada kude kao rđavu osobu. Tako on gubi na obe strane.
+
+Ko veruje da dela on, može se očekivati da neće činiti zlo. Ako je to tačno, ništa nije izgubio. Ako nije, izbeći će loše posledice. Pritom, mudri ga hvale ovde i sada. Tako dobija na obe strane.
+
+Mudar čovek ne čini zlo. Tako se osigurava sa obe strane i izbegava štetnu mogućnost.
 
 UZROČNOST
 
-Neki filozofi tvrde:
+Neki učitelji tvrde:
 
-— Ne postoji uzročnost. Ljudi postaju dobri ili loši bez razloga. Sve određuju sudbina i okolnosti.
+— Nema uzroka prljanja ni pročišćenja bića. Nema moći, truda ni napora. Bića su u vlasti sudbine, okolnosti i prirode.
 
-Drugi tvrde:
+Drugi tvrde suprotno:
 
-— Postoji uzročnost. Ljudi zbog jednih uzroka postaju loši, a zbog drugih postaju dobri.
+— Ima uzroka prljanja i pročišćenja bića. Ima moći, truda i napora. Bića nisu u vlasti sudbine, okolnosti i prirode.
 
-Mudar čovek razmišlja:
+Ko ne veruje u uzročnost, neće napuštati prljanje niti težiti pročišćenju. Ako nema uzroka, dobro je prošao. Ako ih ima, ostaće zarobljen u prljanju. Pritom ga mudri već sada kude. Tako gubi na obe strane.
 
-— Ako nema uzročnosti, nisam mnogo izgubio time što sam živeo pažljivo. Ali ako uzročnost postoji, tada njeno razumevanje otkriva put oslobođenja.
+Ko veruje u uzročnost, napuštaće prljanje i težiti pročišćenju. Ako uzroka ima, njihovo razumevanje otkriva put oslobođenja. Ali čak i ako ih nema, mudri ga hvale ovde i sada kao čestitu osobu.
 
-MATERIJALNO I NEMATERIJALNO
+Mudar čovek napušta prljanje i teži pročišćenju. Tako se osigurava sa obe strane i izbegava štetnu mogućnost.
 
-Neki filozofi tvrde:
+TELESNO I NETELESNO
 
-— Ne postoje nematerijalni svetovi.
+Neki učitelji tvrde:
 
-Drugi tvrde:
+— Ne postoje netelesni svetovi.
 
-— Postoje nematerijalni svetovi.
+Drugi tvrde suprotno:
 
-Mudar čovek ne tvrdi ono što ne zna. Umesto toga, primećuje da svađe, sukobi i pohlepa proizlaze iz vezivanja za materijalne stvari. Zato razvija nevezanost prema materijalnom.
+— Postoje netelesni svetovi.
+
+Mudar čovek ne tvrdi ono što ne zna. On primećuje da batine, nasilje i sukobi imaju osnovu u telesnom. Zato gubi opčinjenost telesnim.
 
 PRESTANAK BIVANJA
 
-Neki filozofi tvrde:
+Neki učitelji tvrde:
 
 — Bivanje ne prestaje.
 
-Drugi tvrde:
+Drugi tvrde suprotno:
 
 — Bivanje prestaje.
 
 Mudar čovek ne tvrdi ono što ne zna. Ali vidi da je vezivanje za dalje bivanje povezano sa žudnjom i vezanošću, dok je verovanje u prestanak bivanja povezano sa njihovim napuštanjem. Zato mudar čovek razvija nevezanost prema bivanju.
-
-Učenjaci iz Sale rekoše:
-
-— Izvrsno, Gotama. Kao što neko okrene obrnuto, otkrije skriveno, pokaže put zalutalome ili osvetli tamu, tako si ti razjasnio svoje učenje.

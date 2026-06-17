@@ -4,7 +4,7 @@ Tako je govorio Gotama Budni:
 
 Ja često boravim u praznini. Praznina znači videti čega nema, a čega ima.
 
-Kao što je ovaj zamak prazan od slonova, stoke, zlata, ali ne i od ljudi, tako ja ne obraćam pažnju na predodžbe naselja ni ljudi, već samo na predodžbu šume. Tada vidim: Ovde je prazno od naselja i ljudi, ali ne i od šume.
+Kao što je ovaj zamak prazan od slonova, stoke, zlata, ali ne i od ljudi, tako ja ne obraćam pažnju na predodžbu naselja i ljudi, već samo na predodžbu šume. Tada vidim: Ovde je prazno od naselja i ljudi, ali ne i od šume.
 
 Zatim ne obraćam pažnju ni na predodžbu šume, već samo na predodžbu zemlje. Tada vidim: Ovde je prazno od šume, ali ne i od zemlje. 
 
