@@ -1,13 +1,11 @@
-# Govor o plemenitom traganju
+# MN 26 / MA 204: Plemenito traganje
 
-Gotama je govorio:
+Tako je govorio Gotama Budni:
 
-— Postoje dve vrste traganja: plemenito traganje i neplemenito traganje.
+Postoje dve vrste traganja: plemenito i neplemenito.
 
-Kakvo je neplemenito traganje? Čovek koji je i sam podložan rođenju, starenju, bolesti, smrti, tuzi i prljanju, traga za onim što je takođe podložno rođenju, starenju, bolesti, smrti, tuzi i prljanju.
+Šta je neplemenito traganje? Čovek koji je i sam podložan rođenju, starenju, bolesti i smrti, traži ono što je takođe podložno rođenju, starenju, bolesti i smrti. A to su supružnici, deca, bogatstvo, imovina, stoka i druge stvari za koje se čovek vezuje. Ko je za zaveden njima i potpuno im predan, traži prolazno. To je neplemenito traganje.
 
-A šta je podložno tome? Supružnici i deca, bogatstvo i imovina, stoka i druge stvari za koje se čovek vezuje. Ko je za njih vezan, zaveden njima i potpuno im predan, traga za onim što je prolazno. To je neplemenito traganje.
+A šta je plemenito traganje? Čovek koji je i sam podložan rođenju, starenju, bolesti i smrti, vidi opasnost u onome što je podložno rođenju, starenju, bolesti i smrti. Zato traži nerođeno, nestareće, bezbolno i besmrtno — oslobođenje od okova, nirvanu.
 
-A kakvo je plemenito traganje? Čovek koji je i sam podložan rođenju, starenju, bolesti, smrti, tuzi i prljanju, vidi opasnost u onome što je podložno rođenju, starenju, bolesti, smrti, tuzi i prljanju. Zato traga za nerođenim, nestarećim, neobolelim, neumrlim, netužnim i neuprljanim — za oslobođenjem od ropstva, za nirvanom.
-
-To je plemenito traganje.
+Upravo takvo traganje podstaklo je i mene. I meni je, dok sam bio mlad, došla ova misao: "I sam sam podložan rođenju, starenju, bolesti i smrti. Nije mudro tražiti ono što je takođe podložno rođenju, starenju, bolesti i smrti." Zato sam napustio dom i krenuo u potragu za nerođenim, nestarećim, bezbolnim i besmrtnim.
