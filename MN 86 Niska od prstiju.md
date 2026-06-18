@@ -20,7 +20,7 @@ Gotama reče:
 
 — Odustao sam od nasilja prema svim živim bićima. Ti se još nisi zaustavio.
 
-Te reči pogodiše Nisku od prstiju pravo u srce. Bacio je oružje u provaliju i zamolio Gotamu da mu postane učenik.
+Te reči pogodiše Nisku od prstiju pravo u srce. Bacio je oružje u provaliju i zamolio da postane Gotamin učenik.
 
 Kasnije je kralj Pasenadi krenuo sa vojskom da ga uhvati. Kada je stigao kod Gotame, ovaj mu pokaza mirnog asketu koji je sedeo pored njega:
 
