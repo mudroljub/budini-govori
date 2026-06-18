@@ -6,4 +6,4 @@ Učenici su razgovarali o čudesnim svojstvima Gotame Budnog:
 
 Čuvši to, Gotama reče:
 
-— Znate li šta je zaista izvanredno i čudesno? Probuđeni poznaje osećaje kada nastaju, kada traju i kada nestaju. Poznaje predstave kada nastaju, kada traju i kada nestaju. Poznaje misli kada nastaju, kada traju i kada nestaju. To smatrajte istinski izvanrednim i čudesnim.
+— Znate li šta je zaista izvanredno i čudesno? Budni poznaje osećaje kada nastaju, kada traju i kada nestaju. Poznaje predstave kada nastaju, kada traju i kada nestaju. Poznaje misli kada nastaju, kada traju i kada nestaju. To smatrajte istinski izvanrednim i čudesnim.
