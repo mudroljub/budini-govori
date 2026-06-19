@@ -26,7 +26,7 @@ Gotama odgovori:
 
 Zatim reče:
 
-— Kada postoji dodir, nastaje osećaj. Kada postoji osećaj, nastaje želja. Kada postoji želja, nastaje vezivanje. Kada postoji vezivanje, nastaje postajanje. Kada postoji postajanje, nastaju rođenje, starost i smrt. Tako nastaje patnja.
+— Kada postoji dodir, nastaje osećaj. Kada postoji osećaj, nastaje želja. Kada postoji želja, nastaje vezivanje. Kada postoji vezivanje, nastaje postajanje. Kada postoji postajanje, nastaju rođenje, starost i smrt. Tako nastaje muka.
 
 Učenici upitaše:
 

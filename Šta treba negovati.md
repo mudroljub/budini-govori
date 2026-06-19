@@ -24,7 +24,7 @@ Gotama nastavi:
 
 — Isto važi za misli.
 
-— Gramzivost i zloba vode patnji.
+— Gramzivost i zloba vode muci.
 
 — Dobronamernost i zadovoljstvo onim što imamo vode miru.
 

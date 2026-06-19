@@ -40,4 +40,4 @@ Magandija upita:
 
 Gotama odgovori:
 
-— Druži se sa dobrim ljudima. Slušaj ispravno učenje. Živi u skladu sa njim. Tada ćeš sam uvideti: Ovo su bolest i patnja, a ovako potpuno nestaju. Kada prestane vezivanje, prestaje bivanje, a tada prestaju i sva patnja, starost, smrt.
+— Druži se sa dobrim ljudima. Slušaj ispravno učenje. Živi u skladu sa njim. Tada ćeš sam uvideti: Ovo su bol i muka, a ovako potpuno nestaju. Kada prestane vezivanje, prestaje bivanje, a tada prestaju i sva muka, starost, smrt.

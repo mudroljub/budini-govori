@@ -31,6 +31,8 @@ Cilj ovih prerada je veća čitljivost i razumljivost tekstova, ne nužno i tač
 - pročistiti "da li"
 - zameniti „ i “
 - ujednačiti terminologiju, videti sr wiki
+- ručno kopirati svaku kinesku verziju
+- copilot review?
 
 # Najveće razlike Pāli vs Āgama
 

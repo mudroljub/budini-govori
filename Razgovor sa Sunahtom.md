@@ -30,13 +30,13 @@ Gotama zatim upozori:
 
 — Ali ako se i dalje prepušta neprimerenim prizorima, zvucima, mislima i željama, pokazuje da još nije slobodan.
 
-— To je kao čovek kome je lekar izvadio otrovnu strelu i dao uputstva kako da ozdravi. Ako zanemari savet i ne brine o rani, ona će se ponovo inficirati i doneće mu patnju.
+— To je kao čovek kome je lekar izvadio otrovnu strelu i dao uputstva kako da ozdravi. Ako zanemari savet i ne brine o rani, ona će se ponovo inficirati i doneće mu muku.
 
 — Isto tako, čovek koji prerano poveruje da je dostigao cilj može ponovo pasti pod vlast strasti.
 
 — Ali onaj ko je zaista uklonio žudnju ne vraća se starim navikama.
 
-— Njega više ne privlače stvari za koje zna da vode u patnju.
+— Njega više ne privlače stvari za koje zna da vode u muku.
 
 Na kraju Gotama objasni značenje poređenja:
 
@@ -52,7 +52,7 @@ Na kraju Gotama objasni značenje poređenja:
 
 — Lekar predstavlja probuđenog učitelja.
 
-— Kada čovek jasno vidi da vezivanje donosi patnju i potpuno ga napusti, više se ne vraća onome što ga zarobljava.
+— Kada čovek jasno vidi da vezivanje donosi muku i potpuno ga napusti, više se ne vraća onome što ga zarobljava.
 
 — Kao što razuman čovek neće popiti otrov za koji zna da je otrov, niti će pružiti ruku zmiji otrovnici, tako se ni oslobođen čovek ne vraća predmetima vezivanja.
 

@@ -4,7 +4,7 @@ Tako je govorio Gotama Budni:
 
 Nečistoće uklanja samo onaj ko zna i vidi, a ne onaj ko ne zna i ne vidi. Kada čovek razmišlja površno, nečistoće nastaju i jačaju. Kada razmišlja temeljno, nečistoće slabe i nestaju. Neke nečistoće uklanjamo uvidom, neke pažnjom, neke pravilnom upotrebom, neke trpljenjem, neke izbegavanjem, neke napuštanjem, a neke razvijanjem.
 
-Kako nečistoće uklanjamo uvidom? Neuk čovek ne zna o čemu vredi razmišljati, o čemu ne, pa svojim mislima pojačava želju, vezanost i neznanje. On razmišlja: "Jesam li postojao u prošlosti? Hoću li postojati u budućnosti? Ko sam? Odakle dolazim? Kuda idem?" Iz takvih razmišljanja nastaje džungla gledišta u koju se on zapliće. Ostaje vezan za gledišta i ne oslobađa se patnje. Ali mudar čovek razlikuje korisne misli od štetnih. Zato neguje misli koje umanjuju želju, vezanost i neznanje.
+Kako nečistoće uklanjamo uvidom? Neuk čovek ne zna o čemu vredi razmišljati, o čemu ne, pa svojim mislima pojačava želju, vezanost i neznanje. On razmišlja: "Jesam li postojao u prošlosti? Hoću li postojati u budućnosti? Ko sam? Odakle dolazim? Kuda idem?" Iz takvih razmišljanja nastaje džungla gledišta u koju se on zapliće. Ostaje vezan za gledišta i ne oslobađa se muke. Ali mudar čovek razlikuje korisne misli od štetnih. Zato neguje misli koje umanjuju želju, vezanost i neznanje.
 
 Kako nečistoće uklanjamo pažnjom? Mudar čovek pazi na svoja čula — na vid, sluh, njuh, ukus, dodir i misli — ne dopuštajući da izazovu štetna stanja u njemu. Tako nečistoće uklanjamo pažnjom.
 

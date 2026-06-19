@@ -25,7 +25,7 @@ Jednom je Gotama boravio kraj Savatija, u Đetinom gaju. Tu dođe asketa iz klan
 Vaća tada upita:
 — Gotamo, kako onda stoji stvar? Predstavio sam ti deset različitih gledišta, a ti ne zastupaš ni jedno.
 Gotama odgovori:
-— Vaća, sva ta gledišta — da je svet večan ili nije, konačan ili beskonačan, da su duša i telo isto ili različito, da probuđeni posle smrti postoji ili ne postoji, i slično — predstavljaju džunglu gledišta, okov gledišta. Ona su vezana za nemir, očaj i patnju. Ne vode smirenju, razumevanju ni oslobođenju.
+— Vaća, sva ta gledišta — da je svet večan ili nije, konačan ili beskonačan, da su duša i telo isto ili različito, da probuđeni posle smrti postoji ili ne postoji, i slično — predstavljaju džunglu gledišta, okov gledišta. Ona su vezana za nemir, očaj i muku. Ne vode smirenju, razumevanju ni oslobođenju.
 — A zastupaš li onda neko drugo gledište?
 — Ja sam gledišta ostavio po strani. Ja vidim: "To je telo, tako nastaje i tako nestaje. To su osećaji, tako nastaju i tako nestaju. To su predstave, tako nastaju i tako nestaju. To su obrasci, tako nastaju i tako nestaju. To je svest, tako nastaje i tako nestaje." Zato kažem, oslobođenje uma je moguće napuštanjem zamišljanja ja i moje, i svih vezanosti koje iz toga slede.
 

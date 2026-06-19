@@ -1,6 +1,6 @@
 # MN 14 / MA 100: Srećniji od kralja
 
-Jednom je Gotama razgovarao sa golim asketama, koji verovahu da se čovek oslobađa patnje mučenjem tela. Oni mu govoriše:
+Jednom je Gotama razgovarao sa golim asketama, koji verovahu da se čovek oslobađa muke mučenjem tela. Oni mu govoriše:
 
 — Blaženstvo se ne dostiže uživanjem, nego podnošenjem bola. Kada bi se blaženstvo dostizalo uživanjem, kralj Bimbisara bio bi srećniji od tebe.
 

@@ -10,7 +10,7 @@ Gotama se obrati svojim učenicima:
 
 — Tada nećete postati uznemireni.
 
-— A kada nema uznemirenosti, nema ni novog nastajanja patnje, starenja i smrti.
+— A kada nema uznemirenosti, nema ni novog nastajanja muke, starenja i smrti.
 
 Pošto je to rekao, Gotama ode u svoje odaje.
 
@@ -66,7 +66,7 @@ Mahā Kaććāna zatim reče:
 
 — Kada se ono za šta se vezao promeni ili nestane, nastaju strah, tuga, zabrinutost i uznemirenost.
 
-— Tako nastaje patnja.
+— Tako nastaje muka.
 
 Nastavi:
 
@@ -98,7 +98,7 @@ Mahā Kaććāna zaključi:
 
 — Kada nema vezivanja, nema uznemirenosti.
 
-— Kada nema uznemirenosti, nema ni novog nastajanja patnje.
+— Kada nema uznemirenosti, nema ni novog nastajanja muke.
 
 Monasi su zatim preneli ovo objašnjenje Gotami.
 

@@ -88,7 +88,7 @@ Vatroslav zaćuta. Posle kraće tišine odgovori:
 
 — Prolazno.
 
-— A ono što je prolazno, donosi li trajno zadovoljstvo ili patnju?
+— A ono što je prolazno, donosi li trajno zadovoljstvo ili muku?
 
 — Patnju.
 
@@ -118,7 +118,7 @@ Vatroslav zaćuta. Posle kraće tišine odgovori:
 
 Gotama upita:
 
-— Ako se neko veže za ono što donosi patnju, smatra ga svojim i drži ga se kao sopstva, može li ikada okončati patnju?
+— Ako se neko veže za ono što donosi muku, smatra ga svojim i drži ga se kao sopstva, može li ikada okončati muku?
 
 — Ne može.
 

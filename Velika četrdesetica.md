@@ -84,4 +84,4 @@ Na kraju Gotama saže čitav put:
 
 — Iz neposrednog znanja nastaje oslobođenje.
 
-— Tako se korak po korak razvija put koji vodi kraju patnje.
+— Tako se korak po korak razvija put koji vodi kraju muke.
