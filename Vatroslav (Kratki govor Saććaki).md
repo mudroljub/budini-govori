@@ -1,24 +1,12 @@
 # Vatroslav (Kratki govor Saććaki)
 
-Gotama je boravio kraj grada Vesalija, u Velikom gaju. U to vreme u Vesaliju je živeo Vatroslav (Aggivessana), poznat kao vešt govornik i raspravljač. Pred okupljenima je govorio:
+Gotama je boravio kraj grada Vesalija, u Velikom gaju. U to vreme u Vesaliju je živeo Vatroslav, poznat kao vešt govornik i raspravljač. Pred okupljenima je govorio:
 
-— Ne vidim učitelja ni mudraca koji se ne bi uznemirio kada bi stupio u raspravu sa mnom. Čak i kada bih raspravljao sa običnim stubom, i on bi se zatresao. A šta tek reći za živog čoveka?
-
-Jednog jutra sreo je Konjušara i upitao ga:
-
-— Kako Gotama podučava svoje učenike?
-
-Konjušar odgovori:
-
-— Ovako: telo je prolazno, osećaji su prolazni, opažaji su prolazni, pomisli su prolazne, svest je prolazna. Telo nije sopstvo, osećaji nisu sopstvo, opažaji nisu sopstvo, pomisli nisu sopstvo, svest nije sopstvo. Sve što nastaje prolazi. Ništa nije sopstvo.
-
-Vatroslav reče:
-
-— Ako je to njegovo učenje, onda je ono pogrešno. Moram da razgovaram s njim i da ga odvratim od takvog gledišta.
+— Ne vidim učitelja ni mudraca koji se ne bi uznemirio kada bi stupio u raspravu sa mnom. Čak i kada bih raspravljao sa običnim stubom, i on bi se zatresao.
 
 Zatim ode među građane Vesalija i objavi:
 
-— Danas ću raspravljati sa Gotamom. Ako bude tvrdio isto što i njegov učenik Konjušar, vući ću ga kroz raspravu kako god poželim.
+— Danas ću raspravljati sa Gotamom i pobiti njegovo pogrešno učenje.
 
 Neki rekoše:
 
@@ -28,11 +16,7 @@ Drugi rekoše:
 
 — Gotama će pobediti Vatroslava.
 
-Tako Vatroslav, praćen mnoštvom, ode u Veliki gaj. Kad je stigao do Gotame, pozdravi ga i poče:
-
-— Želeo bih da ti postavim nekoliko pitanja.
-
-— Pitaj šta želiš.
+Tako Vatroslav, praćen mnoštvom, ode u Veliki gaj. Kad je stigao do Gotame, upita ga:
 
 — Kako podučavaš svoje učenike?
 

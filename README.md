@@ -30,6 +30,7 @@ Cilj ovih prerada je veća čitljivost i razumljivost tekstova, ne nužno i tač
 - agame i pali kanon uporediti, posebno gde su najvece razlike
 - pročistiti "da li"
 - zameniti „ i “
+- Đetinji gaj, dodati čije je imanje
 - ujednačiti terminologiju, videti sr wiki
 - ručno kopirati svaku kinesku verziju
 - copilot review?

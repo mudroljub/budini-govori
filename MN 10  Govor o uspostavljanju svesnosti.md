@@ -18,7 +18,7 @@ Tako je uspostavljena svesnost: "Telo jeste". Samo radi znanja i svesnosti, bez 
 
 Motrenje osećaja znači da čovek zna kada je osećaj prijatan, kada bolan, a kada ni prijatan ni bolan. On posmatra njihov nastanak i nestanak bez vezivanja.
 
-Motrenje uma znači da čovek zna kada su u umu pohlepa, mržnja ili zabluda, a kada ih nema. Zna kada je um rastresen a kada sabran, kada sputan a kada oslobođen.
+Motrenje uma znači da čovek zna kada su u umu pohlepa, mržnja ili zabluda, a kada ih nema. Zna kada je um rasejan a kada sabran, kada sputan a kada oslobođen.
 
 Motrenje obrazaca znači da čovek primećuje kako nastaju požuda, zloba, učmalost, nemir i sumnja. Razume kako nastaju, kako se napuštaju i kako se više ne vraćaju. Svestan čovek posmatra oko i oblike, uho i zvuke, nos i mirise, jezik i ukuse, telo i dodire, um i obrasce. Razume kako iz susreta čula i njihovih predmeta nastaje vezivanje i kako ono prestaje. On razvija svesnost, istraživanje, istrajnost, radost, mir, sabranost i ravnotežu. Kada su prisutni, zna da su prisutni. Kada nisu, zna da nisu. Razume kako nastaju i kako sazrevaju.
 
