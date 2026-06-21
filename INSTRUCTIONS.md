@@ -83,6 +83,7 @@ Prevodilački principi
 * Skraćivati ponavljanja gde se značenje ne gubi, ali ne prepričavati.
 * Indijska imena prevoditi na srpski kada imaju značenje.
 * Svaku izmenu proveravati prema izvornom značenju, a ne prema kasnijim komentarima.
+* preferirati upitni oblik bez "da", npr. "postoji li" umesto "da li postoji"
 
 Format odgovora
 

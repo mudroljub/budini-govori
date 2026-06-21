@@ -25,7 +25,8 @@ Cilj ovih prerada je veća čitljivost i razumljivost tekstova, ne nužno i tač
 
 ## TODO
 
-- dodati naj izvornije
+- poređenje sa okeanom iz knjige
+- dodati sve sa spiska ispod
 - pregledati svete misli i uzeti šta nedostaje
 
 # Najveće razlike Pāli vs Āgama
