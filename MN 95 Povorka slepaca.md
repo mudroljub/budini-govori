@@ -26,7 +26,7 @@ Kapatika reče:
 
 Gotama odgovori:
 
-— Verovanje može biti tačno, a može biti i pogrešno. Predanje može biti tačno, a može biti i pogrešno. Razmišljanje može biti tačno, a može biti i pogrešno. Zato mudar čovek ne tvrdi: „Samo je ovo istina, a sve ostalo je pogrešno.”
+— Verovanje može biti tačno, a može biti i pogrešno. Predanje može biti tačno, a može biti i pogrešno. Razmišljanje može biti tačno, a može biti i pogrešno. Zato mudar čovek ne tvrdi: "Samo je ovo istina, a sve ostalo je pogrešno.”
 
 Kapatika upita:
 

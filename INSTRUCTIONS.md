@@ -49,11 +49,11 @@ Terminologija
 * dukkha - muka
 * bolest - bol
 * sopstvo - ja, sebe, moje
-* Gotama umesto „Blaženi“, „Tathagata“ i sličnih titula.
-* „brahmani“ → „sveštenici“
-* „bhikkhu“ → „čovek“ (osim kada kontekst zahteva drugačije)
-* Ne koristiti reč „monasi“.
-* „asketa“ ostaje „asketa“.
+* Gotama umesto "Blaženi", "Tathagata" i sličnih titula.
+* "brahmani" → "sveštenici"
+* "bhikkhu" → "čovek" (osim kada kontekst zahteva drugačije)
+* Ne koristiti reč "monasi".
+* "asketa" ostaje "asketa".
 * Mara je Đavo
 
 Usvojeni prevodi imena

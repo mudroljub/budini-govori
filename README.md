@@ -25,15 +25,8 @@ Cilj ovih prerada je veća čitljivost i razumljivost tekstova, ne nužno i tač
 
 ## TODO
 
-- srediti sve postojeće sutre i povezati sa izvorom
+- dodati naj izvornije
 - pregledati svete misli i uzeti šta nedostaje
-- agame i pali kanon uporediti, posebno gde su najvece razlike
-- pročistiti "da li"
-- zameniti „ i “
-- Đetinji gaj, dodati čije je imanje
-- ujednačiti terminologiju, videti sr wiki
-- ručno kopirati svaku kinesku verziju
-- copilot review?
 
 # Najveće razlike Pāli vs Āgama
 
@@ -44,7 +37,7 @@ Cilj ovih prerada je veća čitljivost i razumljivost tekstova, ne nužno i tač
 * Pāli: standardizovana lista praksi
 * Āgama: više varijanti, različiti redosledi
 
-📌 Āgama čuva više “fluidnih” verzija
+📌 Āgama čuva više "fluidnih” verzija
 
 ---
 
@@ -83,9 +76,9 @@ Cilj ovih prerada je veća čitljivost i razumljivost tekstova, ne nužno i tač
 
 ## 7. Sutta o vatri (SN 35.28 / SA 265)
 
-👉 “sve gori”
+👉 "sve gori”
 
-* Pāli: sažeta “formula”
+* Pāli: sažeta "formula”
 * Āgama: procesno objašnjenje percepcije i vezivanja
 
 📌 različit stil učenja (formula vs proces)
@@ -110,7 +103,7 @@ Cilj ovih prerada je veća čitljivost i razumljivost tekstova, ne nužno i tač
 * Pāli: razvijena kosmologija i mitologija
 * Āgama: često jednostavnije verzije ili drugačiji fokus
 
-📌 Pāli više “kosmičkog proširenja”
+📌 Pāli više "kosmičkog proširenja”
 
 ---
 
@@ -132,7 +125,7 @@ Ne postoji potpuna saglasnost među istraživačima, ali postoji prilično širo
 | **Dhammacakkappavattana Sutta** | SN 56.11       | Prva propoved, četiri plemenite istine |
 | **Anattalakkhaṇa Sutta**        | SN 22.59       | Učenje o ne-ja                         |
 | **Kaccānagotta Sutta**          | SN 12.15       | Srednji put i zavisno nastajanje       |
-| **Ādittapariyāya Sutta**        | SN 35.28       | „Sve gori“                             |
+| **Ādittapariyāya Sutta**        | SN 35.28       | "Sve gori"                             |
 | **Salla Sutta**                 | SN 36.6        | Dve strele i odnos prema patnji        |
 | **Alagaddūpama Sutta**          | MN 22          | Zmija i splav, nevezivanje za učenje   |
 | **Satipaṭṭhāna Sutta**          | MN 10          | Osnove pažnje                          |

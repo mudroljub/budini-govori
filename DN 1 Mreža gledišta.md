@@ -2,7 +2,7 @@
 
 Gotama reče:
 
-— Ljudi se vezuju za svoja iskustva i iz njih stvaraju gledišta. Jedni kažu: „Svet je večan.“ Drugi kažu: „Svet nije večan.“ Jedni kažu: „Postoji trajno sopstvo.“ Drugi kažu: „Posle smrti sve nestaje.“ Jedni kažu: „Posle smrti postoji opažanje.“ Drugi kažu: „Posle smrti nema opažanja.“ Jedni kažu: „Oslobođenje se nalazi u čulnim zadovoljstvima.“ Drugi ga traže u dubokoj sabranosti. Tako nastaju mnoga gledišta i rasprave.
+— Ljudi se vezuju za svoja iskustva i iz njih stvaraju gledišta. Jedni kažu: "Svet je večan." Drugi kažu: "Svet nije večan." Jedni kažu: "Postoji trajno sopstvo." Drugi kažu: "Posle smrti sve nestaje." Jedni kažu: "Posle smrti postoji opažanje." Drugi kažu: "Posle smrti nema opažanja." Jedni kažu: "Oslobođenje se nalazi u čulnim zadovoljstvima." Drugi ga traže u dubokoj sabranosti. Tako nastaju mnoga gledišta i rasprave.
 
 Učenici upitaše:
 
@@ -14,7 +14,7 @@ Gotama odgovori:
 
 Zatim reče:
 
-— Čovek nešto doživi i pomisli: „To mora biti konačna istina.“ Zatim se za to veže. Zatim počne da ga brani. Zatim ulazi u rasprave. Zatim govori: „Samo je ovo tačno, sve ostalo je pogrešno.“ Tako nastaje sukob.
+— Čovek nešto doživi i pomisli: "To mora biti konačna istina." Zatim se za to veže. Zatim počne da ga brani. Zatim ulazi u rasprave. Zatim govori: "Samo je ovo tačno, sve ostalo je pogrešno." Tako nastaje sukob.
 
 Učenici upitaše:
 
@@ -46,6 +46,6 @@ Učenici upitaše:
 
 Gotama odgovori:
 
-— Zato što vidi nastanak i prestanak svih iskustava. Zato što se ne vezuje ni za jedno od njih. Zato što ne govori: „Samo je ovo istina.“ Zato što je napustio svako vezivanje za gledišta. Kada nestane vezivanje, um se oslobađa.
+— Zato što vidi nastanak i prestanak svih iskustava. Zato što se ne vezuje ni za jedno od njih. Zato što ne govori: "Samo je ovo istina." Zato što je napustio svako vezivanje za gledišta. Kada nestane vezivanje, um se oslobađa.
 
 Učenici se obradovaše njegovim rečima.
