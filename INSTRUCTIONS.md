@@ -41,9 +41,15 @@ Odnosi među učesnicima
 
 Terminologija
 
-* dukkha -> muka
-* bolest -> bol
-* Gotama ili Gotama Budni umesto „Blaženi“, „Tathagata“ i sličnih titula.
+* rūpa — telo
+* vedanā — osećaj
+* saññā — predstava, predodžba
+* saṅkhārā — tvorbe, obrasci
+* viññāṇa - svest
+* dukkha - muka
+* bolest - bol
+* sopstvo - ja, sebe, moje
+* Gotama umesto „Blaženi“, „Tathagata“ i sličnih titula.
 * „brahmani“ → „sveštenici“
 * „bhikkhu“ → „čovek“ (osim kada kontekst zahteva drugačije)
 * Ne koristiti reč „monasi“.
