@@ -43,10 +43,13 @@ Terminologija
 
 * rūpa — telo
 * vedanā — osećaj
-* saññā — predstava, predodžba
-* saṅkhārā — tvorbe, obrasci
+* saññā — predstava (alt. predodžba)
+* saṅkhārā — obrasci (alt. tvorbe)
 * viññāṇa - svest
 * dukkha - muka
+* phassa - doticaj
+* taṇhā - žeđ (alt. želja, žudnja)
+* upādāna - gorivo (alt. vezivanje)
 * bolest - bol
 * sopstvo - ja, sebe, moje
 * Gotama umesto "Blaženi", "Tathagata" i sličnih titula.
@@ -55,6 +58,10 @@ Terminologija
 * Ne koristiti reč "monasi".
 * "asketa" ostaje "asketa".
 * Mara je Đavo
+
+kāmupādāna - gorivo za užitke
+diṭṭhupādāna - gorivo za gledišta
+attavādupādāna - gorivo za učenje o ja
 
 Usvojeni prevodi imena
 

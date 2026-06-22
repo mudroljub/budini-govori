@@ -31,28 +31,6 @@ Cilj ovih prerada je veća čitljivost i razumljivost tekstova, ne nužno i tač
 
 # Najveće razlike Pāli vs Āgama
 
-## 3. Satipaṭṭhāna Sutta (MN 10 / DN 22)
-
-👉 meditacija pažnje
-
-* Pāli: standardizovana lista praksi
-* Āgama: više varijanti, različiti redosledi
-
-📌 Āgama čuva više "fluidnih” verzija
-
----
-
-## 4. Saṃyutta 12 / Saṃyukta Āgama 12
-
-👉 zavisno nastajanje
-
-* Pāli: fragmenti + različita dužina govora
-* Āgama: sistematično organizovan blok
-
-📌 Āgama = uredniji sistem, Pāli = usmeni fragmenti
-
----
-
 ## 5. Ānāpānasati Sutta (MN 118)
 
 👉 pažnja na disanje
