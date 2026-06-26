@@ -47,10 +47,11 @@ Terminologija
 - saṅkhārā — obrasci (alt. tvorbe)
 - viññāṇa - svest
 - dukkha - muka
-- phassa - doticaj
+- phassa - ticanje, doticaj
 - taṇhā - žeđ (alt. želja, žudnja)
 - upādāna - gorivo (alt. vezivanje)
 - virāga – bledenje
+- moha - zabluda
 - bolest - bol
 - sopstvo - ja, sebe, moje
 - Gotama umesto "Blaženi", "Tathagata" i sličnih titula.
