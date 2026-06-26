@@ -1,19 +1,56 @@
-# MN 118 / MA 98: Svesnost disanja
+# MN 118: Svesnost disanja
 
 Tako je govorio Gotama Budni:
 
-Svesnost disanja, kada se razvija, donosi veliku korist. Ona postavlja temelje svesnosti, koja vodi buđenju i oslobođenju.
+Svesnost disanja, kada se redovno upražnjava, donosi veliku korist. Njome se uspostavlja svesnost koja vodi buđenju i oslobođenju.
 
-A kako se razvija svesnost disanja? Tako što čovek ode u šumu, pod drvo ili u prazno sklonište. Sedne uspravno i ustali pažnju pred sobom. Svestan udiše, svestan izdiše.
+Kako se upražnjava svesnost disanja? Čovek ode u šumu ili pod drvo ili u neku kolibu. Sedne uspravno i ustali pažnju pred sobom. Svestan udiše i svestan izdiše.
 
-Udišući dugo, zna: "Dugo udišem". Izdišući dugo, zna: "Dugo izdišem". Udišući kratko, zna: "Kratko udišem". Izdišući kratko, zna: "Kratko izdišem".
+Kada udiše dugo, zna: "Dugo udišem". 
+Kada izdiše dugo, zna: "Dugo izdišem". 
 
-Ovako sebe vežba: Osećajući čitavo telo, udisaću. Osećajući čitavo telo, izdisaću. Smirujući telesni sklop, udisaću. Smirujući telesni sklop, izdisaću.
+Kada udiše kratko, zna: "Kratko udišem". 
+Kada izdiše kratko, zna: "Kratko izdišem". 
 
-Zatim sebe vežba: Osećajući radost, udisaću. Osećajući radost, izdisaću. Osećajući zadovoljstvo, udisaću. Osećajući zadovoljstvo, izdisaću. Osećajući umni sklop, udisaću. Osećajući umni sklop, izdisaću. Smirujući umni sklop, udisaću. Smirujući umni sklop, izdisaću.
+Ovako vežba: 
 
-Zatim sebe vežba: Osećajući um, udisaću. Osećajući um, izdisaću. Razgaljujući um, udisaću. Razgaljujući um, izdisaću. Sabirajući um, udisaću. Sabirajući um, izdisaću. Oslobađajući um, udisaću. Oslobađajući um, izdisaću.
+Osećajući čitavo telo, udišem. 
+Osećajući čitavo telo, izdišem. 
 
-Zatim sebe vežba: Posmatrajući prolaznost, udisaću. Posmatrajući prolaznost, izdisaću. Posmatrajući gasnuće, udisaću. Posmatrajući gasnuće, izdisaću. Posmatrajući prestanak, udisaću. Posmatrajući prestanak, izdisaću. Posmatrajući napuštanje, udisaću. Posmatrajući napuštanje, izdisaću.
+Umirujući čitavo telo, udišem. 
+Umirujući čitavo telo, izdišem.
 
-Tako razvijana, svesnost disanja donosi veliku korist.
+Osećajući prijatnost, udišem. 
+Osećajući prijatnost, izdišem. 
+
+Osećajući zadovoljstvo, udišem. 
+Osećajući zadovoljstvo, izdišem. 
+
+Osećajući čitav um, udišem. 
+Osećajući čitav um, izdišem. 
+
+Umirujući um, udišem. 
+Umirujući um, izdišem.
+
+Razgaljujući um, udišem. 
+Razgaljujući um, izdišem. 
+
+Sabirajući um, udišem. 
+Sabirajući um, izdišem. 
+
+Oslobađajući um, udišem. 
+Oslobađajući um, izdišem.
+
+Motreći prolaznost, udišem. 
+Motreći prolaznost, izdišem. 
+
+Motreći gasnuće, udišem. 
+Motreći gasnuće, izdišem. 
+
+Motreći prestanak, udišem. 
+Motreći prestanak, izdišem. 
+
+Motreći napuštanje, udišem.
+Motreći napuštanje, izdišem.
+
+Tako se upražnjava svesnost disanja koja donosi veliku korist.

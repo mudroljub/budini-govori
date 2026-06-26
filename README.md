@@ -31,17 +31,6 @@ Cilj ovih prerada je veća čitljivost i razumljivost tekstova, ne nužno i tač
 
 # Najveće razlike Pāli vs Āgama
 
-## 5. Ānāpānasati Sutta (MN 118)
-
-👉 pažnja na disanje
-
-* Pāli: 16 koraka meditacije jasno strukturisano
-* Āgama: varijacije u koracima i redosledu
-
-📌 razlika u standardizaciji meditacije
-
----
-
 ## 6. Anāthapiṇḍika/Jeta-vana epizode
 
 👉 donatori i manastir
