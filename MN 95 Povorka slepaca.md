@@ -34,7 +34,7 @@ Kapatika upita:
 
 Gotama odgovori:
 
-— Ako nešto veruješ, reci tako. Ako nešto prihvataš na osnovu predanja ili razmišljanja, reci tako. Ali nemoj tvrditi: "Samo je ovo istina, a sve ostalo je pogrešno." Tako se čuva istina.
+— Ako nešto veruješ, reci tako verujem. Ako nešto prihvataš na osnovu predanja, reci to je predanje. Ako zaključuješ iz razmišljanja, reci: tako razmišljam. Ali nemoj tvrditi: "Samo je ovo istina, a sve ostalo je pogrešno." Tako se čuva istina.
 
 Kapatika zatim upita:
 
