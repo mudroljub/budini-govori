@@ -14,7 +14,7 @@ Nebojša je držao malog sina u krilu. Gotama ga upita:
 
 Nebojša zatim upita:
 
-— Da li unapred pripremaš odgovore na pitanja ili odgovaraš iz glave?
+— Pripremaš li unapred odgovore na pitanja ili odgovaraš iz glave?
 
 — Poznaješ li dobro delove bojnih kola?
 

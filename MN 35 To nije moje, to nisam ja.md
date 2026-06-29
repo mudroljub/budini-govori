@@ -22,7 +22,7 @@ Tako Vatroslav, praćen mnoštvom, ode u Veliki gaj. Kad je stigao do Gotame, up
 
 Gotama odgovori:
 
-— Ovako: Telo je nestalno, osećaj je nestalan, predstava je nestalna, tvorba je nestalna, svest je nestalna. Telo nisam ja, osećaj nisam ja, predstava nisam ja, tvorba nisam ja, svest nisam ja. Sve što nastaje nestaje. Ništa od toga nisam ja.
+— Ovako: Telo je nestalno, osećaj je nestalan, predstava je nestalna, obrasci su nestalni, svest je nestalna. Telo nisam ja, osećaj nisam ja, predstava nisam ja, obrasci nisu ja, svest nisam ja. Sve što nastaje nestaje. Ništa od toga nisam ja.
 
 Vatroslav reče:
 
@@ -30,11 +30,11 @@ Vatroslav reče:
 
 — Kaži.
 
-— Sve biljke rastu oslanjajući se na tlo. Isto tako, čovek ima svoje telo i na njemu zasniva svoja dela. Isto važi za osećaje i ostalo.
+— Sve biljke rastu oslanjajući se na tlo. Isto tako, čovek ima svoje telo i na njemu zasniva svoja dela. Isto važi za osećaje, predstave, obrasce i svest.
 
 Gotama upita:
 
-— Da li ti tvrdiš: Telo je moje, osećaji su moji, predstave su moje, tvorbe su moje i svest je moja?
+— Tvrdiš li: Telo je moje, osećaji su moji, predstave su moje, obrasci su moji i svest je moja?
 
 — Tvrdim.
 
@@ -52,7 +52,7 @@ Posle kraće tišine Vatroslav odgovori:
 
 — Ne mogu.
 
-— Važi li isto i za predstave, tvorbe i svest?
+— Važi li isto i za predstave, obrasce i svest?
 
 — Izgleda.
 
