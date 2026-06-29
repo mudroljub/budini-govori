@@ -2,9 +2,11 @@
 
 Tako je govorio Gotama Budni:
 
+Udari li neko tvoju sestru rukom, kamenom, štapom ili nožem, ne treba dopustiti da se um pomuti, već ovako sebe vežbajte: Moj um će ostati miran i neću izgovoriti lošu reč, pun saosećanja za njegovu dobrobit, uma punog ljubavi, bez mržnje u sebi.
+
 Neka vam um bude poput zemlje. Zamislite čoveka koji dođe s lopatom i kaže: "Ukloniću svu zemlju." Onda krene da kopa, pljuje i viče: "Zemljo, nestani!" Ali zemlja neće nestati, zato što je ogromna i duboka. Na kraju će on odustati umoran i razočaran.
 
-Neka vam um bude poput praznog prostora. Zamislite čoveka koji dođe sa raznim bojama i kaže: Nacrtaću slike po praznom prostoru. Ali prazan prostor je bez oblika i nevidljiv. Po njemu se ne mogu crtati slike. Na kraju će on odustati umoran i razočaran.
+Neka vam um bude poput praznog prostora. Zamislite čoveka koji dođe sa raznim bojama i kaže: Nacrtaću slike po praznom prostoru. Ali prazan prostor je bez oblika i nevidljiv. Po njemu nije moguće crtati. Na kraju će on odustati umoran i razočaran.
 
 Neka vam um bude poput reke. Zamislite čoveka koji dođe sa bakljom i kaže: Isušiću reku Gang. Ali Gang je dubok i širok, ne može se osušiti bakljom. Na kraju će on odustati umoran i razočaran.
 
