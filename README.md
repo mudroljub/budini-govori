@@ -26,3 +26,14 @@ Cilj ovih prerada je veća čitljivost i razumljivost tekstova, ne nužno i tač
 ## TODO
 
 - pregledati svete misli i dodati šta nedostaje
+
+## Dhammapada
+
+Nije moguće sa sigurnošću izdvojiti "Budine stihove", ali na osnovu poređenja palijskih Nikaja, kineskih Agama i drugih ranih izvora, naučnici smatraju da su **najstariji i najverovatnije autentični** oni stihovi koji:
+
+* imaju paralele u više nezavisnih tradicija,
+* izražavaju osnovne teme ranog budizma,
+* nemaju kasnije doktrinarne elemente.
+
+
+

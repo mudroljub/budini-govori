@@ -11,6 +11,7 @@ Izvori
 - Ne uvoditi sadržaj koji nije potvrđen izvorom.
 - Ne dodavati moderne interpretacije kao da su deo izvornog teksta.
 - Kada postoji sukob između interpretacije i izvora, prednost ima izvor.
+- Github repo sutta-central data: https://github.com/suttacentral/sc-data
 
 Stil
 
@@ -41,37 +42,39 @@ Odnosi među učesnicima
 
 Terminologija
 
-- abyāpāda → dobronamernost
-- ādīnava → opasnost
+- abyāpāda - dobronamernost
+- ādīnava - opasnost
 - askete i bramani - duhovnici
-- assāda → draž
+- assāda - draž
 - attavādupādāna - gorivo za učenje o ja
-- avihiṃsā / ahiṃsā → nenasilje
-- bhikkhu → čovek ili duhovnik (zavisi od konteksta)
+- avihiṃsā / ahiṃsā - nenasilje
+- bhikkhu - čovek ili duhovnik (zavisi od konteksta)
 - Blaženi - Gotama
 - bolest - bol
-- brahmani → sveštenici
+- brahmani - sveštenici
 - diṭṭhupādāna - gorivo za gledišta
 - dukkha - muka
-- jhāna → zadubljenje
+- jhāna - zadubljenje
 - kāmupādāna - gorivo za užitke
-- Mara - Đavo
+- Mara - Smrt
 - moha - zabluda
-- nissaraṇa → izlaz
+- nibbidā - odvratnost
+- nirvana - gašenje ili nirvana (zavisno od konteksta)
+- nissaraṇa - izlaz
 - phassa - ticanje, doticaj
-- rūpa — telo
-- samādhi → sabranost
-- saṅkhārā — obrasci (alt. tvorbe)
-- saññā — predstava (alt. predodžba)
-- saññā → predstava
+- rūpa - telo
+- samādhi - sabranost
+- saṅkhārā - obrasci (alt. tvorbe)
+- saññā - predstava
+- saññā - predstava (alt. predodžba)
 - sopstvo - ja, sebe, moje
 - taṇhā - žeđ (alt. želja, žudnja)
 - Tathagata - probuđeni, budni
 - upādāna - gorivo (alt. vezivanje)
-- vedanā — osećaj
+- vedanā - osećaj
 - viññāṇa - svest
 - virāga – bledenje
-- vyāpāda → zloba ili zlovolja (zavisno od konteksta)
+- vyāpāda - zloba ili zlovolja (zavisno od konteksta)
 
 Usvojeni prevodi imena
 
