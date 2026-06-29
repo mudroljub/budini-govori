@@ -10,7 +10,7 @@ Zemljan odgovori:
 
 Kasnije Zemljan ispriča razgovor Gotami. Gotama reče:
 
-— Dobro si odgovorio. Nije presudno šta čovek obećava. Presudno je da li ide ispravnim putem.
+— Dobro si odgovorio. Nije presudno šta čovek obećava. Presudno je ide li ispravnim putem.
 
 Gotama nastavi:
 

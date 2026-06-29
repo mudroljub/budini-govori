@@ -1,4 +1,4 @@
-# MN 85: Koliko brzo se dostiže cil
+# MN 85: Koliko brzo se dostiže cilj
 
 Jednom prilikom kraljević Bodi upita Gotamu:
 

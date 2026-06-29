@@ -12,7 +12,7 @@ Gotama nastavi:
 
 Ganaka Mogalana upita:
 
-— Kada tako podučavaš, da li svi tvoji učenici dostižu oslobođenje?
+— Kada tako podučavaš, dostižu li svi tvoji učenici oslobođenje?
 
 — Neki ga dostižu, a neki ne.
 
