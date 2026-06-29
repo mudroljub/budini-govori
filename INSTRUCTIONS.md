@@ -41,29 +41,37 @@ Odnosi među učesnicima
 
 Terminologija
 
-- rūpa — telo
-- vedanā — osećaj
-- saññā — predstava (alt. predodžba)
-- saṅkhārā — obrasci (alt. tvorbe)
-- viññāṇa - svest
-- dukkha - muka
-- phassa - ticanje, doticaj
-- taṇhā - žeđ (alt. želja, žudnja)
-- upādāna - gorivo (alt. vezivanje)
-- virāga – bledenje
-- moha - zabluda
+- abyāpāda → dobronamernost
+- ādīnava → opasnost
+- askete i bramani - duhovnici
+- assāda → draž
+- attavādupādāna - gorivo za učenje o ja
+- avihiṃsā / ahiṃsā → nenasilje
+- bhikkhu → čovek ili duhovnik (zavisi od konteksta)
+- Blaženi - Gotama
 - bolest - bol
+- brahmani → sveštenici
+- diṭṭhupādāna - gorivo za gledišta
+- dukkha - muka
+- jhāna → zadubljenje
+- kāmupādāna - gorivo za užitke
+- Mara - Đavo
+- moha - zabluda
+- nissaraṇa → izlaz
+- phassa - ticanje, doticaj
+- rūpa — telo
+- samādhi → sabranost
+- saṅkhārā — obrasci (alt. tvorbe)
+- saññā — predstava (alt. predodžba)
+- saññā → predstava
 - sopstvo - ja, sebe, moje
-- Gotama umesto "Blaženi", "Tathagata" i sličnih titula.
-- "brahmani" → "sveštenici"
-- "bhikkhu" → "čovek" (osim kada kontekst zahteva drugačije)
-- Ne koristiti reč "monasi".
-- "asketa" ostaje "asketa".
-- Mara je Đavo
-
-kāmupādāna - gorivo za užitke
-diṭṭhupādāna - gorivo za gledišta
-attavādupādāna - gorivo za učenje o ja
+- taṇhā - žeđ (alt. želja, žudnja)
+- Tathagata - probuđeni, budni
+- upādāna - gorivo (alt. vezivanje)
+- vedanā — osećaj
+- viññāṇa - svest
+- virāga – bledenje
+- vyāpāda → zloba ili zlovolja (zavisno od konteksta)
 
 Usvojeni prevodi imena
 
@@ -74,18 +82,6 @@ Usvojeni prevodi imena
 - Kapilavatthu → Kapilavastu
 - Sakya → Sakjani
 
-Usvojeni prevodi pojmova
-
-- assāda → draž
-- ādīnava → opasnost
-- nissaraṇa → izlaz
-- samādhi → sabranost
-- jhāna → zadubljenje
-- saññā → predstava
-- abyāpāda → dobronamernost
-- avihiṃsā / ahiṃsā → nenasilje
-- vyāpāda → zloba ili zlovolja (zavisno od konteksta)
-
 Prevodilački principi
 
 - Preferirati prirodan srpski jezik nad doslovnim kalkovima.
@@ -93,10 +89,11 @@ Prevodilački principi
 - Indijska imena prevoditi na srpski kada imaju značenje.
 - Svaku izmenu proveravati prema izvornom značenju, a ne prema kasnijim komentarima.
 - preferirati upitni oblik bez "da", npr. "postoji li" umesto "da li postoji"
+- preferirati infinitiv gde je prirodno, umesto dadakanja
+- Ne koristiti reč "monasi".
 
 Format odgovora
 
 - Vraćati samo čist, kopirljiv tekst.
 - Bez markdown citata.
-- Bez akademskog aparata osim kada je posebno tražen.
 - Bez dodatnih objašnjenja koja nisu deo same prerade.
