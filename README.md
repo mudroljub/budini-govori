@@ -26,6 +26,7 @@ Cilj ovih prerada je veća čitljivost i razumljivost tekstova, ne nužno i tač
 ## TODO
 
 - pregledati svete misli i dodati šta nedostaje
+- tekst o demokratiji
 
 ## Dhammapada
 
