@@ -50,6 +50,7 @@ Terminologija
 - avihiṃsā / ahiṃsā - nenasilje
 - bhikkhu - čovek ili duhovnik (zavisi od konteksta)
 - Blaženi - Gotama
+- Brahmā - Bog
 - bolest - bol
 - brahmani - sveštenici
 - diṭṭhupādāna - gorivo za gledišta
@@ -57,7 +58,7 @@ Terminologija
 - jhāna - zadubljenje
 - kāmupādāna - gorivo za užitke
 - Mara - Smrt
-- moha - zabluda
+- moha - zabluda ili obmana (zavisno od konteksta)
 - nibbidā - odvratnost
 - nirvana - gašenje ili nirvana (zavisno od konteksta)
 - nissaraṇa - izlaz
@@ -100,3 +101,4 @@ Format odgovora
 - Vraćati samo čist, kopirljiv tekst.
 - Bez markdown citata.
 - Bez dodatnih objašnjenja koja nisu deo same prerade.
+- ako tekst sadrži samo Budine reči onda počinje sa "Tako je govorio Gotama Budni:", ako ima formu dijaloga onda ne.

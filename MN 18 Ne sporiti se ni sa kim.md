@@ -1,8 +1,8 @@
-# MN 18: Ja se ne prepirem ni sa kim
+# MN 18: Ne sporiti se ni sa kim
 
 Tako je govorio Gotama Budni:
 
-Prijatelju, ja izlažem učenje tako da se ni sa kim na svetu ne prepirem. Onoga ko je slobodan od čulnih zadovoljstava, bez vezanosti, bez briga i bez žeđi za bivanjem, opažaji više ne uznemiruju.
+— Ja izlažem učenje kojim se ne sporimo ni sa kim na svetu.
 
 Upitaše ga:
 
