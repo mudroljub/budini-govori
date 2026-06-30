@@ -1,4 +1,4 @@
-# AN 4.100: Hvaliti i kuditi
+# AN 4.100: Kuditi i hvaliti
 
 Jednom je lutajući asketa Potalija razgovarao sa Gotamom. Gotama ga upita:
 

@@ -12,7 +12,7 @@ Kad odlazi i dolazi, on postupa svesno. Kad gleda pravo ili u stranu, postupa sv
 
 SVESNOST DELOVA TELA
 
-Svestan čovek posmatra telo kao skup delova: kosa, malje, nokti, zubi, koža, meso, tetive, kosti, srž, srce, jetra, pluća, creva, želudac, krv, znoj, pljuvačka, mokraća i druge telesne tečnosti. Kao što neko otvori vreću punu raznog zrnevlja i jasno vidi šta je u njoj, tako svestan čovek posmatra telo.
+Ovo telo, od tabana do temena, omeđeno kožom, puno je raznih nečistoća: kosa, dlake, nokti, zubi, koža, meso, tetive, kosti, srž, srce, jetra, pluća, creva, želudac, krv, znoj, pljuvačka, mokraća i druge telesne tečnosti. Tako svestan čovek posmatra telo.
 
 On posmatra telo kroz njegove osnovne elemente: zemlju, vodu, vatru i vazduh; čvrsto, tečno, toplo i pokretno. Kao što mesar raskomada životinju i vidi samo različite delove mesa, tako i čovek posmatra telo bez predstave o njemu kao celini. On vidi samo različite elemente od kojih je sastavljeno.
 

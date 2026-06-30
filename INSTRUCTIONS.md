@@ -50,12 +50,13 @@ Terminologija
 - avihiṃsā / ahiṃsā - nenasilje
 - bhikkhu - čovek ili duhovnik (zavisi od konteksta)
 - Blaženi - Gotama
-- Brahmā - Bog
 - bolest - bol
+- Brahmā - Bog
 - brahmani - sveštenici
 - diṭṭhupādāna - gorivo za gledišta
 - dukkha - muka
 - jhāna - zadubljenje
+- kāma - užitak ili zadovoljstvo
 - kāmupādāna - gorivo za užitke
 - Mara - Smrt
 - moha - zabluda ili obmana (zavisno od konteksta)
@@ -68,6 +69,7 @@ Terminologija
 - saṅkhārā - obrasci (alt. tvorbe)
 - saññā - predstava
 - saññā - predstava (alt. predodžba)
+- santuṭṭhi - zadovoljenost
 - sopstvo - ja, sebe, moje
 - taṇhā - žeđ (alt. želja, žudnja)
 - Tathagata - probuđeni, budni

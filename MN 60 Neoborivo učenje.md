@@ -1,4 +1,4 @@
-# MN 60: Pouzdano učenje
+# MN 60: Neoborivo učenje
 
 Jednom je Gotama došao u selo Sala u zemlji Kosala. Tamošnji učenjaci dođoše da ga posete. Gotama ih upita:
 
@@ -6,7 +6,7 @@ Jednom je Gotama došao u selo Sala u zemlji Kosala. Tamošnji učenjaci dođoš
 
 — Ne, nema takvog učitelja.
 
-— Pošto nemate učitelja koga sledite, možete slediti pouzdano učenje. A kakvo je to učenje?
+— Pošto nemate učitelja koga sledite, možete slediti neoborivo učenje. A kakvo je to učenje?
 
 POSTOJANJE ONOG SVETA
 
