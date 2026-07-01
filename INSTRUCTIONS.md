@@ -78,6 +78,7 @@ Terminologija
 - viññāṇa - svest
 - virāga – bledenje
 - vyāpāda - zloba ili zlovolja (zavisno od konteksta)
+- neupućen - neuk
 
 Usvojeni prevodi imena
 
