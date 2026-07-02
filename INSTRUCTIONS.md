@@ -123,7 +123,7 @@ Glavni pojmovi:
 
 - ādīnava - opasnost
 - assāda - draž
-- atta, atman - ja, sebe, moje (ne prevoditi kao sopstvo)
+- atta, atman - ja, sebe, moje (samo izuzetno sopstvo)
 - dosa - mržnja, odbojnost
 - dukkha - muka, može i patnja ponekad
 - jhāna - zadubljenje
