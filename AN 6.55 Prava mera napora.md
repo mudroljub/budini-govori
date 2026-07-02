@@ -1,25 +1,25 @@
 # AN 6.55: Prava mera napora
 
-Nakon mnogo vežbanja, Gotamin učenik Sona pomisli:
+Nakon mnogo napora, Gotamin učenik Sona pomisli:
 
-"Ulažem veliki napor, a ipak nisam dostigao oslobođenje. Možda bi trebalo da odustanem od ovog puta."
+— Ulažem veliki napor, a ipak nisam dostigao oslobođenje. Možda bi trebalo da odustanem od ovog puta.
 
-Buda ga upita:
+Videći njegovu potištenost, Buda ga upita:
 
-"Dok si bio domaćin, jesi li umeo da sviraš lautu?"
+— Sona, ti beše umeš da sviraš kitaru?
 
-"Jesam."
+— Da.
 
-"Kada su žice bile previše zategnute, je li lauta bila naštimovana i pogodna za sviranje?"
+— Kada su strune na tvojoj kitari previše zategnute, je li ona naštimana i dobra za sviranje?
 
-"Nije."
+— Nije.
 
-"A kada su bile previše labave?"
+— A kada su strune previše labave?
 
-"Takođe nije."
+— Ni onda nije dobra.
 
-"A kada su bile zategnute po meri?"
+— A kada strune nisu ni previše zategnute ni previše labave, već po meri, je li kitari tada naštimana i dobra za sviranje?
 
-"Tada jeste."
+— Tada jeste.
 
-"Tako je i sa naporom. Prevelik napor rađa uznemirenost, a preslab lenjost. Zato odredi pravu meru svog napora, uskladi svoje sposobnosti i prihvati svoj predmet meditacije."
+— Tako je i sa naporom. Prevelik napor rađa nemir, a preslab napor rađa lenjost. Zato naštimuj svoj napor, uskladi svoje sposobnosti i prihvati svoju temu.
