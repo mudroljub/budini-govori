@@ -67,7 +67,6 @@ Terminologija
 - rūpa - telo
 - samādhi - sabranost
 - saṅkhārā - obrasci (alt. tvorbe)
-- saññā - predstava
 - saññā - predstava (alt. predodžba)
 - santuṭṭhi - zadovoljenost
 - sopstvo - ja, sebe, moje
