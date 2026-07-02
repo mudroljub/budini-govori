@@ -4,7 +4,7 @@ Nakon mnogo napora, Gotamin učenik Sona pomisli:
 
 — Ulažem veliki napor, a ipak nisam dostigao oslobođenje. Možda bi trebalo da odustanem od ovog puta.
 
-Videći njegovu potištenost, Buda ga upita:
+Videći njegovu potištenost, Gotama ga upita:
 
 — Sona, ti beše umeš da sviraš kitaru?
 

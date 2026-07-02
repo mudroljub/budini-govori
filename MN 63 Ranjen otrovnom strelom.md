@@ -1,4 +1,4 @@
-# MN 63 Ranjen otrovnom strelom
+# MN 63: Ranjen otrovnom strelom
 
 Jednoga dana, Gotamin učenik Malunković pomisli:
 
