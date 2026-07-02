@@ -1,57 +1,5 @@
 [
   {
-    "author": "Gautama Buddha",
-    "sr": "Ako su strune previše nategnute ili previše opuštene, kitara nije naštimana ni dobra za sviranje. Tako, preveliki napor rađa nemir, a preslab lenjost. Zato odredi pravu meru napora, naštimaj svoje sposobnosti i zasviraj svoju melodiju.",
-    "ms": "Ako struny prěvyše zaprežene ili prěvyše odpuščene, kitara ne nastrojena ni dobra za igranje. Tako, prěveliky napor rodi nemir, a prěslaby lěnivost. Zato oprěděli pravu měru napora, nastroji svoje sposobnosti i zaigraj svoju melodiju.",
-    "source": "anguttara/an06-055",
-    "_id": 278
-  },
-  {
-    "_id": 279,
-    "author": "Gautama Buddha",
-    "sr": "Ko ponavlja mnoštvo svetih izreka, ne živeći ih, ne može ostvariti sveti život.",
-    "ms": "Kto povtarja množstvo svetyh izrěčenja, ne živuči jih, ne može dosegnuti svety život.",
-    "source": "Dhammapada"
-  },
-  {
-    "_id": 281,
-    "author": "Gautama Buddha",
-    "sr": "Bolje je neukom čoveku smatrati sobom telo nego duh. Telo očevidno može trajati pet, deset ili sto leta, dok ono nazvano misao, svest, duh, svaki čas javlja se kao jedno, a isčezava kao drugo.",
-    "ms": "Lučše neukom člověku smatrjati soboju tělo než duh. Tělo očevidno može trajati pet, deset abo sto lěta, dokolě ono nazvano myslj, svědomost, duh, vsaky čas javja se kak jedno, a izčeza kak drugo.",
-    "source": "https://srednjiput.rs/tumacenja/cedomil-veljacic/aniccam-budisticka-teorija-prolaznosti/"
-  },
-  {
-    "_id": 283,
-    "author": "Gautama Buddha",
-    "sr": "Zamislite balegara koji se hrani govnima, okružen govnima, sa gomilom govana pred sobom. Zadovoljan, gleda sa visine na druge bube. Tako, monah pođe prositi jelo. Pojevši koliko može, ostaje obilje, zovu ga doći sutra. Po povratku, hvali se: Jedoh koliko želeh, pun sam i pozvan doći sutra. Dobih sve, a nezaslužni ništa. Obuzet dobitkom i počašću, on prezire uzorne monahe. Za tog bezumnog čoveka dugo bude vreme muke i bola.",
-    "ms": "Prědstavite si gnojny žuk, jeda gnoj, okruženy gnojem, s gromadoju gnojiva prěd soboju. Zadovoljeny, gledi od vysoty na ine buby. Tak, monah pojde prositi jelo. Jedavši koliko može, ostava obilje, zovu go dojdti zautra. Po povratku, hvasta se: Jedah koliko želah, polny jesm i pozvany dojdti zautra. Dobyh vse, a nezaslužny ničto. Posědany dobytkom i uvaženjem, on prězire vzornyh monahov. Za togo bezumnogo člověka dolgo bude vrěme muky i bolja.",
-    "source": "Samyutta nikaya XVII. 5: Pīlahaka sutta",
-    "wiki": ""
-  },
-  {
-    "_id": 284,
-    "author": "Gautama Buddha",
-    "sr": "Kako vjetar ne lomi tvrdu stijenu tako pametni ljudi ne kolebaju se pred pokudom ni pohvalom.",
-    "ms": "Kak větr ne slomi tvrdu stěnu tak pametni ljudi ne kolěbajut se prěd kritikoju ni hvaloju.",
-    "source": "Dhammapada"
-  },
-  {
-    "_id": 286,
-    "author": "Gautama Buddha",
-    "sr": "Visoko na nebu duvaju moćni vetrovi. Poleti li neka ptica visoko, oluja ju raskida na sve strane: noga odleti na jednu, krilo na drugu, glava na treću, telo na četvrtu. Tako monah nemotreći čula pođe u grad. On vidi žene oskudno obučene i pohota mu napadne um. Savladan pohotom, ostavlja monaštvo. Tada jedan uzme njegov plašt, drugi zdelu, treći prostirku, četvrti pribor za šivenje. Podobno ptici čije delove iskida oluja.",
-    "ms": "Vysoko na nebu vějut močni větri. Poleti někoja ptica vysoko, burja ju razkyda na vse strany: noga odleti na jednu, krilo na drugu, glava na tretju, tělo na četvrtu. Tak monah nesmotreči čula pojde v grad. On vidi žene oskudno oblěčene i pohota mu napadne um. Sovladneny pohotoju, ostavja monaštvo. Togda jedin vozme jego plašč, vtory posudu, tretji prostirku, četvrty pribor za šitje. Podobno ptici čije dělov izkyda burja.",
-    "source": "samyutta/sn17-009",
-    "wiki": "https://sh.wikipedia.org/wiki/%C5%A0est_%C4%8Dula"
-  },
-  {
-    "_id": 287,
-    "author": "Gautama Buddha",
-    "sr": "Ko se opredeli za život duha, treba izbegavati dve krajnosti. Život posvećen nasladama, što je nisko, neplemenito i nekorisno. I život podvrgnut mučenjima, što je ružno, nedostojno i nekorisno.",
-    "ms": "Kto se oprěděli za žitje duha, trěba izběgati dvě krajnosti. Žitje posvečeno nasladam, čto nizko, neblagorodno i nekoristno. I žitje podvrgnuto mučenjam, čto gadno, nedostojno i nekoristno.",
-    "source": "Samyutta nikaya LVI.11: Dhammacakka-pavattana sutta",
-    "wiki": ""
-  },
-  {
     "sr": "Ko ubira cvetove čulnih užitaka, toga odnosi smrt k’o pozaspalo selo nabujala reka.",
     "author": "Gautama Buddha",
     "ms": "Kto nabira cvětov od čutnyh naslad, jego odnosi smrt kak zaspano selo poplava.",

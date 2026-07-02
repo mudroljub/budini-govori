@@ -14,6 +14,6 @@ Da podložno nestanku ne nestane.
 
 Da podložno propadanju ne propadne.
 
-Kada se to dogodi, neupućen čovek ne shvata: "To se ne događa samo meni. Gde god postoje bića koja se rađaju i umiru, to se događa svima." Zato tuguje, nariče, očajava i sam sebi dodaje novu muku.
+Kada se to dogodi, neuk čovek ne shvata: "To se ne događa samo meni. Gde god postoje bića koja se rađaju i umiru, to se događa svima." Zato tuguje, nariče, očajava i sam sebi dodaje novu muku.
 
 Mudar čovek shvata: "To se ne događa samo meni. Gde god postoje bića koja se rađaju i umiru, to se događa svima." Zato ne tuguje, ne nariče i ne očajava.

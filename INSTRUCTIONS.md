@@ -60,7 +60,7 @@ Terminologija
 - kāmupādāna - gorivo za užitke
 - Mara - Smrt
 - moha - zabluda ili obmana (zavisno od konteksta)
-- nibbidā - odvratnost
+- nibbidā - odvratnost ili odbojnost
 - nirvana - gašenje ili nirvana (zavisno od konteksta)
 - nissaraṇa - izlaz
 - phassa - ticanje, doticaj

@@ -20,7 +20,7 @@ Ne postoji ništa što se tako brzo menja kao um.
 
 Um je blistav, ali ga nadolazeće nečistoće zagađuju.
 
-Neupućen čovek to ne uviđa, zato ne razvija svoj um.
+Neuk čovek to ne uviđa, zato ne razvija svoj um.
 
 Um je blistav kada je oslobođen nadolazećih nečistoća.
 
