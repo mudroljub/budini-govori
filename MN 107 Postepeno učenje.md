@@ -4,11 +4,11 @@ Računovođa Ganaka Mogalana upita Gotamu:
 
 — U svakoj veštini postoji postepeno učenje. Tako se grade stepenice, tako se obučavaju strelci, tako učimo računanje. Postoji li i u tvom učenju postepeni put?
 
-— Postoji. Kao što se dobro ždrebe najpre navikava na uzde, tako i ja najpre učim čoveka vrlini. Kada se učvrsti u vrlini, učim ga da čuva svoja čula. Kada čuva svoja čula, učim ga umerenosti u jelu. Kada je umeren u jelu, učim ga budnosti. Kada je budan, učim ga pažnji i jasnom razumevanju u svemu što radi. Kada se ustali u pažnji, učim ga da traži osamu. U osami napušta požudu, zlobu, učmalost, nemir i sumnju. Tako oslobađa um od prepreka.
+— Postoji. Kao što se dobro ždrebe najpre navikava na uzde, tako i ja najpre učim čoveka vrlini. Kada se učvrsti u vrlini, učim ga da čuva svoja čula. Kada čuva svoja čula, učim ga umerenosti u jelu. Kada je umeren u jelu, učim ga budnosti. Kada je budan, učim ga pažnji i jasnom razumevanju u svemu što radi. Kada se ustali u pažnji, učim ga da traži osamu. U osami napušta požudu, zlobu, učmalost, nemir i sumnju. Tako oslobađa um od smetnji.
 
 Gotama nastavi:
 
-— Kada su prepreke napuštene, um postaje sabran. Tada ulazi u duboka stanja smirenosti i zadubljenja. Najpre u stanje radosti i zadovoljstva rođenih iz osame. Zatim u još dublju sabranost. Zatim u spokoj i svesnost. Na kraju u potpuno uravnotežen i čist um. Sa tako sabranim umom vidi stvari onakvima kakve jesu. Tako napušta vezanost i oslobađa se. To je moja postepena poduka. 
+— Kada su smetnje napuštene, um postaje sabran. Tada ulazi u duboka stanja smirenosti i zadubljenja. Najpre u stanje radosti i zadovoljstva rođenih iz osame. Zatim u još dublju sabranost. Zatim u spokoj i svesnost. Na kraju u potpuno uravnotežen i čist um. Sa tako sabranim umom vidi stvari onakvima kakve jesu. Tako napušta vezanost i oslobađa se. To je moja postepena poduka. 
 
 Ganaka Mogalana upita:
 

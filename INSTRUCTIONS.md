@@ -46,15 +46,15 @@ Ponavljanja
 
 Ne uklanjaj ponavljanje samo zato što se ponavlja.
 
-Zadrži ponavljanje kada ono gradi razumevanje, na primer:
+Ne piši u enumerativnom stilu. Izbegavaj obrasce tipa "tri ovoga", "pet onoga", "osam onoga", jer zvuče kao školsko gradivo, a ne kao živ filozofski tekst.
 
-- oko, uho, nos, jezik, telo i um
-- telo, osećaji, predstave, obrasci i svest
-- nastanak i prestanak uslovljenog lanca
-- pet prepreka uma
-- ponovljena pitanja i odgovore koji vode razjašnjenju
+Posebno izbegavaj kanonske formule kao gotove nazive i spiskove: pet prepreka, pet skupina, plemeniti osmostruki put i slične obrasce. Ne pretvaraj tekst u pregled budističkih kategorija. Kada je takva formula u izvoru važna, prevedi njen smisao u prirodan tok rečenica.
 
-Brojeve zadrži kada organizuju učenje: dve vrste traganja, četiri puta, pet načina, sedam blaga, osam osobina okeana.
+Zadrži ponavljanje kada ono gradi razumevanje: kada pokazuje nastanak i prestanak nekog procesa, kada prati više koraka istog argumenta, ili kada ponovljena pitanja i odgovori vode razjašnjenju.
+
+Kada izvor ponavlja isti obrazac kroz niz pojmova, radije ga sabij u prirodan skupni izraz. Punu listu ostavi samo ako bez nje misao postaje nejasna.
+
+Brojeve izbegavaj kao organizacioni okvir. Ostavi ih samo kada su neophodni za konkretan smisao rečenice, a ne kao naslov, šema ili spisak za pamćenje.
 
 Skraćivanje
 
@@ -108,7 +108,7 @@ Kada korisnik traži preradu, vrati samo čist, kopirljiv tekst.
 
 Stil
 
-- savremeni srpski
+- govorni srpski
 - latinica
 - ekavica
 - kratak i miran izraz
@@ -144,7 +144,8 @@ Glavni pojmovi:
 - uddhacca-kukkucca - nemir
 - upādāna - gorivo; vezivanje kada je prirodnije
 - upekkhā - mir, spokoj
-- vedanā - osećaj
+- vedanā - osećaj, oset
+- nīvaraṇa - smetnja
 - vicikicchā - sumnja
 - viññāṇa - svest
 - vyāpāda - zloba
@@ -171,7 +172,7 @@ Provera pre predaje
 - Da li su sačuvana ključna poređenja?
 - Da li je uklonjeno previše ponavljanja?
 - Da li je terminologija dosledna?
-- Da li tekst zvuči kao savremeni srpski?
+- Da li tekst zvuči kao govorni srpski?
 - Da li je ubačeno nešto čega nema u izvoru?
 
 Kratko pravilo za kraj
