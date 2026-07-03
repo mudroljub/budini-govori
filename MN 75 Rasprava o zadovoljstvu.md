@@ -16,7 +16,7 @@ Gotama reče:
 
 Zatim reče:
 
-— Zamisli čoveka obolelog od gube. Češe svoje rane i greje ih nad vatrom, pa u tome nalazi neko zadovoljstvo. Kada ozdravi, više ne žudi za tim. Tako je i sa čulnim zadovoljstvima. Ona nalikuju češanju rane. Što im se više čovek prepušta, to više raste njegova žudnja. Pa ipak, u tome nalazi određeno zadovoljstvo. Čulna zadovoljstva peku, ali ljudi pomućenih čula doživljavaju ih kao prijatnost.
+— Zamisli čoveka obolelog od gube, prekrivenog ranama. Drapa svoje rane i prži ih nad vatrom. Što se više drapa, rane postaju gnojnije, smrdljivije i trulije. Ipak, u tome nalazi nasladu. Tek kada ozdravi, više ne želi da se drapa niti prži svoje rane. Tako je i sa čulnim zadovoljstvima. Što im se ljudi više prepuštaju, žeđ im više raste, a čulna zadovoljstva sve jače peku. Pa ipak, u njima nalaze nasladu.
 
 Magandija reče:
 
