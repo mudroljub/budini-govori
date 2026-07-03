@@ -27,4 +27,5 @@ Cilj ovih prerada je veća čitljivost i razumljivost tekstova, ne nužno i već
 
 - pregledati svete misli i dodati šta nedostaje
 - put game developera 
+- miris žene
 - https://srednjiput.rs/pali-kanon/sutta-pitaka/samyutta-nikaya/sn-xii-63-puttama%e1%b9%83supam-sutta/
