@@ -92,7 +92,7 @@ Tako je govorio Gotama Budni:
 
 Ako tekst ima dijalog, pripovest ili više govornika, ne koristi tu formulu.
 
-U preradi ne koristi fusnote, markdown citate ni objašnjenja. Kada korisnik traži preradu, vrati samo čist, kopirljiv tekst.
+U preradi ne koristi fusnote, markdown citate ni objašnjenja. Kada korisnik traži preradu ili sređenu sutu, vrati samo čist, kopirljiv tekst, bez uvoda, napomena i svojih komentara.
 
 Stil
 
@@ -141,11 +141,13 @@ Glavni pojmovi:
 - nibbidā - odvratnost, odbojnost
 - nibbindati - odvraćati se
 - rāga - privlačnost, obojenost
+- chandarāga - požuda
 
 Kanonske formule:
 
 - Ne piši: dobra ili loša dela telom, govorom i umom.
 - Piši: dobra ili loša dela, govor i misli.
+- Ne piši: šest čula; piši: čula.
 
 Uloge i imena:
 
