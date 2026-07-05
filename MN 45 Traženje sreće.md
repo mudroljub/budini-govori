@@ -1,4 +1,4 @@
-# MN 45: Četiri puta do sreće
+# MN 45: Traženje sreće
 
 Tako je govorio Gotama Budni:
 

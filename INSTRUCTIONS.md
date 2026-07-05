@@ -112,6 +112,8 @@ Glavni pojmovi:
 - ādīnava - opasnost
 - assāda - draž
 - atta, atman - ja, sebe, moje (samo izuzetno sopstvo)
+- chandarāga - požuda
+- darma - učenje ili zakon, zavisno od konteksta
 - dosa - mržnja, odbojnost
 - dukkha - muka, može i patnja ponekad
 - jhāna - zadubljenje
@@ -120,11 +122,16 @@ Glavni pojmovi:
 - mettā - ljubav, dobronamernost
 - moha - zabluda, obmana
 - nibbāna / nirvana - gašenje; nirvana kada je pojam naslovan ili ustaljen
+- nibbidā - odvratnost, odbojnost
+- nibbindati - odvraćati se
 - nissaraṇa - izlaz
+- nīvaraṇa - smetnja
 - phassa - ticanje, doticaj
+- rāga - privlačnost, obojenost
 - rūpa - telo
 - samādhi - sabranost
 - saṅkhārā - obrasci
+- saṅkilesa - kaljanje, prljanje
 - saññā - predstava, predodžba
 - sati - svesnost; pažnja kada je prirodnije
 - taṇhā - žeđ
@@ -133,15 +140,9 @@ Glavni pojmovi:
 - upādāna - gorivo; vezivanje kada je prirodnije
 - upekkhā - mir, spokoj
 - vedanā - osećaj, oset
-- nīvaraṇa - smetnja
 - vicikicchā - sumnja
 - viññāṇa - svest
 - vyāpāda - zloba
-- saṅkilesa - kaljanje, prljanje
-- nibbidā - odvratnost, odbojnost
-- nibbindati - odvraćati se
-- rāga - privlačnost, obojenost
-- chandarāga - požuda
 
 Kanonske formule:
 
