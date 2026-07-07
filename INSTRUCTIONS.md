@@ -121,6 +121,7 @@ Glavni pojmovi:
 - karuṇā - saosećanje
 - mettā - ljubav, dobronamernost
 - moha - zabluda, obmana
+- namarupa - ime-telo
 - nibbāna / nirvana - gašenje; nirvana kada je pojam naslovan ili ustaljen
 - nibbidā - odvratnost, odbojnost
 - nibbindati - odvraćati se

@@ -18,7 +18,7 @@ Kako mudrac zna gde je dobro pojilište? Tako što odlazi iskusnijima, postavlja
 
 Kako mudrac zna kada je napojen? Tako što nalazi radost i zadovoljstvo u učenju.
 
-Kako mudrac poznaje put? Tako što razume plemeniti osmostruki put i prati ga u svom životu.
+Kako mudrac poznaje put? Tako što razume put oslobođenja i prati ga u svom životu.
 
 Kako mudrac zna gde je dobar pašnjak? Tako što boravi u četiri temelja svesnosti i u njima neguje svoj um.
 
