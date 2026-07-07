@@ -1,4 +1,4 @@
-# MN 8 / MA 91: Mi koji nismo kao drugi
+# MN 8 / MA 91: Nećemo biti kao drugi
 
 Tako je govorio Gotama Budni:
 

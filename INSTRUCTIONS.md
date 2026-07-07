@@ -116,6 +116,7 @@ Glavni pojmovi:
 - dosa - mržnja, odbojnost
 - dukkha - muka, može i patnja ponekad
 - jhāna - zadubljenje
+- kama - užitak, naslada
 - kāmacchanda - pohota, želja za užicima
 - karuṇā - saosećanje
 - mettā - ljubav, dobronamernost

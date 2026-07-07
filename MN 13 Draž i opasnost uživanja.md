@@ -10,9 +10,9 @@ Učenici dođoše kod Gotame i prenesoše mu razgovor. Gotama reče:
 
 UŽIVANJE
 
-Šta je draž uživanja? Slike, zvuci, mirisi, ukusi i dodiri koji deluju prijatno i podstiču želju.
+Šta je draž uživanja? Prizori, zvuci, mirisi, ukusi i dodiri koji deluju prijatno i izazivaju želju.
 
-Ali postoji i opasnost. Zbog uživanja ljudi se svađaju i tuku. Zbog uživanja čovek radi i muči se, pokušavajući da stekne imovinu. Ako ništa ne stekne, pati. Ako stekne, pati pokušavajući da to sačuva. Zbog uživanja kraljevi ratuju sa kraljevima, porodice se raspadaju, prijatelji postaju neprijatelji. Zbog uživanja ljudi kradu, otimaju i ubijaju, pa završavaju u mukama i patnji. 
+Ali postoji i opasnost. Zbog uživanja ljudi se svađaju i tuku. Zbog uživanja čovek radi i muči se, pokušavajući da stekne imovinu. Ako ništa ne stekne, pati. Ako stekne, pati pokušavajući da to sačuva. Zbog uživanja kraljevi se sukobljuju sa kraljevima, sveštenici sa sveštenicima, domaćini sa domaćinima, majka sa sinom, otac sa sinom, brat sa bratom. Zbog uživanja ljudi kradu, otimaju i ubijaju, pa padaju u stanje patnje. 
 
 Izlaz je napuštanje želje za uživanjem.
 
