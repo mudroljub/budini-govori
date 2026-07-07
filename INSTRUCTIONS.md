@@ -26,7 +26,6 @@ Izvori
 - Kada postoji Agama paralela, koristi zajedničko jezgro Pali + Agama.
 - Ne dodaj sadržaj koji nije potvrđen izvorom.
 - Ne uvodi moderne interpretacije kao deo izvornog teksta.
-- Ako se interpretacija i izvor sukobe, prednost ima izvor.
 - Koristan izvor: https://github.com/suttacentral/sc-data
 
 Šta ukloniti
