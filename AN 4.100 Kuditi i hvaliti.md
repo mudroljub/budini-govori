@@ -1,6 +1,6 @@
 # AN 4.100: Kuditi i hvaliti
 
-Jednom je lutajući asketa Potalija razgovarao sa Gotamom. Gotama ga upita:
+Jednom je lutajući asketa Potalija bio sa Gotamom. Gotama ga upita:
 
 — Potalija, postoje četiri vrste ljudi: onaj koji samo kudi, onaj koji samo hvali, onaj koji niti kudi niti hvali i onaj koji kudi ono što zaslužuje pokudu i hvali ono što zaslužuje pohvalu. Šta misliš, koji je od njih najbolji?
 

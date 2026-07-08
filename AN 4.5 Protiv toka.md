@@ -4,10 +4,10 @@ Tako je govorio Gotama Budni:
 
 Na svetu postoje različiti ljudi.
 
-Ko ide niz tok – prepušta se zadovoljstvima i čini loša dela.
+Neko ide niz tok – prepušta se strastima i čini loša dela.
 
-Ko ide protiv toka – ne prepušta se zadovoljstvima i ne čini loša dela, već vodi čist život.
+Neko ide protiv toka – ne prepušta se strastima i ne čini loša dela.
 
-Ko je blizu druge obale – odbacio je niže okove.
+Neko je blizu druge obale – odbacio je mnoge okove.
 
-Ko je prešao bujicu, prešao na drugu obalu i stoji na čvrstom tlu – uklonio je sve nečistoće i ostvario oslobođenje.
+Neko je prešao bujicu i stao na drugu obalu – uklonio je sve nečistoće i oslobodio se.

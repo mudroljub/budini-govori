@@ -2,11 +2,6 @@
 
 Tako je govorio Gotama Budni:
 
-Da bi se uklanjale nečistoće, treba redovno odvajati vreme za:
+Da bi uklonio nečistoće uma, čovek treba redovno odvajati vreme za slušanje učenja, razgovor o učenju, mir i uvid.
 
-* slušanje učenja,
-* razgovor o učenju,
-* smirenje,
-* uvid.
-
-Kao što kiša koja pada na planinski vrh najpre puni udoline i potoke, zatim jezera i reke, da bi na kraju stigla do okeana, tako i ove prakse, ako ih čovek redovno neguje, postepeno uklanjaju nečistoće.
+Kao što kiša prvo pada na planinski vrh, pa se sliva u doline i potoke, zatim jezera i reke, pa na kraju stigne do okeana, tako i ove prakse, kada ih čovek redovno upražnjava, postepeno uklanjaju nečistoće.

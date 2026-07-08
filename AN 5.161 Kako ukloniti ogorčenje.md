@@ -2,12 +2,12 @@
 
 Tako je govorio Gotama Budni:
 
-Postoji više načina da se ukloni ogorčenje u sebi. Ako se prema nekome javi ogorčenje:
+Postoji više načina da iz sebe ukloniš ogorčenje prema nekome:
 
-- neguj prema njemu prijateljsku ljubav;
-- neguj prema njemu saosećanje;
-- neguj prema njemu spokojstvo;
-- ne obraćaj pažnju na njega;
-- razmišljaj o njemu ovako: "Svako je vlasnik i naslednik svojih dela i on će naslediti dobro ili zlo koje čini."
+- neguj prema njemu ljubav,
+- neguj prema njemu saosećanje,
+- neguj prema njemu smirenost,
+- ne obraćaj pažnju na njega,
+- seti se da je svako je vlasnik svojih dela i da će naslediti dobro ili zlo koje čini.
 
 Tako se ogorčenje uklanja.

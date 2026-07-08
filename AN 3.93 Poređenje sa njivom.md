@@ -2,6 +2,8 @@
 
 Tako je govorio Gotama Budni:
 
-Seljak ima tri neodložna posla: da ore njivu, seje i navodnjava. Ali ne može reći: neka žito sazri danas ili sutra. Kada dođe vreme, žito sazri.
+Seljak ima tri neodložna posla: da njivu ore, seje i zaliva. 
+On ne može reći: neka žito sazri danas ili sutra. Ali kada dođe vreme, žito sazri.
 
-Isto tako, čovek ima tri neodložna zadatka: da vežba vrlinu, um i mudrost. Ne može reći: neka mi um bude oslobođen danas ili sutra. Ali kada dođe vreme, um se oslobađa.
+Isto tako, čovek ima tri neodložna posla: da vežba vrlinu, um i mudrost. 
+On ne može reći: neka mi um bude oslobođen danas ili sutra. Ali kada dođe vreme, um se oslobađa.

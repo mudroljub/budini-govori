@@ -2,12 +2,4 @@
 
 Tako je govorio Gotama Budni:
 
-Četiri stvari vode rastu mudrosti:
-
-Druženje sa čestitim ljudima.
-
-Slušanje učenja.
-
-Pažljivo razmatranje.
-
-Život u skladu sa učenjem.
+Ove stvari vode rastu mudrosti: druženje sa mudrim ljudima, slušanje učenja, temeljeno promišljanje i upražnjavanje učenja.
