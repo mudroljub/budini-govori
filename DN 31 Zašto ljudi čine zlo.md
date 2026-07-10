@@ -4,7 +4,7 @@ Tako je govorio Gotama Budni:
 
 Zašto ljudi čine zlo?
 
-Vođeni žudnjom činimo zlo. 
+Vođeni žeđu činimo zlo. 
 
 Vođeni mržnjom činimo zlo. 
 
@@ -12,4 +12,4 @@ Vođeni zabludom činimo zlo.
 
 Vođeni strahom činimo zlo.
 
-Ali ako mudar čovek nije vođen žudnjom, mržnjom, zabludom ni strahom, on ne čini zlo.
+Mudar čovek, koji nije vođen žeđu, mržnjom, zabludom ni strahom, ne čini zlo.

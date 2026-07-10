@@ -2,7 +2,7 @@
 
 Gotamin učenik Sariputa reče:
 
-— Nikada nije bilo, niti će biti, duhovnika većeg po razumevanju i budnosti od Gotame.
+— Nikada nije bilo, niti će biti, čoveka većeg po razumevanju i budnosti od Gotame.
 
 Gotama odgovori:
 

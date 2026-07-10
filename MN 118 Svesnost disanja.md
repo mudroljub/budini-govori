@@ -12,13 +12,13 @@ Kada izdiše dugo, zna: "Dugo izdišem".
 Kada udiše kratko, zna: "Kratko udišem". 
 Kada izdiše kratko, zna: "Kratko izdišem". 
 
-Ovako vežba: 
+On ovako vežba: 
 
 Osećajući čitavo telo, udišem. 
 Osećajući čitavo telo, izdišem. 
 
-Umirujući čitavo telo, udišem. 
-Umirujući čitavo telo, izdišem.
+Umirujući telo, udišem. 
+Umirujući telo, izdišem.
 
 Osećajući prijatnost, udišem. 
 Osećajući prijatnost, izdišem. 
