@@ -1,4 +1,4 @@
-# MN 135: Dela određuju čoveka
+# MN 135: Dela su put
 
 Tako je govorio Gotama Budni:
 
@@ -16,19 +16,19 @@ Subha reče:
 
 Gotama odgovori:
 
-Ubijanje vodi u kratak život. Neubijanje vodi u dug život.
+Ubijanje je put kratkovečnosti. Neubijanje je put dugovečnosti.
 
-Povređivanje drugih vodi u bolest. Nepovređivanje vodi u zdravlje.
+Zlostavljanje je put bolesti. Nezlostavljanje je put zdravlja.
 
-Gnev vodi u ružnoću. Blagost vodi u lepotu.
+Gnev je put ružnoće. Blagost je put lepote.
 
-Zavist vodi u beznačajnost. Nezavist vodi u ugled.
+Zavist je put bezuglednosti. Radovanje tuđem uspehu je put ugleda.
 
-Nedarežljivost vodi u siromaštvo. Darežljivost vodi u bogatstvo.
+Nedarežljivost je put siromaštva. Darežljivost je put bogatstva.
 
-Oholost vodi u nisko poreklo. Poštovanje vodi u ugledno poreklo.
+Oholost je put niskog porekla. Poštovanje je put uglednog porekla.
 
-Neispitivanje dobra i zla vodi u glupost. Traženje istine vodi u mudrost.
+Neispitivanje dobra i zla je put gluposti. Traženje istine je put mudrosti.
 
 Zato su ljudi kratkog ili dugog života, bolesni ili zdravi, ružni ili lepi, bez ugleda ili ugledni, siromašni ili bogati, rođeni u skromnim ili uglednim porodicama, glupi ili mudri.
 
