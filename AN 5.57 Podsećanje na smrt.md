@@ -4,7 +4,7 @@ Tako je govorio Gotama Budni:
 
 Treba se često podsećati.
 
-Podložan sam starenju. Ne mogu izbeći starost.
+Podložan sam starenju. Ne mogu izbeći starenje.
 Podložan sam bolesti. Ne mogu izbeći bolest.
 Podložan sam smrti. Ne mogu izbeći smrt.
 Biću rastavljen od onog što volim.
@@ -13,7 +13,7 @@ Vlasnik sam i naslednik svojih dela.
 Zašto se podsećati tako?
 
 Ko je opijen mladošću lako postupa loše. 
-Ko se podseća starosti, smanjuje tu opijenost.
+Ko se podseća starenja, smanjuje tu opijenost.
 
 Ko je opijen zdravljem lako postupa loše. 
 Ko se podseća bolesti, smanjuje tu opijenost.

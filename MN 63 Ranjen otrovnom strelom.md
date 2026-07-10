@@ -20,7 +20,7 @@ Gotama odgovori:
 
 — Ako je tako, zašto sada postavljaš takve uslove? Kada bi neko rekao: "Neću slediti Gotamin put dok mi ne objasni da li je svet večan ili nije, ili šta biva sa oslobođenim posle smrti", umro bi pre nego što bi dobio odgovore na sva ta pitanja. 
 
-— Zamisli čoveka ranjenog otrovnom strelom. Dovedu mu lekara, a on kaže: "Neću da mi izvade strelu dok ne saznam ko me je pogodio, kako se zove, iz kog je roda, kakvog je rasta, je li tetiva luka životinjskog ili biljnog porekla i od kog je drveta strela napravljena." Taj čovek bi umro pre nego što bi dobio odgovore. Isto je i sa onim ko odbija da vežba dok ne dobije odgovore na takva pitanja. Bilo da je svet večan ili nije, i dalje postoje starost, smrt i bol. Bilo da je svet konačan ili beskonačan, i dalje postoje starost, smrt i bol. Bilo da su telo i duša isto ili različito, i dalje postoje starost, smrt i bol. Bilo da oslobođeni posle smrti postoji ili ne postoji, i dalje postoje starost, smrt i bol.
+— Zamisli čoveka ranjenog otrovnom strelom. Dovedu mu lekara, a on kaže: "Neću da mi izvade strelu dok ne saznam ko me je pogodio, kako se zove, iz kog je roda, kakvog je rasta, je li tetiva luka životinjskog ili biljnog porekla i od kog je drveta strela napravljena." Taj čovek bi umro pre nego što bi dobio odgovore. Isto je i sa onim ko odbija da vežba dok ne dobije odgovore na takva pitanja. Bilo da je svet večan ili nije, i dalje postoje starenje, smrt i bol. Bilo da je svet konačan ili beskonačan, i dalje postoje starenje, smrt i bol. Bilo da su telo i duša isto ili različito, i dalje postoje starenje, smrt i bol. Bilo da oslobođeni posle smrti postoji ili ne postoji, i dalje postoje starenje, smrt i bol.
 
 Malunković upita:
 

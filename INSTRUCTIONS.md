@@ -112,7 +112,7 @@ Glavni pojmovi:
 - assāda - draž
 - atta, atman - ja, sebe, moje (samo izuzetno sopstvo)
 - chandarāga - požuda
-- darma - učenje ili zakon, zavisno od konteksta
+- dhamma - učenje, načelo ili zakon, zavisno od konteksta
 - dosa - mržnja, odbojnost
 - dukkha - muka, može i patnja ponekad
 - jhāna - zadubljenje

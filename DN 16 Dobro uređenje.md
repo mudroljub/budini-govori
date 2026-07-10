@@ -1,8 +1,8 @@
-# DN 16: Snaga zajednice
+# DN 16: Dobro uređenje
 
-Tako je govorio Gotama Budni:
+Kralj Magade Ađatasatu je nameravao da napadne narod Vađi. Gotama tada izreče niz pohvala njihovom uređenju:
 
-Vađi se često okupljaju u velikom broju i zajedno savetuju. 
+Vađiji se često okupljaju u velikom broju i zajedno savetuju. 
 Dok tako čine, može se očekivati njihov napredak, a ne propadanje.
 
 Oni se složno okupljaju, složno odlučuju i složno se razilaze. 

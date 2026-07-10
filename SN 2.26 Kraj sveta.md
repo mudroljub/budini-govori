@@ -2,7 +2,7 @@
 
 Tako je govorio Gotama Budni:
 
-Putujući nije moguće dostići kraj sveta, niti tako okončati rađanje, starost i smrt.
+Putujući nije moguće dostići kraj sveta, niti tako okončati rađanje, starenje i smrt.
 
 Ali bez dostizanja kraja sveta nije moguće okončati muku.
 
