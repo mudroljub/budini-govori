@@ -13,16 +13,16 @@ Vlasnik sam i naslednik svojih dela.
 Zašto se podsećati tako?
 
 Ko je opijen mladošću lako postupa loše. 
-Ko se podseća starosti, umanjuje tu opijenost.
+Ko se podseća starosti, smanjuje tu opijenost.
 
 Ko je opijen zdravljem lako postupa loše. 
-Ko se podseća bolesti, umanjuje tu opijenost.
+Ko se podseća bolesti, smanjuje tu opijenost.
 
 Ko je opijen životom lako postupa loše. 
-Ko se podseća smrti, umanjuje tu opijenost.
+Ko se podseća smrti, smanjuje tu opijenost.
 
 Ko žudi za onim što voli lako postupa loše. 
-Ko se podseća neumitnog rastanka, umanjuje tu žudnju.
+Ko se podseća neumitnog rastanka, smanjuje tu žudnju.
 
 Ko smetne s uma da je naslednik svojih dela, lako postupa loše. 
-Ko to se podseća toga, umanjuje loše postupke.
+Ko to se podseća toga, smanjuje loše postupke.

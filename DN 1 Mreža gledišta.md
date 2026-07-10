@@ -2,7 +2,7 @@
 
 Gotama reče:
 
-— Ljudi se vezuju za svoja iskustva i iz njih stvaraju gledišta. Jedni kažu: "Svet je večan." Drugi kažu: "Svet nije večan." Jedni kažu: "Postoji trajno sopstvo." Drugi kažu: "Posle smrti sve nestaje." Jedni kažu: "Posle smrti postoji opažanje." Drugi kažu: "Posle smrti nema opažanja." Jedni kažu: "Oslobođenje se nalazi u čulnim zadovoljstvima." Drugi ga traže u dubokoj sabranosti. Tako nastaju mnoga gledišta i rasprave.
+— Ljudi stvaraju različita gledišta. Jedni kažu: "Svet je večan." Drugi kažu: "Svet nije večan." Jedni kažu: "Postoji trajno sopstvo." Drugi kažu: "Posle smrti sve nestaje." Jedni kažu: "Posle smrti postoji opažanje." Drugi kažu: "Posle smrti nema opažanja." Jedni kažu: "Oslobođenje se nalazi u čulnim zadovoljstvima." Drugi ga traže u dubokoj sabranosti. Tako nastaju mnoga gledišta i rasprave.
 
 Učenici upitaše:
 
@@ -10,9 +10,9 @@ Učenici upitaše:
 
 Gotama odgovori:
 
-— Neko doživi određeno stanje uma. Neko vidi nešto u dubokoj sabranosti. Neko razmišlja i izvodi zaključke. Neko nagađa o onome što ne može neposredno da vidi. Tako nastaju gledišta.
+— Neko doživi određeno iskustvo. Neko vidi nešto u dubokoj sabranosti. Neko razmišlja i izvodi zaključke. Neko nagađa o onome što ne može neposredno videti. Tako nastaju gledišta.
 
-Zatim reče:
+Zatim nastavi:
 
 — Čovek nešto doživi i pomisli: "To mora biti konačna istina." Zatim se za to veže. Zatim počne da ga brani. Zatim ulazi u rasprave. Zatim govori: "Samo je ovo tačno, sve ostalo je pogrešno." Tako nastaje sukob.
 
