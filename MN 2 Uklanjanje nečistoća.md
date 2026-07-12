@@ -2,20 +2,20 @@
 
 Tako je govorio Gotama Budni:
 
-Nečistoće uklanja samo onaj ko zna i vidi, a ne onaj ko ne zna i ne vidi. Kada čovek razmišlja površno, nečistoće nastaju i jačaju. Kada razmišlja temeljno, nečistoće slabe i nestaju. Neke nečistoće uklanjamo uvidom, neke pažnjom, neke pravilnom upotrebom, neke trpljenjem, neke izbegavanjem, neke napuštanjem, a neke razvijanjem.
+Kada čovek razmišlja površno, nečistoće uma nastaju i jačaju. Kada razmišlja temeljno, nečistoće uma slabe i nestaju. 
 
-Kako nečistoće uklanjamo uvidom? Neuk čovek ne zna o čemu vredi razmišljati, o čemu ne, pa svojim mislima pojačava želju, vezanost i neznanje. On razmišlja: "Jesam li postojao u prošlosti? Hoću li postojati u budućnosti? Ko sam? Odakle dolazim? Kuda idem?" Iz takvih razmišljanja nastaje džungla gledišta u koju se on zapliće. Ostaje vezan za gledišta i ne oslobađa se muke. Ali mudar čovek razlikuje korisne misli od štetnih. Zato neguje misli koje umanjuju želju, vezanost i neznanje.
+Neke nečistoće uklanjamo uvidom. Ako čovek ne zna o čemu vredi razmišljati, on svojim mislima pojačava žeđ, vezanost i neznanje. Ako razmišlja: "Jesam li postojao u prošlosti? Hoću li postojati u budućnosti? Ko sam? Odakle dolazim? Kuda idem?", tada nastaje mreža gledišta u koju se on upliće. Ali mudar čovek razlikuje korisne misli od štetnih. Zato neguje misli koje umanjuju žeđ, vezanost i neznanje.
 
-Kako nečistoće uklanjamo pažnjom? Mudar čovek pazi na svoja čula — na vid, sluh, njuh, ukus, dodir i misli — ne dopuštajući da izazovu štetna stanja u njemu. Tako nečistoće uklanjamo pažnjom.
+Neke nečistoće uklanjamo pažnjom. Mudar čovek pazi na svoja čula — na vid, sluh, njuh, ukus, dodir i misli — ne dopuštajući da izazovu štetna stanja u njemu.
 
-Kako nečistoće uklanjamo pravilnom upotrebom? Odeću ne koristimo radi razmetanja ili ulepšavanja, već radi zaštite od hladnoće. Hranu ne koristimo radi uživanja, već radi održanja tela. Sklonište ne koristimo radi raskoši, već radi zaštite od nepogoda. Lekove ne koristimo radi zadovoljstva, već radi otklanjanja bolesti. Tako nečistoće uklanjamo pravilnom upotrebom stvari.
+Neke nečistoće uklanjamo pravilnom upotrebom. Odeću ne koristimo radi razmetanja ili ulepšavanja, već radi zaštite od hladnoće. Jelo ne koristimo radi uživanja, već radi održanja tela. Sklonište ne koristimo radi raskoši, već radi zaštite od nepogoda. Lekove ne koristimo radi zadovoljstva, već radi otklanjanja bolesti.
 
-Kako nečistoće uklanjamo trpljenjem? Mudar čovek smireno trpi hladnoću i vrućinu, glad i žeđ, insekte, vetar i sunce, loše reči i telesni bol, ne dopuštajući da se u njemu jave gnev i očaj. Tako nečistoće uklanjamo trpljenjem.
+Neke nečistoće uklanjamo trpljenjem. Mudar čovek smireno trpi hladnoću i vrućinu, glad i žeđ, insekte, vetar i sunce, loše reči i telesni bol, ne dopuštajući da se u njemu jave gnev i očaj.
 
-Kako nečistoće uklanjamo izbegavanjem? Mudar čovek izbegava divlje zveri, opasna mesta i loše ljude. Tako nečistoće uklanjamo izbegavanjem.
+Neke nečistoće uklanjamo izbegavanjem. Mudar čovek izbegava divlje zveri, opasna mesta i loše ljude.
 
-Kako nečistoće uklanjamo napuštanjem? Mudar čovek ne dopušta da se u njemu zadrže misli ispunjene željom, zlobom, okrutnošću i drugim štetnim stanjima. On ih prepoznaje i napušta. Tako nečistoće uklanjamo napuštanjem.
+Neke nečistoće uklanjamo napuštanjem. Mudar čovek ne dopušta da se u njemu zadrže misli ispunjene žeđu, zlobom, okrutnošću i drugim štetnim stanjima. On ih prepoznaje i napušta.
 
-Kako nečistoće uklanjamo razvijanjem? Mudar čovek razvija svesnost, promišljanje, radost, sabranost i spokoj. Ove vrline vode hlađenju strasti, prestanku vezivanja i oslobođenju. Tako nečistoće uklanjamo razvijanjem.
+Neke nečistoće uklanjamo razvijanjem. Mudar čovek razvija svesnost, promišljanje, radost, sabranost i spokoj. Ove vrline vode hlađenju strasti, prestanku vezivanja i oslobođenju.
 
 Kada čovek tako ukloni sve nečistoće, tada živi slobodan od njih.
