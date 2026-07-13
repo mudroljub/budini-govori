@@ -1,8 +1,8 @@
 # MN 35: To nije moje, to nisam ja
 
-Jednom je Gotama boravio kraj grada Vesalija, u Velikom gaju. U to vreme u Vesaliju je živeo Vatroslav, poznat kao vešt govornik i raspravljač. Pred okupljenima je govorio:
+Jednom je Gotama boravio kraj grada Vesalija, u Velikom gaju. U tom gradu je živeo Vatroslav, poznat kao vešt govornik i raspravljač. Pred okupljenima je govorio:
 
-— Ne vidim učitelja ni mudraca koji se ne bi uznemirio kada bi stupio u raspravu sa mnom. Čak i kada bih raspravljao sa običnim stubom, i on bi se zatresao.
+— Ne vidim učitelja ni mudraca koji se ne bi uznemirio kada bi stupio u raspravu sa mnom. Čak i kada bih raspravljao sa stubom, i on bi se zatresao.
 
 Zatim ode među građane Vesalija i objavi:
 
@@ -22,15 +22,11 @@ Tako Vatroslav, praćen mnoštvom, ode u Veliki gaj. Kad je stigao do Gotame, up
 
 Gotama odgovori:
 
-— Ovako: Telo je nestalno, osećaj je nestalan, predstava je nestalna, obrasci su nestalni, svest je nestalna. Telo nisam ja, osećaj nisam ja, predstava nisam ja, obrasci nisu ja, svest nisam ja. Sve što nastaje nestaje. Ništa od toga nisam ja.
+— Ovako: Telo je nestalno, osećaji su nestalni, predstave su nestalne, obrasci su nestalni, svest je nestalna. Telo nisam ja, osećaji nisu ja, predstave nisu ja, obrasci nisu ja, svest nisam ja. Sve što nastaje nestaje. Ništa od toga nisam ja.
 
 Vatroslav reče:
 
-— Pade mi na um jedno poređenje.
-
-— Kaži.
-
-— Sve biljke rastu oslanjajući se na tlo. Isto tako, čovek ima svoje telo i na njemu zasniva svoja dela. Isto važi za osećaje, predstave, obrasce i svest.
+— Pade mi na um jedno poređenje. Kao što sve biljke rastu oslanjajući se na tlo, tako i čovek, oslanjajući se na telo, čini dobra i loša dela. Isto važi i za osećaje, predstave, obrasce i svest - oslanjajući se na njih, čovek čini dobra i loša dela.
 
 Gotama upita:
 
@@ -38,17 +34,17 @@ Gotama upita:
 
 — Tvrdim.
 
-— Onda ću te nešto pitati. Ima li kralj u svojoj zemlji vlast da naredi: "Ovoga pogubite, ovoga kaznite"?
+— Onda ću te nešto pitati. Ima li kralj u svojoj zemlji vlast da naredi: Ovoga pogubite, ovoga kaznite?
 
 — Ima.
 
-— Ako je telo tvoje, možeš li mu narediti: "Budi ovakvo, a ne onakvo"?
+— Ako je telo tvoje, možeš li mu narediti: Budi ovakvo, a ne onakvo?
 
 Posle kraće tišine Vatroslav odgovori:
 
 — Ne mogu.
 
-— A osećaj? Možeš li mu reći: "Budi ovakav, a ne onakav"?
+— A osećaj? Možeš li mu reći: Budi ovakav, a ne onakav?
 
 — Ne mogu.
 
@@ -60,7 +56,7 @@ Posle kraće tišine Vatroslav odgovori:
 
 — Nestalno.
 
-— Može li se za ono što je nestalno reći: "To je moje, to sam ja"?
+— Može li se za ono što je nestalno reći: To je moje, to sam ja?
 
 — Ne može.
 

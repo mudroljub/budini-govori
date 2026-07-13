@@ -1,8 +1,8 @@
-# MN 22 / MA 200: Poređenje sa zmijom
+# MN 22 / MA 200: Učenje je kao zmija
 
 Tako je govorio Gotama Budni:
 
-Ima ljudi koji proučavaju ovo učenje – uče govore, stihove, izreke, priče i odgovore na pitanja – i pošto ga prouče, ne istražuju značenje niti stiču uvid. Oni koriste učenje samo da bi omalovažavali druge i pobeđivali u raspravama. Tako ne stiču korist od učenja, već trpe veliku muku i uzalud se iscrpljuju, zato što su ga uzeli na pogrešan način.
+Ima ljudi koji proučavaju ovo učenje – govore, stihove, izreke, priče i odgovore na pitanja – i pošto ga prouče, ne istražuju značenje niti stiču uvid. Oni koriste učenje da bi omalovažavali druge i pobeđivali u raspravama. Tako ne stiču korist od učenja, već trpe muku i uzalud se iscrpljuju, zato što su ga uzeli na pogrešan način.
 
 Zamislite čoveka koji traži zmiju, ugleda je i uhvati je za rep. Zmija se izvije i ugrize ga za ruku, pa strada zbog sopstvene greške. Zato što je zmiju uhvatio na pogrešan način. 
 

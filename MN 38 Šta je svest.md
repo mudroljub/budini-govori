@@ -12,4 +12,4 @@ Gotama ga upita:
 
 Gotama reče:
 
-— Pogrešno si razumeo. Svest ne postoji sama po sebi. Ona nastaje zavisno od uslova, a bez uslova ne nastaje. Kao što vatru nazivamo prema gorivu — vatrom drveta, trave ili slame — tako i svest nastaje od svojih uslova. Svest nastalu od vida zovemo svest o viđenom, svest nastalu od sluha svest o čutom, i tako dalje. Ne postoji ista svest koja luta iz života u život. Ko to vidi, oslobađa se vezivanja.
+— Pogrešno si razumeo. Svest ne postoji sama po sebi. Ona od uslova nastaje, a bez uslova ne nastaje. Kao što vatru nazivamo prema gorivu — vatrom drveta, trave ili slame — tako i svest nastaje od svojih uslova. Svest nastalu od vida zovemo svest o viđenom, svest nastalu od sluha svest o čutom, i tako dalje. Ne postoji svest koja luta iz života u život. Ko to vidi, oslobađa se vezivanja.
