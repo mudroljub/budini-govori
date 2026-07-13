@@ -2,7 +2,7 @@
 
 Tako je govorio Gotama Budni:
 
-Ne znam nijedan oblik koji toliko zaokuplja um žene kao telo muškarca.
+Ne znam nijedan prizor koji toliko zaokuplja um žene kao telo muškarca.
 
 Ne znam nijedan glas koji toliko zaokuplja um žene kao glas muškarca.
 

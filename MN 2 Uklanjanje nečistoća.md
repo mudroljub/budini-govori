@@ -4,7 +4,7 @@ Tako je govorio Gotama Budni:
 
 Kada čovek razmišlja površno, nečistoće uma nastaju i jačaju. Kada razmišlja temeljno, nečistoće uma slabe i nestaju. 
 
-Neke nečistoće uklanjamo uvidom. Ako čovek ne zna o čemu vredi razmišljati, on svojim mislima pojačava žeđ, vezanost i neznanje. Ako razmišlja: "Jesam li postojao u prošlosti? Hoću li postojati u budućnosti? Ko sam? Odakle dolazim? Kuda idem?", tada nastaje mreža gledišta u koju se on upliće. Ali mudar čovek razlikuje korisne misli od štetnih. Zato neguje misli koje umanjuju žeđ, vezanost i neznanje.
+Neke nečistoće uklanjamo uvidom. Ako čovek ne zna o čemu vredi razmišljati, on mislima pojačava žeđ, vezanost i neznanje. Ako razmišlja: "Jesam li postojao u prošlosti? Hoću li postojati u budućnosti? Ko sam? Odakle dolazim? Kuda idem?", tada stvara mrežu gledišta u koju se upliće. Ali mudar čovek razlikuje korisne misli od štetnih. Zato neguje misli koje smanjuju žeđ, vezanost i neznanje.
 
 Neke nečistoće uklanjamo pažnjom. Mudar čovek pazi na svoja čula — na vid, sluh, njuh, ukus, dodir i misli — ne dopuštajući da izazovu štetna stanja u njemu.
 

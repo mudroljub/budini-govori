@@ -30,12 +30,12 @@ Sledećeg dana ustade još kasnije.
 
 Ovoga puta Videjka je razbesnela i psovala. Kali pomisli:
 
-— Bes je još uvek u njoj. Hajde da je još malo stavim na probu.
+— Bes je još u njoj. Hajde da je još malo stavim na probu.
 
-Trećeg dana ustade još kasnije. Videjka se toliko razbesnela da uze oklagiju, udari služavku i razbi joj glavu. Kali tada, okrvavljene glave, ode među susede govoreći:
+Trećeg dana ustade još kasnije. Videjka se toliko razbesne da uze oklagiju, udari služavku i razbi joj glavu. Kali tada, krvave glave, ode među susede govoreći:
 
 — Pogledajte tu ljubaznu, blagu i smirenu ženu! Samo zato što sam ustala kasnije, oklagijom mi je razbila glavu!
 
 Od tada se o Videjki više nije govorilo kao o blagoj i smirenoj, već kao o gruboj i nasilnoj osobi.
 
-Isto tako, i neki duhovnici deluju blagi i smireni dok neprijatan govor ne dođe do njih. A kada neprijatan govor dođe do njih, tada vidite kakvi zaista jesu. 
+Isto tako, neki duhovnici deluju blagi i smireni dok im se ne protivreči. A kada im se protivreči, tada vidite kakvi zaista jesu. 
