@@ -1,12 +1,12 @@
 # MN 56 / MA 133: Težina dela i misli
 
-Gotama je boravio kraj Nalande, gde se nalazio čuveni učitelj Mahavira sa svojom školom. Tada Upali, Mahavirin pristaša, dođe kod Gotame i reče:
+Gotama je boravio kraj Nalande, gde se nalazio učitelj Mahavira sa svojom školom. Tada Upali, Mahavirin pristaša, dođe kod Gotame i reče:
 
 — Dela su najodgovornija za dobro i zlo.
 
 Gotama ga upita:
 
-— Zamisli asketu koji se zavetovao da neće koristiti hladnu vodu. Razboli se i život mu bude ugrožen, ali ipak odbije hladnu vodu i koristi samo toplu. Zatim umre. Gde bi se, po Mahavirinom učenju, preporodio?
+— Zamisli asketu koji se zavetovao da neće koristiti hladnu vodu. Razboli se i život mu bude ugrožen, ali ipak odbije hladnu vodu. Zatim umre. Gde bi se, po Mahavirinom učenju, preporodio?
 
 — Među bićima vezanog uma, jer mu je um ostao vezan.
 

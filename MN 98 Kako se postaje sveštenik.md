@@ -16,6 +16,6 @@ Gotama odgovori:
 
 — Ko obrađuje zemlju, taj je zemljoradnik. Ko se bavi zanatom, taj je zanatlija. Ko trguje, taj je trgovac. Ko služi drugima, taj je sluga. Ko krade, taj je lopov. Ko ratuje, taj je vojnik. Ko prinosi žrtve, taj je žrec.
 
-— Ja ne nazivam čoveka sveštenikom zbog njegovog porekla. Sveštenik je onaj ko je bez mržnje, bez vezanosti i bez oholosti. Ko ne čini nasilje nad drugima. Ko je dostigao mir i oslobođenje.
+— Ja ne nazivam čoveka sveštenikom zbog njegovog porekla. Sveštenik je onaj ko je bez mržnje, bez vezanosti i bez nadmenosti. Ko ne čini nasilje nad drugima. Ko je dostigao mir i oslobođenje.
 
 — Iz neznanja ljudi govore: Sveštenik se postaje rođenjem. Ali ja kažem: Niko nije sveštenik po rođenju. Delima neko postaje sveštenik, a delima nesveštenik. Delima neko postaje zemljoradnik, zanatlija, trgovac, sluga, vojnik ili vladar. Dela pokreću svet. Bića su vezana za svoja dela kao kola vezana za osovinu.

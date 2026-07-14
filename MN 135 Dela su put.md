@@ -26,7 +26,7 @@ Zavist je put bezuglednosti. Radovanje tuđem uspehu je put ugleda.
 
 Nedarežljivost je put siromaštva. Darežljivost je put bogatstva.
 
-Oholost je put niskog porekla. Poštovanje je put uglednog porekla.
+Nadmenost je put niskog porekla. Poštovanje je put uglednog porekla.
 
 Neispitivanje dobra i zla je put gluposti. Traženje istine je put mudrosti.
 
