@@ -1,4 +1,4 @@
-# MN 60: Neoborivo učenje
+# MN 60: Sigurno učenje
 
 Jednom je Gotama došao u selo Sala u zemlji Kosala. Tamošnji učenjaci dođoše da ga posete. Gotama ih upita:
 

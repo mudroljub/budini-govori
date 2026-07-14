@@ -1,4 +1,4 @@
-# MN 7 / MA 93: Poređenje sa tkaninom
+# MN 7 / MA 93: Um je kao tkanina
 
 Tako je govorio Gotama Budni:
 

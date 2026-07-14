@@ -2,7 +2,7 @@
 
 Princ Nebojša pozva Gotamu na ručak i posle obeda upita:
 
-— Hoće li Gotama govoriti ono što se drugima ne sviđa?
+— Govori li Gotama reči koje ljudima nisu prijatne?
 
 Nebojša je držao malog sina u krilu. Gotama ga upita:
 
@@ -10,7 +10,7 @@ Nebojša je držao malog sina u krilu. Gotama ga upita:
 
 — Izvadio bih ga, čak i ako bih mu pritom raskrvario grlo. Učinio bih to iz samilosti prema detetu.
 
-— Isto tako i ja govorim iz samilosti. Ono što nije istinito i korisno ne govorim, bilo da je ljudima prijatno ili neprijatno. Ono što jeste istinito, ali nije korisno, takođe ne govorim. Ali ono što je istinito i korisno, bilo prijatno ili neprijatno, govorim kada za to dođe pravo vreme.
+— Isto tako i ja govorim iz samilosti. Ono što nije istinito i korisno ne govorim, bilo da je ljudima prijatno ili neprijatno. Ono što jeste istinito, ali nije korisno, takođe ne govorim. Ali ono što je istinito i korisno, bilo prijatno ili neprijatno, govorim u pravo vreme.
 
 Nebojša zatim upita:
 
@@ -24,4 +24,4 @@ Nebojša zatim upita:
 
 — Ne. Odgovaram iz glave, jer ih dobro poznajem.
 
-— Tako je i sa mnom. Odgovaram iz glave, jer razumem prirodu stvari.
+— Tako je i sa mnom. Odgovaram iz glave, jer to dobro poznajem.
