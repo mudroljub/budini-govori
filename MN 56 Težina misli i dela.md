@@ -1,8 +1,8 @@
-# MN 56 / MA 133: Težina dela i misli
+# MN 56 / MA 133: Težina misli i dela
 
 Gotama je boravio kraj Nalande, gde se nalazio učitelj Mahavira sa svojom školom. Tada Upali, Mahavirin pristaša, dođe kod Gotame i reče:
 
-— Dela su najodgovornija za dobro i zlo.
+— Dela imaju najveću težinu.
 
 Gotama ga upita:
 
@@ -10,7 +10,7 @@ Gotama ga upita:
 
 — Među bićima vezanog uma, jer mu je um ostao vezan.
 
-— Tvoj odgovor protivreči onome što si tvrdio na početku.
+— Onda nije delo ono što presuđuje, nego stanje uma.
 
 — I pored toga, dela imaju veći značaj.
 
@@ -22,11 +22,11 @@ Gotama ga upita:
 
 — Tada ga treba osuditi.
 
-— A kojoj vrsti postupaka pripada namera: delima, govoru ili mislima?
+— Da li je namera delo, govor ili misao?
 
-— Mislima.
+— Misao.
 
-— Tvoj odgovor protivreči onome što si tvrdio na početku.
+— Onda i sam priznaješ da misao nosi veću težinu od dela.
 
 — I pored toga, dela imaju veći značaj.
 
