@@ -131,7 +131,7 @@ Glavni pojmovi:
 - rāga - privlačnost, obojenost
 - rūpa - telo
 - samādhi - sabranost
-- saṅkhārā - obrasci
+- saṅkhārā - obrasci, tvorevine
 - saṅkilesa - kaljanje, prljanje
 - saññā - predstava, predodžba
 - sati - svesnost; pažnja kada je prirodnije
