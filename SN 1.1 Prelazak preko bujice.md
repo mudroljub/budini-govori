@@ -2,8 +2,8 @@
 
 Tako je govorio Gotama Budni: 
 
-Prešao sam preko bujice ne zaustavljajući se i ne jureći napred. 
+Prešao sam preko ove bujice ne zaustavljajući se i ne jureći napred. 
 
 Kada sam se zaustavljao, tonuo sam. Kada sam jurio napred, upadao sam u vrtlog. 
 
-Tako sam prešao preko bujice: ne zaustavljajući se i ne jureći napred.
+Tako sam prešao preko bujice: ne zaustavljajući se i ne jureći.

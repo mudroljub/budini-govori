@@ -2,7 +2,7 @@
 
 Jednom prilikom kraljević Bodi upita Gotamu:
 
-— Koliko je vremena potrebno učeniku da dostigne cilj pod tvojim vođstvom?
+— Koliko vremena treba učeniku da dostigne cilj pod tvojim vođstvom?
 
 Gotama odgovori pitanjem:
 

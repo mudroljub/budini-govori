@@ -16,4 +16,4 @@ Sakuludajin odgovori:
 
 — Svakako bi.
 
-— Tako je i sa tvrdnjom da postoji savršena lepota. Ako se ne može reći šta je ona ni kako se do nje dolazi, takve reči ne znače mnogo.
+— Tako je i sa tvrdnjom da postoji savršena lepota. Ako ne možeš objasniti šta je ona ni kako se do nje dolazi, tvoje reči su prazne.

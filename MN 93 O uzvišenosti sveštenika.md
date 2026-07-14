@@ -1,6 +1,6 @@
 # MN 93: O uzvišenosti sveštenika
 
-Sveštenicima iz Savatija smetalo je što Gotama podučava da su ljudi po rođenju jednaki. Zato poslaše mladog i učenog Asalajanu da raspravlja s njim. Došavši kod Gotame, on reče:
+Sveštenicima iz Savatija smetalo je što Gotama podučava da su ljudi po rođenju jednaki. Zato poslaše mladog i učenog Asalajanu kod njega. Došavši kod Gotame, on reče:
 
 — Sveštenici tvrde da su najviši među ljudima, da su jedini čisti, potomci Boga, rođeni iz njegovih usta. Šta ti kažeš na to?
 
@@ -56,7 +56,7 @@ Gotama upita:
 
 Gotama upita:
 
-— Zamisli da sveštenici zapale jednu vatru, a oni rođeni među nedodirljivima drugu. Hoće li te vatre biti različite?
+— Zamisli da sveštenici zapale jednu vatru, a rođeni među nedodirljivima drugu. Hoće li te vatre biti različite?
 
 — Ne. Svaka vatra ima isti plamen, sjaj i toplotu.
 
@@ -76,17 +76,17 @@ Gotama upita:
 
 — Da li je mazga konj ili magarac?
 
-— Nije ni jedno ni drugo. Među životinjama se razlika između vrsta jasno vidi.
+— Ni jedno ni drugo. Među životinjama se razlika između vrsta jasno vidi.
 
 Gotama dalje upita:
 
-— Zamisli dvojicu braće sveštenika. Jedan je učen, a drugi neuk. Kome bi sveštenici ukazali veću čast?
+— Zamisli dvojicu braće sveštenika, jedan učen, a drugi neuk. Kome bi sveštenici ukazali veću čast?
 
 — Učenome.
 
 Gotama upita:
 
-— A ako je učeni brat nemoralan, a neuki čestit? Kome bi sveštenici ukazali veću čast?
+— A ako je učen brat nemoralan, a neuk čestit? Kome bi sveštenici ukazali veću čast?
 
 — Čestitom.
 
