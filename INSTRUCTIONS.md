@@ -122,7 +122,7 @@ Glavni pojmovi:
 - mettā - ljubav, dobronamernost
 - moha - zabluda, obmana
 - namarupa - ime-telo
-- nibbāna / nirvana - gašenje; nirvana kada je pojam naslovan ili ustaljen
+- nibbāna / nirvana - gašenje, ugasnuće; nirvana kada je pojam naslovan ili ustaljen
 - nibbidā - odvratnost, odbojnost
 - nibbindati - odvraćati se
 - nissaraṇa - izlaz
@@ -131,6 +131,7 @@ Glavni pojmovi:
 - rāga - privlačnost, obojenost
 - rūpa - telo
 - samādhi - sabranost
+- samsara - sastruja, sutok
 - saṅkhārā - obrasci, tvorevine
 - saṅkilesa - kaljanje, prljanje
 - saññā - predstava, predodžba
